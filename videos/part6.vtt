@@ -1,0 +1,277 @@
+WEBVTT
+
+00:00.450 --> 00:03.976
+This is Part 6: fix problems and old systems.
+
+00:03.926 --> 00:05.454
+Look at the colour.
+
+00:05.454 --> 00:07.317
+It tells you what's wrong.
+
+00:08.282 --> 00:10.963
+Dim or yellow lights mean voltage drop.
+
+00:10.913 --> 00:13.425
+They're too far from the last injection.
+
+00:13.425 --> 00:15.485
+Add an injection closer.
+
+00:15.485 --> 00:19.281
+Check it's every fifty lights, and use sixteen gauge feeder.
+
+00:19.281 --> 00:21.735
+Solid blue means signal loss.
+
+00:21.735 --> 00:24.281
+No data is reaching those lights.
+
+00:24.281 --> 00:26.943
+Check every connector, plus to plus.
+
+00:26.943 --> 00:29.489
+The booster arrow must point to the lights.
+
+00:29.489 --> 00:33.610
+Change a bad booster, and change the first blue light if it's damaged.
+
+00:33.610 --> 00:36.827
+Solid white means a signal booster is missing or dead.
+
+00:36.827 --> 00:38.934
+Put one in, or change it.
+
+00:38.934 --> 00:41.931
+You need one on any extension over ten feet.
+
+00:42.874 --> 00:46.064
+Flicker means two power flows are meeting and fighting.
+
+00:46.014 --> 00:48.665
+Check the positive is cut at the injection.
+
+00:48.665 --> 00:54.695
+Move the injection further down the run, and add a booster just before the T. Wrong colours, or no response?
+
+00:54.695 --> 00:56.651
+The app setting is wrong.
+
+00:56.651 --> 01:01.824
+Set the IC type to Common RGBW, and the light count to the exact number put up.
+
+01:01.824 --> 01:03.456
+A breaker trips?
+
+01:03.456 --> 01:06.304
+Too many lights on that circuit, or a short.
+
+01:06.304 --> 01:07.855
+Count the lights.
+
+01:07.855 --> 01:09.637
+Over fifty-six?
+
+01:09.637 --> 01:10.922
+Split it.
+
+01:10.922 --> 01:13.202
+Look for a pinched or cut wire.
+
+01:13.202 --> 01:15.308
+Never put in a bigger breaker.
+
+01:15.308 --> 01:17.276
+The whole box shuts off?
+
+01:17.276 --> 01:19.290
+The supply is overloaded.
+
+01:19.290 --> 01:22.415
+Unplug it for five minutes, then do Test C.
+
+01:22.415 --> 01:25.308
+Over twenty amps on a six hundred watt box?
+
+01:25.308 --> 01:28.352
+Move lights to another box, and call your lead.
+
+01:29.298 --> 01:31.470
+Long runs lose volts.
+
+01:31.420 --> 01:34.267
+We tested fifty feet of twenty gauge wire.
+
+01:34.267 --> 01:38.098
+In at twenty-four point one volts, out at twenty-two point seven.
+
+01:38.098 --> 01:42.010
+That's a five point eight percent drop, past our five percent limit.
+
+01:42.010 --> 01:46.350
+Our fifty-light groups are only thirty-three feet, and that keeps the drop small.
+
+01:46.350 --> 01:48.769
+The fix is never a bigger supply.
+
+01:48.769 --> 01:50.702
+It's a closer injection.
+
+01:51.650 --> 01:55.465
+On a service call, first find out which system you're standing under.
+
+01:55.415 --> 01:59.732
+Mark 1: our first boxes, three fifty watts at twelve volts.
+
+01:59.732 --> 02:02.672
+One wire per injection, but no breakers.
+
+02:02.672 --> 02:04.049
+Don't touch it.
+
+02:04.050 --> 02:06.411
+Write the address and tell your lead.
+
+02:06.411 --> 02:11.156
+Mark 2: the old board, four fifty to six hundred watts at twenty-four volts.
+
+02:11.156 --> 02:16.746
+Often one fourteen-two feeding many injections, and only two five amp breakers in the whole box.
+
+02:16.746 --> 02:18.124
+Don't touch it.
+
+02:18.124 --> 02:20.543
+It's first in line for a retrofit.
+
+02:20.543 --> 02:23.610
+Mark 3: the new board with six breakers.
+
+02:23.610 --> 02:28.066
+One feeder per circuit, four amps each, positive cut at every injection.
+
+02:28.066 --> 02:29.906
+That's normal service.
+
+02:29.906 --> 02:33.378
+Stay inside fifty, max fifty-six lights.
+
+02:33.378 --> 02:36.492
+Never change a Mark 1 or Mark 2 in the field.
+
+02:36.492 --> 02:38.656
+Book it for a proper retrofit.
+
+02:39.610 --> 02:45.115
+Stop and call your lead if you see: lights wired straight into the supply, with no breaker or fuse.
+
+02:45.065 --> 02:48.040
+One wire feeding two or more injections.
+
+02:48.040 --> 02:50.945
+More than fifty-six lights between injections.
+
+02:50.945 --> 02:52.993
+Any twelve volt system.
+
+02:52.993 --> 02:55.725
+A breaker that trips when the client picks white.
+
+02:55.725 --> 03:00.343
+Wire through a wall with no ETL, CSA or UL number.
+
+03:00.343 --> 03:04.359
+Wire that looks brown, stiff or melted, or smells burnt.
+
+03:04.359 --> 03:06.361
+Or solid copper wire.
+
+03:07.314 --> 03:10.099
+Never add lights to a Mark 1 or Mark 2.
+
+03:10.049 --> 03:11.704
+They're already full.
+
+03:11.704 --> 03:14.517
+Never put in a bigger breaker to stop trips.
+
+03:14.517 --> 03:17.538
+And never leave an old run live without metering it.
+
+03:17.538 --> 03:19.424
+What do you tell the client?
+
+03:19.424 --> 03:21.751
+We moved to a new power system.
+
+03:21.751 --> 03:24.632
+It's more reliable and protects the circuit better.
+
+03:24.632 --> 03:27.838
+You're on our list for the upgrade, and there's no charge.
+
+03:27.838 --> 03:30.153
+Don't talk about fire or blame.
+
+03:30.153 --> 03:32.850
+If they keep asking, it goes to your lead.
+
+03:33.818 --> 03:38.779
+There are three ways to fix an old job, and each one starts with the power off at the breaker.
+
+03:38.729 --> 03:43.463
+A: a new board, when the old job already has one wire per injection.
+
+03:43.463 --> 03:47.977
+Each old wire goes on its own four amp circuit, and the controller on its own.
+
+03:47.977 --> 03:51.252
+Count the lights per group and split any over fifty-six.
+
+03:51.252 --> 03:55.326
+B: new wire, when one wire feeds many injections.
+
+03:55.326 --> 04:01.183
+Find every injection point, pull new sixteen-two to each one, and cut the positive at every injection.
+
+04:01.183 --> 04:06.229
+C: a small Class 2 driver at a plug near the roofline, mounted in an enclosure.
+
+04:06.229 --> 04:07.861
+Cut the positive.
+
+04:07.861 --> 04:11.623
+The driver feeds forward, and data still runs from the box.
+
+04:11.623 --> 04:13.648
+Then meter on Pure White.
+
+04:13.648 --> 04:16.518
+For A and B, do Test C too.
+
+04:17.482 --> 04:18.716
+Recap.
+
+04:18.666 --> 04:21.027
+Dim or yellow is voltage drop.
+
+04:21.027 --> 04:23.412
+Solid blue is signal loss.
+
+04:23.412 --> 04:25.495
+Solid white is the booster.
+
+04:25.495 --> 04:27.960
+Flicker means the positive isn't cut.
+
+04:27.960 --> 04:30.680
+Mark 1 and Mark 2: don't touch.
+
+04:30.680 --> 04:32.659
+And never a bigger breaker.
+
+04:33.618 --> 04:35.315
+That's Part 6.
+
+04:35.265 --> 04:38.274
+Now take the Part 6 quiz in your training portal.
