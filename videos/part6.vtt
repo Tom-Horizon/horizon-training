@@ -1,277 +1,301 @@
 WEBVTT
 
-00:00.450 --> 00:03.976
-This is Part 6: fix problems and old systems.
+00:00.450 --> 00:04.277
+This is Part 7: safety, tools, and job day.
 
-00:03.926 --> 00:05.454
-Look at the colour.
+00:04.227 --> 00:07.572
+You keep yourself, and everyone on site, safe.
 
-00:05.454 --> 00:07.317
-It tells you what's wrong.
+00:08.522 --> 00:13.460
+Every job needs a Field Hazard Assessment, filled in and signed before work starts.
 
-00:08.282 --> 00:10.963
-Dim or yellow lights mean voltage drop.
+00:13.410 --> 00:15.100
+No exceptions.
 
-00:10.913 --> 00:13.425
-They're too far from the last injection.
+00:15.100 --> 00:17.507
+The whole crew reads it and signs.
 
-00:13.425 --> 00:15.485
-Add an injection closer.
+00:17.507 --> 00:23.572
+Working up high, over six feet: a rated ladder, three-point contact, and a partner at the base.
 
-00:15.485 --> 00:19.281
-Check it's every fifty lights, and use sixteen gauge feeder.
+00:23.572 --> 00:28.236
+Wet or icy ground: wait for dry, or use non-slip boots and caution tape.
 
-00:19.281 --> 00:21.735
-Solid blue means signal loss.
+00:28.236 --> 00:31.442
+Power lines within ten feet: move the ladder.
 
-00:21.735 --> 00:24.281
-No data is reaching those lights.
+00:31.442 --> 00:35.215
+Bumpy or soft ground: ladder levelers or solid boards.
 
-00:24.281 --> 00:26.943
-Check every connector, plus to plus.
+00:35.215 --> 00:38.965
+Cars or people walking by: cones out, hi-vis on.
 
-00:26.943 --> 00:29.489
-The booster arrow must point to the lights.
+00:38.965 --> 00:43.248
+High wind, lightning or deep cold: put it off if it's not safe.
 
-00:29.489 --> 00:33.610
-Change a bad booster, and change the first blue light if it's damaged.
+00:43.248 --> 00:47.102
+Sharp scraps: cut-proof gloves, and bag them right away.
 
-00:33.610 --> 00:36.827
-Solid white means a signal booster is missing or dead.
+00:48.058 --> 00:49.859
+You must have these first.
 
-00:36.827 --> 00:38.934
-Put one in, or change it.
+00:49.809 --> 00:54.381
+WHMIS, for the safe use of chemicals like sealants and solvents.
 
-00:38.934 --> 00:41.931
-You need one on any extension over ten feet.
+00:54.381 --> 00:56.036
+It must be current.
 
-00:42.874 --> 00:46.064
-Flicker means two power flows are meeting and fighting.
+00:56.036 --> 01:00.457
+Working at Heights: ladders, three-point contact, and fall safety.
 
-00:46.014 --> 00:48.665
-Check the positive is cut at the injection.
+01:00.458 --> 01:07.136
+And electrical safety: know a hundred twenty volt dangers, GFCI plugs, and safe work near live power.
 
-00:48.665 --> 00:54.695
-Move the injection further down the run, and add a booster just before the T. Wrong colours, or no response?
+01:07.136 --> 01:09.427
+Keep copies of your certificates.
 
-00:54.695 --> 00:56.651
-The app setting is wrong.
+01:10.386 --> 01:11.667
+Ladders.
 
-00:56.651 --> 01:01.824
-Set the IC type to Common RGBW, and the light count to the exact number put up.
+01:11.617 --> 01:15.887
+Use a CSA or ANSI ladder rated for you plus your tools.
 
-01:01.824 --> 01:03.456
-A breaker trips?
+01:15.887 --> 01:19.545
+Set it at four to one: one foot out for every four feet up.
 
-01:03.456 --> 01:06.304
-Too many lights on that circuit, or a short.
+01:20.498 --> 01:27.068
+On pavement, on bumpy ground, or in wind, a partner holds the base, with both hands on the side rails.
 
-01:06.304 --> 01:07.855
-Count the lights.
+01:27.970 --> 01:32.943
+Keep three points of contact at all times, and move one hand or one foot at a time.
 
-01:07.855 --> 01:09.637
-Over fifty-six?
+01:32.893 --> 01:36.654
+Tools go in your tool belt, never in your hands while you climb.
 
-01:09.637 --> 01:10.922
-Split it.
+01:36.654 --> 01:39.201
+Keep your belt buckle between the rails.
 
-01:10.922 --> 01:13.202
-Look for a pinched or cut wire.
+01:39.201 --> 01:41.064
+Don't reach too far.
 
-01:13.202 --> 01:15.308
-Never put in a bigger breaker.
+01:41.064 --> 01:44.027
+And stay ten feet away from power lines.
 
-01:15.308 --> 01:17.276
-The whole box shuts off?
+01:44.970 --> 01:49.017
+On a roof, use a harness, a lanyard, and a roof anchor.
 
-01:17.276 --> 01:19.290
-The supply is overloaded.
+01:48.967 --> 01:52.265
+No ladder in high wind, rain or lightning.
 
-01:19.290 --> 01:22.415
-Unplug it for five minutes, then do Test C.
+01:52.265 --> 01:55.714
+And with gusts over sixty kilometres an hour, no ladder.
 
-01:22.415 --> 01:25.308
-Over twenty amps on a six hundred watt box?
+01:56.666 --> 01:58.063
+Electrical.
 
-01:25.308 --> 01:28.352
-Move lights to another box, and call your lead.
+01:58.013 --> 02:00.420
+The lights run at twenty-four volts.
 
-01:29.298 --> 01:31.470
-Long runs lose volts.
+02:00.420 --> 02:03.660
+That's low, and not dangerous in normal use.
 
-01:31.420 --> 01:34.267
-We tested fifty feet of twenty gauge wire.
+02:03.660 --> 02:07.931
+But the box plugs into a hundred twenty volt wall power, and that can hurt you.
 
-01:34.267 --> 01:38.098
-In at twenty-four point one volts, out at twenty-two point seven.
+02:07.931 --> 02:10.825
+Always use a GFCI outdoor plug.
 
-01:38.098 --> 01:42.010
-That's a five point eight percent drop, past our five percent limit.
+02:10.825 --> 02:13.753
+Never touch the box or plug with wet hands.
 
-01:42.010 --> 01:46.350
-Our fifty-light groups are only thirty-three feet, and that keeps the drop small.
+02:13.753 --> 02:16.785
+Never change the cord, or get around a breaker.
 
-01:46.350 --> 01:48.769
-The fix is never a bigger supply.
+02:16.785 --> 02:19.031
+GFCI keeps tripping?
 
-01:48.769 --> 01:50.702
-It's a closer injection.
+02:19.031 --> 02:21.114
+Stop and find out why.
 
-01:51.650 --> 01:55.465
-On a service call, first find out which system you're standing under.
+02:21.114 --> 02:22.792
+Don't just reset it.
 
-01:55.415 --> 01:59.732
-Mark 1: our first boxes, three fifty watts at twelve volts.
+02:22.792 --> 02:26.322
+And unplug from the wall before you change anything in the box.
 
-01:59.732 --> 02:02.672
-One wire per injection, but no breakers.
+02:27.274 --> 02:28.855
+The job site.
 
-02:02.672 --> 02:04.049
-Don't touch it.
+02:28.805 --> 02:33.516
+Look first: ice, wet spots, soft ground, and things overhead.
 
-02:04.050 --> 02:06.411
-Write the address and tell your lead.
+02:33.516 --> 02:36.028
+Put cones under where you work up high.
 
-02:06.411 --> 02:11.156
-Mark 2: the old board, four fifty to six hundred watts at twenty-four volts.
+02:36.028 --> 02:39.176
+Wear a hi-vis vest near roads and driveways.
 
-02:11.156 --> 02:16.746
-Often one fourteen-two feeding many injections, and only two five amp breakers in the whole box.
+02:39.176 --> 02:41.132
+Keep it tidy all day.
 
-02:16.746 --> 02:18.124
-Don't touch it.
+02:41.132 --> 02:45.241
+Coil cables, bag garbage, and put sharp tools in a pouch.
 
-02:18.124 --> 02:20.543
-It's first in line for a retrofit.
+02:45.241 --> 02:47.613
+Pick up track offcuts right away.
 
-02:20.543 --> 02:23.610
-Mark 3: the new board with six breakers.
+02:47.613 --> 02:49.465
+Cut edges cut deep.
 
-02:23.610 --> 02:28.066
-One feeder per circuit, four amps each, positive cut at every injection.
+02:50.418 --> 02:52.000
+Safety gear.
 
-02:28.066 --> 02:29.906
-That's normal service.
+02:51.950 --> 02:55.780
+Safety glasses for every cut, and any time bits can fly.
 
-02:29.906 --> 02:33.378
-Stay inside fifty, max fifty-six lights.
+02:55.780 --> 02:58.593
+Cut-proof gloves when you handle or cut track.
 
-02:33.378 --> 02:36.492
-Never change a Mark 1 or Mark 2 in the field.
+02:58.593 --> 03:01.475
+CSA work boots for all site work.
 
-02:36.492 --> 02:38.656
-Book it for a proper retrofit.
+03:01.475 --> 03:03.500
+Steel toe is best.
 
-02:39.610 --> 02:45.115
-Stop and call your lead if you see: lights wired straight into the supply, with no breaker or fuse.
+03:03.500 --> 03:06.371
+A hi-vis vest near a road or driveway.
 
-02:45.065 --> 02:48.040
-One wire feeding two or more injections.
+03:06.371 --> 03:09.044
+A hard hat when someone works above you.
 
-02:48.040 --> 02:50.945
-More than fifty-six lights between injections.
+03:09.044 --> 03:12.343
+And a full first aid kit, easy to reach in the truck.
 
-02:50.945 --> 02:52.993
-Any twelve volt system.
+03:12.343 --> 03:15.908
+Knee pads are a good idea for long kneeling on concrete.
 
-02:52.993 --> 02:55.725
-A breaker that trips when the client picks white.
+03:16.874 --> 03:23.108
+Tools you must have: a drill or impact, eighteen volts or more, with bits and a charged spare battery.
 
-02:55.725 --> 03:00.343
-Wire through a wall with no ETL, CSA or UL number.
+03:23.058 --> 03:25.396
+Left and right cut metal snips.
 
-03:00.343 --> 03:04.359
-Wire that looks brown, stiff or melted, or smells burnt.
+03:25.396 --> 03:29.933
+A CSA or ANSI extension ladder, the right size for the roof.
 
-03:04.359 --> 03:06.361
-Or solid copper wire.
+03:29.933 --> 03:32.051
+Two tape measures per crew.
 
-03:07.314 --> 03:10.099
-Never add lights to a Mark 1 or Mark 2.
+03:32.051 --> 03:40.338
+A level or speed square, a utility knife, a wire stripper and crimper, a chalk line and pencil, and a rubber mallet to seat lights without cracking them.
 
-03:10.049 --> 03:11.704
-They're already full.
+03:40.338 --> 03:44.042
+A twelve gauge outdoor extension cord for testing on the ground.
 
-03:11.704 --> 03:14.517
-Never put in a bigger breaker to stop trips.
+03:44.042 --> 03:46.530
+A clamp meter, and a multimeter.
 
-03:14.517 --> 03:17.538
-And never leave an old run live without metering it.
+03:47.482 --> 03:49.966
+On job day, you're Horizon.
 
-03:17.538 --> 03:19.424
-What do you tell the client?
+03:49.916 --> 03:51.490
+Be on time.
 
-03:19.424 --> 03:21.751
-We moved to a new power system.
+03:51.490 --> 03:52.960
+Running late?
 
-03:21.751 --> 03:24.632
-It's more reliable and protects the circuit better.
+03:52.960 --> 03:55.634
+Text or call the client thirty minutes ahead.
 
-03:24.632 --> 03:27.838
-You're on our list for the upgrade, and there's no charge.
+03:55.634 --> 03:58.169
+Wear clean Horizon work clothes.
 
-03:27.838 --> 03:30.153
-Don't talk about fire or blame.
+03:58.169 --> 04:01.745
+Say hi, and tell the client your name and your crew's names.
 
-03:30.153 --> 03:32.850
-If they keep asking, it goes to your lead.
+04:01.745 --> 04:06.525
+No smoking, vaping, loud music, or personal calls where the client can see.
 
-03:33.818 --> 03:38.779
-There are three ways to fix an old job, and each one starts with the power off at the breaker.
+04:06.525 --> 04:09.569
+No damage to plants, siding or gutters.
 
-03:38.729 --> 03:43.463
-A: a new board, when the old job already has one wire per injection.
+04:09.569 --> 04:13.157
+Find something odd, like hidden wire or rotten fascia?
 
-03:43.463 --> 03:47.977
-Each old wire goes on its own four amp circuit, and the controller on its own.
+04:13.157 --> 04:17.972
+Stop, tell the client, and take a dated photo of old damage before you start.
 
-03:47.977 --> 03:51.252
-Count the lights per group and split any over fifty-six.
+04:17.972 --> 04:21.826
+And no loud tools before eight a.m. or after six p.m.
 
-03:51.252 --> 03:55.326
-B: new wire, when one wire feeds many injections.
+04:22.794 --> 04:24.387
+Dress for the weather.
 
-03:55.326 --> 04:01.183
-Find every injection point, pull new sixteen-two to each one, and cut the positive at every injection.
+04:24.337 --> 04:31.212
+Over twenty-five degrees: sunscreen, light long sleeves, a hat, extra water, and a shade break every hour.
 
-04:01.183 --> 04:06.229
-C: a small Class 2 driver at a plug near the roofline, mounted in an enclosure.
+04:31.212 --> 04:35.552
+Under five degrees: warm boots, layers, and warm gloves.
 
-04:06.229 --> 04:07.861
-Cut the positive.
+04:35.552 --> 04:38.724
+Cold fingers slow you down and cause accidents.
 
-04:07.861 --> 04:11.623
-The driver feeds forward, and data still runs from the box.
+04:38.724 --> 04:42.948
+Rain: a rain jacket and boots, and no ladder in heavy rain.
 
-04:11.623 --> 04:13.648
-Then meter on Pure White.
+04:42.948 --> 04:46.744
+Wind over forty kilometres an hour: tie down loose things.
 
-04:13.648 --> 04:16.518
-For A and B, do Test C too.
+04:47.714 --> 04:52.143
+Before you leave for the job: the FHA is read and signed by all crew.
 
-04:17.482 --> 04:18.716
+04:52.093 --> 04:54.361
+Feet measured, parts counted.
+
+04:54.361 --> 04:56.051
+Plan sheet done.
+
+04:56.051 --> 04:59.454
+Box spot picked, and GFCI plug found.
+
+04:59.454 --> 05:00.947
+Parts loaded.
+
+05:00.947 --> 05:03.458
+Clamp meter and multimeter in the truck.
+
+05:03.458 --> 05:05.553
+Tools loaded and charged.
+
+05:05.553 --> 05:08.250
+Client time confirmed, weather checked.
+
+05:08.250 --> 05:10.912
+Ladder checked, and PPE packed.
+
+05:11.866 --> 05:13.100
 Recap.
 
-04:18.666 --> 04:21.027
-Dim or yellow is voltage drop.
+05:13.050 --> 05:15.735
+FHA signed before work starts.
 
-04:21.027 --> 04:23.412
-Solid blue is signal loss.
+05:15.735 --> 05:18.860
+Ladder at four to one, with a partner at the base.
 
-04:23.412 --> 04:25.495
-Solid white is the booster.
+05:18.860 --> 05:22.066
+Three points of contact, one limb at a time.
 
-04:25.495 --> 04:27.960
-Flicker means the positive isn't cut.
+05:22.066 --> 05:25.678
+GFCI plug, and unplug before box work.
 
-04:27.960 --> 04:30.680
-Mark 1 and Mark 2: don't touch.
+05:25.678 --> 05:29.752
+Glasses, gloves, boots, hi-vis and hard hat.
 
-04:30.680 --> 04:32.659
-And never a bigger breaker.
+05:29.752 --> 05:32.529
+And be on time, tidy and respectful.
 
-04:33.618 --> 04:35.315
-That's Part 6.
+05:33.498 --> 05:35.160
+That's Part 7.
 
-04:35.265 --> 04:38.274
-Now take the Part 6 quiz in your training portal.
+05:35.110 --> 05:38.131
+Now take the Part 7 quiz in your training portal.

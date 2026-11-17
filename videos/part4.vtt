@@ -1,307 +1,196 @@
 WEBVTT
 
-00:00.450 --> 00:02.969
-This is Part 4: install it.
+00:00.450 --> 00:03.386
+This is Part 5: test before you leave.
 
-00:02.919 --> 00:07.363
-The light string has the thinnest wire on the job, and everything we do protects it.
+00:03.336 --> 00:05.917
+If you didn't measure it, it's not finished.
 
-00:08.330 --> 00:11.983
-The lights come with thin twenty gauge wire, and we can't change it.
+00:06.866 --> 00:09.906
+Every job gets tested before the truck leaves.
 
-00:11.933 --> 00:17.165
-Everything we run up to it has one job: keep that thin wire at three point two amps or less.
+00:09.856 --> 00:15.296
+Three tests, all on Pure White, full bright, because that's the hardest the system ever works.
 
-00:17.165 --> 00:19.954
-A smaller gauge number means thicker wire.
+00:15.296 --> 00:17.356
+It takes about ten minutes.
 
-00:19.954 --> 00:22.176
-Fourteen gauge is thickest.
+00:18.322 --> 00:20.899
+Test A: amps on each circuit.
 
-00:22.176 --> 00:25.267
-It works, but use up stock, don't buy more.
+00:20.849 --> 00:23.696
+Set everything to Pure White, full bright.
 
-00:25.267 --> 00:27.871
-Sixteen gauge is our feeder wire.
+00:23.696 --> 00:27.539
+Clamp the meter around the positive feeder of one circuit, at the box.
 
-00:27.871 --> 00:30.834
-Eighteen gauge is fine for one circuit too.
+00:27.539 --> 00:30.096
+One wire only, not both.
 
-00:30.834 --> 00:33.530
-Thicker wire doesn't make the job safer.
+00:30.097 --> 00:32.284
+Read it, and write it down.
 
-00:33.530 --> 00:36.019
-The thin twenty gauge is still the limit.
+00:32.284 --> 00:34.020
+Do every circuit.
 
-00:36.970 --> 00:42.510
-Feeder wire to an injection: sixteen-two or eighteen-two, FT-4, stranded.
+00:34.986 --> 00:37.806
+Three point oh amps or less is a pass.
 
-00:42.460 --> 00:45.284
-Thirty feet max from the box to the injection.
+00:37.756 --> 00:39.747
+Write it down and move on.
 
-00:45.284 --> 00:47.032
-Going through a wall?
+00:39.747 --> 00:42.571
+Three point oh to three point two is tight.
 
-00:47.032 --> 00:52.066
-The FT-4 needs an ETL, CSA or UL number printed on it.
+00:42.571 --> 00:46.066
+It's OK, but no lights can be added to that circuit later.
 
-00:52.066 --> 00:54.937
-No number, and it doesn't go through a wall.
+00:46.066 --> 00:47.895
+Write FULL on the sheet.
 
-00:54.937 --> 00:56.626
-No exceptions.
+00:47.895 --> 00:50.302
+Over three point two is a fail.
 
-00:56.626 --> 00:59.439
-And stranded copper only, never solid.
+00:50.302 --> 00:51.946
+Too many lights.
 
-00:59.439 --> 01:02.518
-Solid wire gets hard and snaps at the ends.
+00:51.946 --> 00:54.156
+Split it and add an injection.
 
-01:03.474 --> 01:05.079
-Keep water out.
+00:54.156 --> 00:55.904
+Don't leave it like that.
 
-01:05.029 --> 01:08.755
-Put dielectric grease on the O-ring before you push a plug together.
+00:55.904 --> 00:59.133
+And a breaker that trips on Pure White is a fail too.
 
-01:08.755 --> 01:11.603
-The O-ring does the sealing, not the plastic.
+00:59.133 --> 01:00.684
+Count the lights.
 
-01:11.603 --> 01:13.317
-Hand-tight only.
+01:00.684 --> 01:03.265
+It's almost always over fifty-six.
 
-01:13.317 --> 01:15.908
-Too tight makes it hard to change later.
+01:04.226 --> 01:06.652
+Test B: volts at the end.
 
-01:15.908 --> 01:19.103
-And push-in wire connectors stay inside the box.
+01:06.602 --> 01:09.832
+Still on Pure White, meter the supply output.
 
-01:19.103 --> 01:20.885
-They're not waterproof.
+01:09.832 --> 01:12.285
+It should read about twenty-four volts.
 
-01:21.842 --> 01:24.129
-Never plug in with the power on.
+01:12.285 --> 01:14.750
+Then meter at the last light in that group.
 
-01:24.079 --> 01:27.297
-Turn the power off at the box first, every time.
+01:14.751 --> 01:18.038
+It must not drop below twenty-two point eight volts.
 
-01:27.297 --> 01:32.285
-On a run over thirty lights, plugging in live kills the chip in the light before the one you touched.
+01:18.038 --> 01:20.422
+A five percent drop is our limit.
 
-01:32.285 --> 01:35.457
-You won't see it happen, but it comes back as a callout.
+01:20.422 --> 01:23.014
+Under twenty-two point eight is a fail.
 
-01:35.457 --> 01:36.927
-Power off.
+01:23.014 --> 01:25.399
+The injection is too far away.
 
-01:36.927 --> 01:38.246
-Plug in.
+01:25.399 --> 01:27.771
+Move it closer, or add one.
 
-01:38.246 --> 01:39.670
-Power on.
+01:28.738 --> 01:31.569
+Test C, the whole box, is new.
 
-01:39.670 --> 01:40.931
-Test.
+01:31.519 --> 01:34.818
+Add up the Test A amps for every circuit on that box.
 
-01:41.890 --> 01:48.078
-Track comes in one metre, thirty-nine inch pieces: black, white, charcoal, wood grain and silver.
+01:34.818 --> 01:42.260
+For example, two point six, two point nine, two point eight, two point nine and two point seven make thirteen point nine amps.
 
-01:48.028 --> 01:50.262
-Match the fascia when you can.
+01:42.260 --> 01:45.582
+A six hundred watt box must be twenty amps or less.
 
-01:50.262 --> 01:53.271
-U-shape, or hat track, is our standard.
+01:45.582 --> 01:49.251
+A four fifty watt box, fifteen amps or less.
 
-01:53.271 --> 01:55.354
-The lights press in from below.
+01:49.251 --> 01:50.744
+Over the limit?
 
-01:55.354 --> 02:00.852
-T-shape track folds flat and uses one-light strings, for hard rooflines and commercial jobs.
+01:50.744 --> 01:53.175
+There are too many lights on this box.
 
-02:00.852 --> 02:08.086
-The parts: an L-connector for a ninety degree corner, a straight connector to join two pieces, and an end cap to close the last piece.
+01:53.175 --> 01:56.323
+Move a circuit to another box, and call your lead.
 
-02:09.042 --> 02:10.577
-Cutting corners.
+01:57.282 --> 02:01.491
+Fill in the test sheet, one per box, and leave it with the job file.
 
-02:10.527 --> 02:14.925
-Two perfect forty-five degree cuts are almost impossible, so we don't try.
+02:01.441 --> 02:06.290
+For each circuit: the lights, the amps on Pure White, and the volts at the last light.
 
-02:14.925 --> 02:18.826
-Notch the first piece, a small cut so the wires can go through.
+02:06.290 --> 02:08.212
+Then pass or fail.
 
-02:18.826 --> 02:21.222
-Cut the second piece at forty-five.
+02:08.212 --> 02:12.888
+Add the Test C total, the box size, the controller, and the supply volts.
 
-02:21.222 --> 02:24.428
-Lay it over the top, and slide it until it fits.
+02:13.850 --> 02:18.244
+What lives in the truck: a clamp meter for amps, and a multimeter for volts.
 
-02:24.428 --> 02:28.178
-Dry-fit it, then screw it, and check the wires aren't pinched.
+02:18.194 --> 02:19.918
+Dielectric grease.
 
-02:28.178 --> 02:30.307
-File every cut and notch.
+02:19.918 --> 02:22.719
+Sixteen-two FT-4 wire.
 
-02:30.307 --> 02:33.108
-Sharp edges cut wire and cause shorts.
+02:22.719 --> 02:24.907
+Spare four amp breakers.
 
-02:34.058 --> 02:35.883
-Now screw the track up.
+02:24.907 --> 02:28.310
+Push-in wire connectors, for inside the box only.
 
-02:35.833 --> 02:38.460
-Clean the fascia with rubbing alcohol.
+02:28.310 --> 02:31.712
+The marked-up job photo, and blank test sheets.
 
-02:38.460 --> 02:41.793
-Hold the track up and check the lights will face the right way.
+02:31.712 --> 02:34.016
+No meter, no install.
 
-02:41.793 --> 02:44.860
-Pre-drill pilot holes, so nothing splits.
+02:34.978 --> 02:38.238
+Before you leave the house: all lights are up as quoted.
 
-02:44.860 --> 02:49.143
-Use stainless or zinc screws, at least one every three to four feet.
+02:38.188 --> 02:42.378
+Tests A, B and C passed on Pure White, and written down.
 
-02:49.143 --> 02:51.562
-Never drywall screws outside.
+02:42.378 --> 02:45.873
+No yellow, blue, white or flickering parts.
 
-02:51.562 --> 02:52.904
-They rust.
+02:45.873 --> 02:49.160
+The site is clean, with no tools or garbage left.
 
-02:52.904 --> 02:55.358
-Where it's windy, use every hole.
+02:49.160 --> 02:51.706
+And no damage to the house or yard.
 
-02:55.358 --> 02:59.189
-Then press in the lights, and give each one a soft tug to check it's in.
-
-03:00.154 --> 03:04.652
-Bridge gaps at doors and gables with extension cables, in corrugated conduit.
-
-03:04.602 --> 03:07.264
-Use a Y-connector at corners and turns.
-
-03:07.264 --> 03:12.623
-Add a signal booster before any extension over ten feet, and at every jump to the second floor.
-
-03:12.623 --> 03:16.338
-And put an end cap on the last light of every run to keep water out.
-
-03:17.298 --> 03:18.914
-Now the wiring.
-
-03:18.864 --> 03:21.167
-One circuit, one breaker.
-
-03:21.167 --> 03:25.554
-Each group of fifty lights gets its own feeder, from its own four amp breaker.
-
-03:25.554 --> 03:28.031
-The controller gets its own breaker too.
-
-03:28.031 --> 03:32.464
-At each injection, cut the positive, so power can't flow into the next group.
-
-03:32.464 --> 03:35.114
-The data wire runs all the way through.
-
-03:35.114 --> 03:36.561
-Never cut it.
-
-03:36.561 --> 03:40.681
-If one group has a problem, one breaker trips, and the rest stay lit.
-
-03:41.642 --> 03:43.304
-Do it in this order.
-
-03:43.254 --> 03:45.396
-Plan it from the marked-up photo.
-
-03:45.396 --> 03:49.829
-Pull one feeder to each injection, never two injections on one wire.
-
-03:49.829 --> 03:53.984
-Put each feeder on its own four amp breaker, and the controller on its own.
-
-03:53.984 --> 03:57.919
-Cut the positive at every injection, and leave the data wire alone.
-
-03:57.919 --> 03:59.759
-Grease every connector.
-
-03:59.759 --> 04:03.405
-Then power on, and test on Pure White before you pack up.
-
-04:04.354 --> 04:06.815
-They can look almost the same in the box.
-
-04:06.765 --> 04:08.061
-They're not.
-
-04:08.061 --> 04:12.332
-This is what we're fixing: one fourteen-two for everything, and no breakers.
-
-04:12.332 --> 04:14.867
-A hundred eighty lights on one path.
-
-04:14.867 --> 04:17.517
-If one shorts, nothing shuts off.
-
-04:17.517 --> 04:20.712
-The wire just gets hotter, up to twenty-five amps.
-
-04:21.666 --> 04:24.428
-Open the box and ask three questions.
-
-04:24.378 --> 04:27.410
-Is there a breaker for every wire leaving the box?
-
-04:27.410 --> 04:30.223
-Does each wire go to one injection only?
-
-04:30.223 --> 04:31.577
-Follow it.
-
-04:31.577 --> 04:33.672
-If it splits, it's wrong.
-
-04:33.672 --> 04:35.952
-And is each breaker four amps?
-
-04:35.952 --> 04:38.209
-A tripping breaker is good news.
-
-04:38.209 --> 04:40.258
-It means the safety works.
-
-04:40.258 --> 04:41.843
-Fix the circuit.
-
-04:41.843 --> 04:43.950
-Never put in a bigger breaker.
-
-04:43.950 --> 04:45.755
-Count the lights first.
-
-04:45.755 --> 04:48.440
-It's almost always more than fifty-six.
-
-04:49.394 --> 04:50.628
+02:52.674 --> 02:53.908
 Recap.
 
-04:50.578 --> 04:56.169
-Sixteen-two FT-4 stranded feeder, thirty feet max. Grease every plug, hand-tight.
+02:53.858 --> 02:56.752
+Always test on Pure White, full bright.
 
-04:56.169 --> 04:58.460
-Power off before you plug in.
+02:56.752 --> 03:00.791
+Test A: three point two amps or less on the positive wire.
 
-04:58.460 --> 05:00.995
-Track is screwed, never glued.
+03:00.791 --> 03:04.715
+Test B: at least twenty-two point eight volts at the last light.
 
-05:00.995 --> 05:03.761
-One feeder, one four amp breaker.
+03:04.715 --> 03:09.911
+Test C: twenty amps or less on a six hundred watt box, fifteen on a four fifty.
 
-05:03.761 --> 05:06.226
-Cut the positive, never the data.
+03:09.911 --> 03:12.076
+One test sheet per box.
 
-05:07.186 --> 05:08.872
-That's Part 4.
+03:12.076 --> 03:14.379
+No meter, no install.
 
-05:08.822 --> 05:11.808
-Now take the Part 4 quiz in your training portal.
+03:15.338 --> 03:17.000
+That's Part 5.
+
+03:16.950 --> 03:20.018
+Now take the Part 5 quiz in your training portal.
