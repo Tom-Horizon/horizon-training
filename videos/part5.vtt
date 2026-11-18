@@ -1,277 +1,273 @@
 WEBVTT
 
-00:00.450 --> 00:03.976
-This is Part 6: fix problems and old systems.
-
-00:03.926 --> 00:05.454
-Look at the colour.
-
-00:05.454 --> 00:07.317
-It tells you what's wrong.
-
-00:08.282 --> 00:10.963
-Dim or yellow lights mean voltage drop.
-
-00:10.913 --> 00:13.425
-They're too far from the last injection.
-
-00:13.425 --> 00:15.485
-Add an injection closer.
-
-00:15.485 --> 00:19.281
-Check it's every fifty lights, and use sixteen gauge feeder.
-
-00:19.281 --> 00:21.735
-Solid blue means signal loss.
-
-00:21.735 --> 00:24.281
-No data is reaching those lights.
-
-00:24.281 --> 00:26.943
-Check every connector, plus to plus.
-
-00:26.943 --> 00:29.489
-The booster arrow must point to the lights.
-
-00:29.489 --> 00:33.610
-Change a bad booster, and change the first blue light if it's damaged.
-
-00:33.610 --> 00:36.827
-Solid white means a signal booster is missing or dead.
-
-00:36.827 --> 00:38.934
-Put one in, or change it.
-
-00:38.934 --> 00:41.931
-You need one on any extension over ten feet.
-
-00:42.874 --> 00:46.064
-Flicker means two power flows are meeting and fighting.
-
-00:46.014 --> 00:48.665
-Check the positive is cut at the injection.
-
-00:48.665 --> 00:54.695
-Move the injection further down the run, and add a booster just before the T. Wrong colours, or no response?
-
-00:54.695 --> 00:56.651
-The app setting is wrong.
-
-00:56.651 --> 01:01.824
-Set the IC type to Common RGBW, and the light count to the exact number put up.
-
-01:01.824 --> 01:03.456
-A breaker trips?
-
-01:03.456 --> 01:06.304
-Too many lights on that circuit, or a short.
-
-01:06.304 --> 01:07.855
-Count the lights.
-
-01:07.855 --> 01:09.637
-Over fifty-six?
-
-01:09.637 --> 01:10.922
-Split it.
-
-01:10.922 --> 01:13.202
-Look for a pinched or cut wire.
-
-01:13.202 --> 01:15.308
-Never put in a bigger breaker.
-
-01:15.308 --> 01:17.276
-The whole box shuts off?
-
-01:17.276 --> 01:19.290
-The supply is overloaded.
-
-01:19.290 --> 01:22.415
-Unplug it for five minutes, then do Test C.
-
-01:22.415 --> 01:25.308
-Over twenty amps on a six hundred watt box?
-
-01:25.308 --> 01:28.352
-Move lights to another box, and call your lead.
-
-01:29.298 --> 01:31.470
-Long runs lose volts.
-
-01:31.420 --> 01:34.267
-We tested fifty feet of twenty gauge wire.
-
-01:34.267 --> 01:38.098
-In at twenty-four point one volts, out at twenty-two point seven.
-
-01:38.098 --> 01:42.010
-That's a five point eight percent drop, past our five percent limit.
-
-01:42.010 --> 01:46.350
-Our fifty-light groups are only thirty-three feet, and that keeps the drop small.
-
-01:46.350 --> 01:48.769
-The fix is never a bigger supply.
-
-01:48.769 --> 01:50.702
-It's a closer injection.
-
-01:51.650 --> 01:55.465
-On a service call, first find out which system you're standing under.
-
-01:55.415 --> 01:59.732
-Mark 1: our first boxes, three fifty watts at twelve volts.
-
-01:59.732 --> 02:02.672
-One wire per injection, but no breakers.
-
-02:02.672 --> 02:04.049
-Don't touch it.
-
-02:04.050 --> 02:06.411
-Write the address and tell your lead.
-
-02:06.411 --> 02:11.156
-Mark 2: the old board, four fifty to six hundred watts at twenty-four volts.
-
-02:11.156 --> 02:16.746
-Often one fourteen-two feeding many injections, and only two five amp breakers in the whole box.
-
-02:16.746 --> 02:18.124
-Don't touch it.
-
-02:18.124 --> 02:20.543
-It's first in line for a retrofit.
-
-02:20.543 --> 02:23.610
-Mark 3: the new board with six breakers.
-
-02:23.610 --> 02:28.066
-One feeder per circuit, four amps each, positive cut at every injection.
-
-02:28.066 --> 02:29.906
-That's normal service.
-
-02:29.906 --> 02:33.378
-Stay inside fifty, max fifty-six lights.
-
-02:33.378 --> 02:36.492
-Never change a Mark 1 or Mark 2 in the field.
-
-02:36.492 --> 02:38.656
-Book it for a proper retrofit.
-
-02:39.610 --> 02:45.115
-Stop and call your lead if you see: lights wired straight into the supply, with no breaker or fuse.
-
-02:45.065 --> 02:48.040
-One wire feeding two or more injections.
-
-02:48.040 --> 02:50.945
-More than fifty-six lights between injections.
-
-02:50.945 --> 02:52.993
-Any twelve volt system.
-
-02:52.993 --> 02:55.725
-A breaker that trips when the client picks white.
-
-02:55.725 --> 03:00.343
-Wire through a wall with no ETL, CSA or UL number.
-
-03:00.343 --> 03:04.359
-Wire that looks brown, stiff or melted, or smells burnt.
-
-03:04.359 --> 03:06.361
-Or solid copper wire.
-
-03:07.314 --> 03:10.099
-Never add lights to a Mark 1 or Mark 2.
-
-03:10.049 --> 03:11.704
-They're already full.
-
-03:11.704 --> 03:14.517
-Never put in a bigger breaker to stop trips.
-
-03:14.517 --> 03:17.538
-And never leave an old run live without metering it.
-
-03:17.538 --> 03:19.424
-What do you tell the client?
-
-03:19.424 --> 03:21.751
-We moved to a new power system.
-
-03:21.751 --> 03:24.632
-It's more reliable and protects the circuit better.
-
-03:24.632 --> 03:27.838
-You're on our list for the upgrade, and there's no charge.
-
-03:27.838 --> 03:30.153
-Don't talk about fire or blame.
-
-03:30.153 --> 03:32.850
-If they keep asking, it goes to your lead.
-
-03:33.818 --> 03:38.779
-There are three ways to fix an old job, and each one starts with the power off at the breaker.
-
-03:38.729 --> 03:43.463
-A: a new board, when the old job already has one wire per injection.
-
-03:43.463 --> 03:47.977
-Each old wire goes on its own four amp circuit, and the controller on its own.
-
-03:47.977 --> 03:51.252
-Count the lights per group and split any over fifty-six.
-
-03:51.252 --> 03:55.326
-B: new wire, when one wire feeds many injections.
-
-03:55.326 --> 04:01.183
-Find every injection point, pull new sixteen-two to each one, and cut the positive at every injection.
-
-04:01.183 --> 04:06.229
-C: a small Class 2 driver at a plug near the roofline, mounted in an enclosure.
-
-04:06.229 --> 04:07.861
-Cut the positive.
-
-04:07.861 --> 04:11.623
-The driver feeds forward, and data still runs from the box.
-
-04:11.623 --> 04:13.648
-Then meter on Pure White.
-
-04:13.648 --> 04:16.518
-For A and B, do Test C too.
-
-04:17.482 --> 04:18.716
-Recap.
-
-04:18.666 --> 04:21.027
-Dim or yellow is voltage drop.
-
-04:21.027 --> 04:23.412
-Solid blue is signal loss.
-
-04:23.412 --> 04:25.495
-Solid white is the booster.
-
-04:25.495 --> 04:27.960
-Flicker means the positive isn't cut.
-
-04:27.960 --> 04:30.680
-Mark 1 and Mark 2: don't touch.
-
-04:30.680 --> 04:32.659
-And never a bigger breaker.
-
-04:33.618 --> 04:35.315
-That's Part 6.
-
-04:35.265 --> 04:38.274
-Now take the Part 6 quiz in your training portal.
+1
+00:00:01.500 --> 00:00:04.966
+Welcome to Horizon
+installer training, Part 5.
+
+2
+00:00:05.544 --> 00:00:07.082
+Right way, wrong way.
+
+3
+00:00:07.532 --> 00:00:10.652
+By the end, you will be
+able to open a box and tell,
+
+4
+00:00:10.652 --> 00:00:14.203
+fast, whether it is wired
+the old way or the right way.
+
+5
+00:00:14.653 --> 00:00:17.794
+And you will know what a tripping
+breaker is really telling you.
+
+6
+00:00:19.144 --> 00:00:21.951
+These two boxes look almost
+the same when you open them.
+
+7
+00:00:21.951 --> 00:00:23.654
+They are not the same at all.
+
+8
+00:00:24.104 --> 00:00:26.781
+Here is the wrong way.
+This is what we are fixing.
+
+9
+00:00:27.231 --> 00:00:31.951
+One 14/2 wire feeds all three
+injections. Nothing keeps them apart.
+
+10
+00:00:32.401 --> 00:00:37.097
+There are no breakers. The 600
+watt supply has 25 amps available.
+
+11
+00:00:37.547 --> 00:00:40.270
+That is 180 lights behind one path.
+
+12
+00:00:40.720 --> 00:00:44.871
+If one shorts, nothing shuts off.
+The wire just keeps getting hotter.
+
+13
+00:00:46.221 --> 00:00:48.677
+Now the right way. This
+is the standard now.
+
+14
+00:00:49.127 --> 00:00:52.732
+Own wire, own breaker.
+Each group stands alone.
+
+15
+00:00:53.182 --> 00:00:56.416
+The board has 6 breakers, 4 amps max each.
+
+16
+00:00:56.416 --> 00:00:59.899
+Each group here is 60 lights, at 3.4 amps.
+
+17
+00:01:00.349 --> 00:01:04.698
+If one group shorts, that one breaker
+trips. The other two stay lit.
+
+18
+00:01:05.148 --> 00:01:07.035
+And you know exactly where to look.
+
+19
+00:01:07.485 --> 00:01:09.153
+Compare that to the wrong way,
+
+20
+00:01:09.153 --> 00:01:13.574
+where one short leaves 180 lights on
+a wire that just keeps getting hotter.
+
+21
+00:01:14.924 --> 00:01:18.030
+So when you open a box,
+ask three questions.
+
+22
+00:01:18.480 --> 00:01:21.343
+One. Is there a breaker for
+every wire leaving the box?
+
+23
+00:01:21.793 --> 00:01:24.839
+If not, it is an old system.
+A Mark 1 or a Mark 2.
+
+24
+00:01:24.839 --> 00:01:27.952
+You will learn what to
+do with those in Part 7.
+
+25
+00:01:28.147 --> 00:01:31.514
+Two. Does each wire go to one
+injection only? Follow it.
+
+26
+00:01:31.514 --> 00:01:33.447
+If it branches, it is wrong.
+
+27
+00:01:33.897 --> 00:01:39.662
+One wire branching off to two or more injections
+is exactly the wrong box you just saw.
+
+28
+00:01:40.112 --> 00:01:43.705
+Three. Is each breaker 4
+amps? Bigger than 4 is wrong.
+
+29
+00:01:44.155 --> 00:01:46.658
+And do not fit a bigger
+one to stop a trip.
+
+30
+00:01:48.008 --> 00:01:51.648
+Which brings us to this. A
+tripping breaker is good news.
+
+31
+00:01:52.098 --> 00:01:54.101
+It means the safety is working.
+
+32
+00:01:54.551 --> 00:01:57.529
+It is telling you the circuit
+has too many lights on it.
+
+33
+00:01:57.979 --> 00:02:01.132
+So fix the circuit. Never
+fit a bigger breaker.
+
+34
+00:02:01.582 --> 00:02:03.867
+A bigger breaker does not fix anything.
+
+35
+00:02:03.867 --> 00:02:08.043
+It just lets more amps into thin
+wire, and that is how fires start.
+
+36
+00:02:08.493 --> 00:02:11.803
+Remember the wrong-way box. It
+had no breaker to trip at all,
+
+37
+00:02:11.803 --> 00:02:14.061
+so the wire just kept getting hotter.
+
+38
+00:02:14.511 --> 00:02:18.127
+Count the lights first. It is
+almost always more than 70.
+
+39
+00:02:19.477 --> 00:02:24.128
+Last, the card to keep in the truck. It
+puts the whole standard in one place.
+
+40
+00:02:24.578 --> 00:02:31.863
+The numbers. 60 lights per circuit, 70
+at the most. 4.0 amps max. 96 watts max.
+
+41
+00:02:32.313 --> 00:02:37.544
+At least 22.8 volts at the last
+light. And 16/2 FT-4 for the feeder.
+
+42
+00:02:37.994 --> 00:02:40.451
+The math. Lights are feet times 1.5.
+
+43
+00:02:40.451 --> 00:02:43.840
+Circuits are lights
+divided by 60, rounded up.
+
+44
+00:02:44.290 --> 00:02:48.936
+Watts are lights times 1.37.
+Amps are watts divided by 24.
+
+45
+00:02:48.936 --> 00:02:51.750
+Check that amps are 4.0 or less.
+
+46
+00:02:52.200 --> 00:02:55.752
+And every time. Power off
+before you plug anything in.
+
+47
+00:02:55.752 --> 00:02:57.976
+Test on PW, never on a colour.
+
+48
+00:02:58.426 --> 00:03:00.423
+Cut the positive at every injection.
+
+49
+00:03:00.423 --> 00:03:03.668
+Grease every connector. And
+meter it before you leave.
+
+50
+00:03:05.018 --> 00:03:06.313
+Let's lock it in.
+
+51
+00:03:06.763 --> 00:03:09.778
+Wrong way. One wire
+feeding several injections,
+
+52
+00:03:09.778 --> 00:03:12.273
+and no breakers. Nothing shuts off.
+
+53
+00:03:12.723 --> 00:03:18.058
+Right way. Own wire, own 4 amp breaker.
+One group trips, and the rest stay lit.
+
+54
+00:03:18.508 --> 00:03:20.948
+Open the box, and ask three questions.
+
+55
+00:03:20.948 --> 00:03:25.178
+A breaker for every wire? One
+injection per wire? 4 amps each?
+
+56
+00:03:25.628 --> 00:03:30.360
+A trip is the safety working. Fix the
+circuit. Never fit a bigger breaker.
+
+57
+00:03:30.810 --> 00:03:33.660
+Keep the truck card
+with you, on every job.
+
+58
+00:03:34.110 --> 00:03:39.445
+Next, take the Part 5 quiz. Then
+in Part 6, we test before we leave.

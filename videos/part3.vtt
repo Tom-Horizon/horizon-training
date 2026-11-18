@@ -1,307 +1,327 @@
 WEBVTT
 
-00:00.450 --> 00:02.969
-This is Part 4: install it.
+1
+00:00:01.500 --> 00:00:04.769
+Welcome to Horizon
+installer training, Part 3.
 
-00:02.919 --> 00:07.363
-The light string has the thinnest wire on the job, and everything we do protects it.
+2
+00:00:05.207 --> 00:00:07.024
+Wire, parts and water.
 
-00:08.330 --> 00:11.983
-The lights come with thin twenty gauge wire, and we can't change it.
+3
+00:00:07.474 --> 00:00:10.462
+By the end, you will know
+which wire to use where,
 
-00:11.933 --> 00:17.165
-Everything we run up to it has one job: keep that thin wire at three point two amps or less.
+4
+00:00:10.462 --> 00:00:13.820
+how to keep water out, and
+why long runs lose volts.
 
-00:17.165 --> 00:19.954
-A smaller gauge number means thicker wire.
+5
+00:00:14.270 --> 00:00:17.910
+You will also know what has to be
+in the truck before you go to a job.
 
-00:19.954 --> 00:22.176
-Fourteen gauge is thickest.
+6
+00:00:19.260 --> 00:00:22.621
+Start with the weakest wire in
+the system. The light string.
 
-00:22.176 --> 00:25.267
-It works, but use up stock, don't buy more.
+7
+00:00:23.071 --> 00:00:27.222
+Our lights come with 20 gauge wire
+built in. We cannot change that.
 
-00:25.267 --> 00:27.871
-Sixteen gauge is our feeder wire.
+8
+00:00:27.672 --> 00:00:29.965
+Everything we run up to it has one job.
 
-00:27.871 --> 00:30.834
-Eighteen gauge is fine for one circuit too.
+9
+00:00:30.415 --> 00:00:34.090
+Make sure that 20 gauge wire
+never sees more than 4 amps.
 
-00:30.834 --> 00:33.530
-Thicker wire doesn't make the job safer.
+10
+00:00:34.540 --> 00:00:37.739
+Everything upstream of the light
+string is there to protect it.
 
-00:33.530 --> 00:36.019
-The thin twenty gauge is still the limit.
+11
+00:00:39.089 --> 00:00:41.236
+Here is the first thing
+to know about wire.
 
-00:36.970 --> 00:42.510
-Feeder wire to an injection: sixteen-two or eighteen-two, FT-4, stranded.
+12
+00:00:41.236 --> 00:00:43.484
+Thicker wire has a smaller gauge number.
 
-00:42.460 --> 00:45.284
-Thirty feet max from the box to the injection.
+13
+00:00:43.934 --> 00:00:46.146
+14 gauge is the thickest. It works,
 
-00:45.284 --> 00:47.032
-Going through a wall?
+14
+00:00:46.146 --> 00:00:49.304
+but it is more than we
+need. Use up the stock.
 
-00:47.032 --> 00:52.066
-The FT-4 needs an ETL, CSA or UL number printed on it.
+15
+00:00:49.754 --> 00:00:54.404
+16 gauge carries 4 amps easily.
+This is our feeder wire. Use this.
 
-00:52.066 --> 00:54.937
-No number, and it doesn't go through a wall.
+16
+00:00:54.854 --> 00:00:58.506
+18 gauge is also fine for a 4 amp circuit.
 
-00:54.937 --> 00:56.626
-No exceptions.
+17
+00:00:58.956 --> 00:01:01.525
+20 gauge is the light string. It is thin,
 
-00:56.626 --> 00:59.439
-And stranded copper only, never solid.
+18
+00:01:01.525 --> 00:01:04.407
+it is built in, and it is what we protect.
 
-00:59.439 --> 01:02.518
-Solid wire gets hard and snaps at the ends.
+19
+00:01:05.757 --> 00:01:07.935
+Now, which wire goes where.
 
-01:03.474 --> 01:05.079
-Keep water out.
+20
+00:01:08.385 --> 00:01:15.171
+From the box to an injection, the feeder
+is 16/2 or 18/2. FT-4, and stranded.
 
-01:05.029 --> 01:08.755
-Put dielectric grease on the O-ring before you push a plug together.
+21
+00:01:15.621 --> 00:01:20.074
+It carries 4 amps with room to spare,
+and it is light and easy to pull.
 
-01:08.755 --> 01:11.603
-The O-ring does the sealing, not the plastic.
+22
+00:01:20.524 --> 00:01:24.048
+14/2 is allowed. Use
+up what is in the shop.
 
-01:11.603 --> 01:13.317
-Hand-tight only.
+23
+00:01:24.498 --> 00:01:28.974
+But thicker does not make it safer. The
+20 gauge light wire is still the limit.
 
-01:13.317 --> 01:15.908
-Too tight makes it hard to change later.
+24
+00:01:29.424 --> 00:01:32.815
+Going through a wall,
+use FT-4 with an ETL,
 
-01:15.908 --> 01:19.103
-And push-in wire connectors stay inside the box.
+25
+00:01:32.815 --> 00:01:36.141
+CSA or UL number printed on the jacket.
 
-01:19.103 --> 01:20.885
-They're not waterproof.
+26
+00:01:36.591 --> 00:01:40.727
+Check every spool. No printed number,
+and it does not go through a wall.
 
-01:21.842 --> 01:24.129
+27
+00:01:40.727 --> 00:01:43.447
+No exceptions. Ask Ben
+if you are not sure.
+
+28
+00:01:43.897 --> 00:01:47.023
+And always use stranded
+copper. Never solid core.
+
+29
+00:01:47.023 --> 00:01:50.590
+Solid copper hardens, and
+snaps at the terminations.
+
+30
+00:01:51.940 --> 00:01:53.874
+Next, keeping water out.
+
+31
+00:01:54.324 --> 00:01:56.708
+Put dielectric grease in every connector.
+
+32
+00:01:56.708 --> 00:02:00.564
+A squirt before you push it
+together. It pushes the water out.
+
+33
+00:02:01.014 --> 00:02:03.566
+The little O-ring is what seals a light.
+
+34
+00:02:03.566 --> 00:02:06.559
+Not the plastic body.
+So grease the O-ring.
+
+35
+00:02:07.009 --> 00:02:10.551
+Inside-only connectors, the
+lever nuts, are not waterproof.
+
+36
+00:02:10.551 --> 00:02:14.283
+They go inside the box only.
+Never outside in the weather.
+
+37
+00:02:14.733 --> 00:02:16.655
+And do not over-tighten the barrel.
+
+38
+00:02:16.655 --> 00:02:19.650
+Tighter is not a better
+seal. The O-ring seals it.
+
+39
+00:02:20.100 --> 00:02:23.299
+Over-tightening just makes the
+light hard to change later.
+
+40
+00:02:24.649 --> 00:02:28.521
+Here is a rule for every job.
 Never plug in with the power on.
 
-01:24.079 --> 01:27.297
-Turn the power off at the box first, every time.
-
-01:27.297 --> 01:32.285
-On a run over thirty lights, plugging in live kills the chip in the light before the one you touched.
-
-01:32.285 --> 01:35.457
-You won't see it happen, but it comes back as a callout.
-
-01:35.457 --> 01:36.927
-Power off.
-
-01:36.927 --> 01:38.246
-Plug in.
-
-01:38.246 --> 01:39.670
-Power on.
-
-01:39.670 --> 01:40.931
-Test.
-
-01:41.890 --> 01:48.078
-Track comes in one metre, thirty-nine inch pieces: black, white, charcoal, wood grain and silver.
-
-01:48.028 --> 01:50.262
-Match the fascia when you can.
-
-01:50.262 --> 01:53.271
-U-shape, or hat track, is our standard.
-
-01:53.271 --> 01:55.354
-The lights press in from below.
-
-01:55.354 --> 02:00.852
-T-shape track folds flat and uses one-light strings, for hard rooflines and commercial jobs.
-
-02:00.852 --> 02:08.086
-The parts: an L-connector for a ninety degree corner, a straight connector to join two pieces, and an end cap to close the last piece.
-
-02:09.042 --> 02:10.577
-Cutting corners.
-
-02:10.527 --> 02:14.925
-Two perfect forty-five degree cuts are almost impossible, so we don't try.
-
-02:14.925 --> 02:18.826
-Notch the first piece, a small cut so the wires can go through.
-
-02:18.826 --> 02:21.222
-Cut the second piece at forty-five.
-
-02:21.222 --> 02:24.428
-Lay it over the top, and slide it until it fits.
-
-02:24.428 --> 02:28.178
-Dry-fit it, then screw it, and check the wires aren't pinched.
-
-02:28.178 --> 02:30.307
-File every cut and notch.
-
-02:30.307 --> 02:33.108
-Sharp edges cut wire and cause shorts.
-
-02:34.058 --> 02:35.883
-Now screw the track up.
-
-02:35.833 --> 02:38.460
-Clean the fascia with rubbing alcohol.
-
-02:38.460 --> 02:41.793
-Hold the track up and check the lights will face the right way.
-
-02:41.793 --> 02:44.860
-Pre-drill pilot holes, so nothing splits.
-
-02:44.860 --> 02:49.143
-Use stainless or zinc screws, at least one every three to four feet.
-
-02:49.143 --> 02:51.562
-Never drywall screws outside.
-
-02:51.562 --> 02:52.904
-They rust.
-
-02:52.904 --> 02:55.358
-Where it's windy, use every hole.
-
-02:55.358 --> 02:59.189
-Then press in the lights, and give each one a soft tug to check it's in.
-
-03:00.154 --> 03:04.652
-Bridge gaps at doors and gables with extension cables, in corrugated conduit.
-
-03:04.602 --> 03:07.264
-Use a Y-connector at corners and turns.
-
-03:07.264 --> 03:12.623
-Add a signal booster before any extension over ten feet, and at every jump to the second floor.
-
-03:12.623 --> 03:16.338
-And put an end cap on the last light of every run to keep water out.
-
-03:17.298 --> 03:18.914
-Now the wiring.
-
-03:18.864 --> 03:21.167
-One circuit, one breaker.
-
-03:21.167 --> 03:25.554
-Each group of fifty lights gets its own feeder, from its own four amp breaker.
-
-03:25.554 --> 03:28.031
-The controller gets its own breaker too.
-
-03:28.031 --> 03:32.464
-At each injection, cut the positive, so power can't flow into the next group.
-
-03:32.464 --> 03:35.114
-The data wire runs all the way through.
-
-03:35.114 --> 03:36.561
-Never cut it.
-
-03:36.561 --> 03:40.681
-If one group has a problem, one breaker trips, and the rest stay lit.
-
-03:41.642 --> 03:43.304
-Do it in this order.
-
-03:43.254 --> 03:45.396
-Plan it from the marked-up photo.
-
-03:45.396 --> 03:49.829
-Pull one feeder to each injection, never two injections on one wire.
-
-03:49.829 --> 03:53.984
-Put each feeder on its own four amp breaker, and the controller on its own.
-
-03:53.984 --> 03:57.919
-Cut the positive at every injection, and leave the data wire alone.
-
-03:57.919 --> 03:59.759
-Grease every connector.
-
-03:59.759 --> 04:03.405
-Then power on, and test on Pure White before you pack up.
-
-04:04.354 --> 04:06.815
-They can look almost the same in the box.
-
-04:06.765 --> 04:08.061
-They're not.
-
-04:08.061 --> 04:12.332
-This is what we're fixing: one fourteen-two for everything, and no breakers.
-
-04:12.332 --> 04:14.867
-A hundred eighty lights on one path.
-
-04:14.867 --> 04:17.517
-If one shorts, nothing shuts off.
-
-04:17.517 --> 04:20.712
-The wire just gets hotter, up to twenty-five amps.
-
-04:21.666 --> 04:24.428
-Open the box and ask three questions.
-
-04:24.378 --> 04:27.410
-Is there a breaker for every wire leaving the box?
-
-04:27.410 --> 04:30.223
-Does each wire go to one injection only?
-
-04:30.223 --> 04:31.577
-Follow it.
-
-04:31.577 --> 04:33.672
-If it splits, it's wrong.
-
-04:33.672 --> 04:35.952
-And is each breaker four amps?
-
-04:35.952 --> 04:38.209
-A tripping breaker is good news.
-
-04:38.209 --> 04:40.258
-It means the safety works.
-
-04:40.258 --> 04:41.843
-Fix the circuit.
-
-04:41.843 --> 04:43.950
-Never put in a bigger breaker.
-
-04:43.950 --> 04:45.755
-Count the lights first.
-
-04:45.755 --> 04:48.440
-It's almost always more than fifty-six.
-
-04:49.394 --> 04:50.628
-Recap.
-
-04:50.578 --> 04:56.169
-Sixteen-two FT-4 stranded feeder, thirty feet max. Grease every plug, hand-tight.
-
-04:56.169 --> 04:58.460
+41
+00:02:28.971 --> 00:02:32.112
+Shut the power off at the
+box first. Every time.
+
+42
+00:02:32.562 --> 00:02:33.833
+On a run over 30 lights,
+
+43
+00:02:33.833 --> 00:02:37.897
+plugging in live kills the chip in
+the light before the one you touched.
+
+44
+00:02:38.347 --> 00:02:42.394
+You will not see it go. It
+comes back later as a callout.
+
+45
+00:02:42.844 --> 00:02:47.296
+So it is always the same order.
+Power off. Plug in. Power on. Test.
+
+46
+00:02:48.646 --> 00:02:51.021
+Now, long runs lose volts.
+
+47
+00:02:51.471 --> 00:02:55.796
+Wire is not perfect. The further
+power travels, the more it drops.
+
+48
+00:02:56.246 --> 00:03:02.870
+We tested 50 feet of 20 gauge wire.
+In at 24.1 volts. Out at 22.7.
+
+49
+00:03:03.320 --> 00:03:07.610
+That is a 5.8% drop.
+Just past our 5% limit.
+
+50
+00:03:08.060 --> 00:03:11.340
+On the job, if the far-end
+lights go dim or yellow,
+
+51
+00:03:11.340 --> 00:03:14.034
+that is voltage drop. Not a bad light.
+
+52
+00:03:14.484 --> 00:03:18.484
+The fix is never a bigger
+supply. It is a closer injection.
+
+53
+00:03:18.934 --> 00:03:22.864
+Under 22.8 volts at the last
+light? Move the injection.
+
+54
+00:03:24.214 --> 00:03:26.368
+Last, what lives in the truck.
+
+55
+00:03:26.818 --> 00:03:30.493
+A clamp meter for amps,
+and a multimeter for volts.
+
+56
+00:03:30.943 --> 00:03:36.139
+Dielectric grease, 16/2 FT-4
+wire, and spare 4 amp breakers.
+
+57
+00:03:36.589 --> 00:03:39.001
+Lever nuts, for inside the box only.
+
+58
+00:03:39.001 --> 00:03:43.004
+The marked-up job photo, and
+the test sheet from Part 6.
+
+59
+00:03:43.257 --> 00:03:45.852
+And remember. No meter, no install.
+
+60
+00:03:47.202 --> 00:03:48.323
+Let's lock it in.
+
+61
+00:03:48.773 --> 00:03:51.634
+The 20 gauge light string
+is the weakest wire.
+
+62
+00:03:51.634 --> 00:03:54.061
+It must never see more than 4 amps.
+
+63
+00:03:54.511 --> 00:04:01.902
+The feeder is 16/2 or 18/2, FT-4,
+stranded. Use up 14/2, but it is not safer.
+
+64
+00:04:02.352 --> 00:04:05.339
+Through a wall, only FT-4 with an ETL,
+
+65
+00:04:05.339 --> 00:04:09.440
+CSA or UL number on the
+jacket. Never solid core.
+
+66
+00:04:09.890 --> 00:04:11.920
+Grease every connector and O-ring.
+
+67
+00:04:11.920 --> 00:04:15.573
+Lever nuts stay in the box.
 Power off before you plug in.
 
-04:58.460 --> 05:00.995
-Track is screwed, never glued.
+68
+00:04:16.023 --> 00:04:18.530
+Under 22.8 volts at the last light,
 
-05:00.995 --> 05:03.761
-One feeder, one four amp breaker.
+69
+00:04:18.530 --> 00:04:22.218
+move the injection closer.
+No meter, no install.
 
-05:03.761 --> 05:06.226
-Cut the positive, never the data.
-
-05:07.186 --> 05:08.872
-That's Part 4.
-
-05:08.822 --> 05:11.808
-Now take the Part 4 quiz in your training portal.
+70
+00:04:22.668 --> 00:04:27.700
+Next, take the Part 3 quiz. Then
+in Part 4, we learn how to wire it.

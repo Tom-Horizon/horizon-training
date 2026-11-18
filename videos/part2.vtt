@@ -1,316 +1,499 @@
 WEBVTT
 
-00:00.450 --> 00:02.911
-This is Part 2: plan the job.
+1
+00:00:01.500 --> 00:00:04.873
+Welcome to Horizon
+installer training, Part 2.
 
-00:02.861 --> 00:05.419
-Three formulas, five numbers.
+2
+00:00:05.323 --> 00:00:08.034
+Plan the job. The math, and the limits.
 
-00:05.419 --> 00:09.030
-That's all you need, and you do it at the quote, not on the roof.
+3
+00:00:08.484 --> 00:00:11.644
+By the end, you will be
+able to work out the lights,
 
-00:09.986 --> 00:12.158
-Start with the power triangle.
+4
+00:00:11.644 --> 00:00:15.236
+circuits, watts and amps for
+a job, right at the quote.
 
-00:12.108 --> 00:14.561
-Watts equal volts times amps.
+5
+00:00:15.686 --> 00:00:19.471
+You will also know the four limits
+every circuit must stay inside,
 
-00:14.561 --> 00:18.717
-Twenty-four volts times three point two amps is seventy-seven watts.
+6
+00:00:19.471 --> 00:00:21.671
+and why we count lights, not feet.
 
-00:18.717 --> 00:21.298
-Amps equal watts divided by volts.
+7
+00:00:23.023 --> 00:00:25.548
+Volts, amps and watts always go together.
 
-00:21.298 --> 00:25.615
-Seventy-seven watts divided by twenty-four volts is three point two amps.
+8
+00:00:25.998 --> 00:00:28.663
+If you know two of them,
+you can find the third.
 
-00:25.615 --> 00:27.698
-That's the one you'll use most.
+9
+00:00:29.113 --> 00:00:34.889
+Watts equals volts times amps. 24
+volts times 4 amps is 96 watts.
 
-00:27.698 --> 00:31.390
-Cover the one you want with your thumb, and what's left tells you what to do.
+10
+00:00:35.339 --> 00:00:41.534
+Amps equals watts divided by volts. 96
+watts divided by 24 volts is 4 amps.
 
-00:32.338 --> 00:34.209
-Now the five numbers.
+11
+00:00:41.984 --> 00:00:43.964
+This is the one you will use most.
 
-00:34.159 --> 00:37.064
-Fifty lights: aim for this on each circuit.
+12
+00:00:44.414 --> 00:00:50.701
+Volts equals watts divided by amps. 96
+watts divided by 4 amps is 24 volts.
 
-00:37.064 --> 00:39.807
-Fifty-six lights: the most on a circuit.
+13
+00:00:51.151 --> 00:00:54.872
+Here is an easy way to remember it.
+Cover the one you want with your thumb.
 
-00:39.807 --> 00:41.520
-Never go past it.
+14
+00:00:55.322 --> 00:00:57.383
+What is left tells you what to do.
 
-00:41.520 --> 00:44.518
-Three point two amps: the most on a circuit.
+15
+00:00:58.733 --> 00:01:01.549
+Now, planning a job. There are four steps.
 
-00:44.518 --> 00:47.180
-That's eighty percent of a four amp breaker.
+16
+00:01:01.999 --> 00:01:04.841
+Do this at the quote, before
+anybody climbs a ladder.
 
-00:47.180 --> 00:50.802
-Four hundred eighty watts: the most on a six hundred watt box.
-
-00:50.802 --> 00:54.633
-And twenty-two point eight volts: the lowest you want at the last light.
-
-00:54.633 --> 01:00.143
-Two more: one and a half lights per foot, and one point three seven watts per light on Pure White.
-
-01:01.098 --> 01:02.575
-Count lights.
-
-01:02.525 --> 01:04.215
-Never count feet.
-
-01:04.215 --> 01:07.629
-The old rule said inject every sixty to seventy feet.
-
-01:07.629 --> 01:10.268
-That's ninety to a hundred and five lights.
-
-01:10.268 --> 01:12.178
-Way too many amps.
-
-01:12.178 --> 01:15.500
-The first booklet said sixty lights, max seventy.
-
-01:15.500 --> 01:18.416
-That fills a four amp breaker right to the top.
-
-01:18.416 --> 01:22.259
-Now we inject every fifty lights, never more than fifty-six.
-
-01:22.259 --> 01:25.338
-At eight inch spacing, that's about thirty-three feet.
-
-01:25.338 --> 01:27.398
-Never past thirty-seven.
-
-01:28.346 --> 01:31.154
-Here's what one circuit pulls on Pure White.
-
-01:31.104 --> 01:34.102
-Forty lights: two point two eight amps.
-
-01:34.102 --> 01:35.225
-Good.
-
-01:35.225 --> 01:40.445
-Fifty lights: sixty-nine watts, two point eight five amps, about thirty-three feet.
-
-01:40.445 --> 01:41.892
-Aim here.
-
-01:41.892 --> 01:46.023
-Fifty-six lights: three point two amps, thirty-seven feet.
-
-01:46.023 --> 01:47.574
-That's the most.
-
-01:47.574 --> 01:50.676
-Sixty lights is three point four three amps.
-
-01:50.676 --> 01:51.950
-Stop.
-
-01:51.950 --> 01:54.970
-Ninety lights is five point one four amps.
-
-01:54.970 --> 01:56.244
-Stop.
-
-01:56.244 --> 01:59.090
-If the spacing changes, the feet change.
-
-01:59.090 --> 02:01.185
-The light count never does.
-
-02:02.146 --> 02:04.399
-Plan a job in four steps.
-
-02:04.349 --> 02:06.490
+17
+00:01:04.841 --> 00:01:06.754
 All you need is the total feet.
 
-02:06.490 --> 02:08.839
-Take a hundred and fifty foot house.
+18
+00:01:07.204 --> 00:01:11.680
+Step 1. How many lights?
+Take the feet, times 1.5.
 
-02:08.839 --> 02:12.358
-Step one: lights equal feet times one point five.
+19
+00:01:12.130 --> 00:01:17.269
+Step 2. How many circuits? Take the
+lights, divided by 60, and round up.
 
-02:12.358 --> 02:14.812
-That's two hundred twenty-five lights.
+20
+00:01:17.719 --> 00:01:23.589
+Step 3. Watts per circuit. Take the
+lights on that circuit, times 1.37.
 
-02:14.812 --> 02:19.013
-Step two: circuits equal lights divided by fifty, rounded up.
+21
+00:01:24.039 --> 00:01:28.410
+Step 4. Amps per circuit.
+Take the watts, divided by 24.
 
-02:19.013 --> 02:21.860
-Four point five rounds up to five circuits.
+22
+00:01:28.860 --> 00:01:33.719
+The answer must be 4.0 amps or
+less. If it is more, add a circuit.
 
-02:21.860 --> 02:26.212
-Step three: boxes equal circuits divided by five, rounded up.
+23
+00:01:35.069 --> 00:01:37.072
+So where do those numbers come from?
 
-02:26.212 --> 02:27.717
-One box.
+24
+00:01:37.522 --> 00:01:41.267
+1.5 is lights per foot,
+at our 8 inch spacing.
 
-02:27.717 --> 02:29.870
-Step four, the check.
+25
+00:01:41.717 --> 00:01:46.483
+1.37 is what one light really
+pulls, in watts, on Pure White.
 
-02:29.870 --> 02:33.515
-Two twenty-five divided by five is forty-five lights each.
+26
+00:01:46.933 --> 00:01:49.378
+And 24 is our system voltage.
 
-02:33.515 --> 02:37.265
-Forty-five times one point three seven is sixty-two watts.
+27
+00:01:50.728 --> 00:01:54.716
+Let's work one. A house
+with 150 feet of roofline.
 
-02:37.265 --> 02:40.645
-Divided by twenty-four, that's two point six amps.
+28
+00:01:55.166 --> 00:02:00.919
+Step 1. 150 feet times 1.5 is 225 lights.
 
-02:40.645 --> 02:45.217
-Forty-five is under fifty-six, and two point six is under three point two.
+29
+00:02:01.369 --> 00:02:08.875
+Step 2. 225 divided by 60 is 3.75.
+Round up, and that is 4 circuits.
 
-02:45.217 --> 02:48.758
-The whole box is three hundred eight watts, under four eighty.
+30
+00:02:09.325 --> 00:02:18.817
+Step 3. 225 lights over 4 circuits is 56
+lights each. 56 times 1.37 is 77 watts.
 
-02:48.758 --> 02:50.008
-Pass.
+31
+00:02:19.267 --> 00:02:24.289
+Step 4. 77 watts divided
+by 24 is 3.2 amps.
 
-02:50.970 --> 02:53.315
-Same house, the old way.
+32
+00:02:24.739 --> 00:02:28.994
+3.2 amps is under 4.0. This plan passes.
 
-02:53.265 --> 02:55.488
-Ninety lights on one circuit.
+33
+00:02:30.344 --> 00:02:32.742
+Now the same house, done the old way.
 
-02:55.488 --> 02:59.353
-Ninety times one point three seven is a hundred twenty-three watts.
+34
+00:02:33.192 --> 00:02:39.316
+Put 90 lights on one circuit.
+90 times 1.37 is 123 watts.
 
-02:59.353 --> 03:03.948
-Divided by twenty-four, that's five point one amps, on a four amp breaker.
+35
+00:02:39.766 --> 00:02:43.790
+123 divided by 24 is 5.1 amps.
 
-03:03.948 --> 03:05.222
-Fail.
+36
+00:02:44.240 --> 00:02:47.450
+That is over the limit.
+This is how wire gets hot.
 
-03:06.170 --> 03:08.006
-Or use the quick table.
+37
+00:02:47.900 --> 00:02:52.771
+So when the answer comes out over 4.0
+amps, do not leave it. Add a circuit.
 
-03:07.956 --> 03:10.236
-Find the feet and read across.
+38
+00:02:54.121 --> 00:02:57.715
+One more check, before you count
+circuits. Check the controller.
 
-03:10.236 --> 03:14.727
-It uses fifty lights a circuit, and five circuits on a six hundred watt box.
+39
+00:02:58.165 --> 00:02:59.675
+The board has 6 circuits.
 
-03:14.727 --> 03:19.044
-A hundred sixty-five feet is two hundred forty-eight lights on five circuits.
+40
+00:02:59.675 --> 00:03:04.336
+How many are left for injection depends
+on which controller the job uses.
 
-03:19.044 --> 03:21.151
-That's the most for one box.
+41
+00:03:04.786 --> 00:03:09.448
+A single output controller uses 1
+circuit. That leaves 5 for injection.
 
-03:21.151 --> 03:24.299
-Three hundred thirty feet is the most for two boxes.
+42
+00:03:09.898 --> 00:03:14.316
+A controller with 4 outputs uses
+5 circuits. That leaves just 1.
 
-03:24.299 --> 03:28.245
-For track, feet divided by three point two eight gives metres.
+43
+00:03:14.766 --> 00:03:18.127
+So find out which controller
+the job uses, first.
 
-03:28.245 --> 03:31.232
-Each one metre piece holds about five lights.
+44
+00:03:19.477 --> 00:03:21.596
+So how far does one box go?
 
-03:31.232 --> 03:33.789
-And order five percent extra lights.
+45
+00:03:22.046 --> 00:03:26.023
+Five circuits covers about
+300 lights, or 200 feet.
 
-03:34.738 --> 03:37.396
-Check the controller before you count circuits.
+46
+00:03:26.473 --> 00:03:31.750
+A 400 foot house is 600 lights and
+10 circuits. That is two boxes.
 
-03:37.346 --> 03:39.418
-The board has six circuits.
+47
+00:03:32.200 --> 00:03:35.933
+On a job with a 4 output
+controller, you run out far sooner.
 
-03:39.418 --> 03:43.503
-A single output controller uses one, which leaves five for injection.
+48
+00:03:36.383 --> 00:03:38.711
+Work it out at the quote, not on the roof.
 
-03:43.503 --> 03:45.679
-That's what the quick table uses.
+49
+00:03:40.047 --> 00:03:42.654
+Here are the four limits
+for every light circuit.
 
-03:45.679 --> 03:49.371
-A PRO or PLUS controller uses five, leaving only one.
+50
+00:03:43.104 --> 00:03:46.082
+60 lights. That is what
+we aim for on a circuit.
 
-03:49.371 --> 03:51.350
-You run out much sooner.
+51
+00:03:46.532 --> 00:03:49.766
+70 lights. That is the
+most. Never go past it.
 
-03:51.350 --> 03:53.862
-Plan it at the quote, not on the roof.
+52
+00:03:50.216 --> 00:03:53.403
+4.0 amps. That is the most on a circuit.
 
-03:54.810 --> 03:56.808
-Two or more boxes?
+53
+00:03:53.853 --> 00:03:57.435
+And 96 watts. That is also
+the most on a circuit.
 
-03:56.758 --> 03:59.941
-Put each box near its own GFCI plug.
+54
+00:03:57.885 --> 00:04:03.533
+Remember the math. 24 volts times 4
+amps is 96 watts. The limits line up.
 
-03:59.941 --> 04:05.427
-On a two box job, put them at opposite ends of the house, so each box covers its own part.
+55
+00:04:05.035 --> 00:04:08.814
+Now, the biggest change. Count
+lights. Never count feet.
 
-04:05.427 --> 04:07.753
-Boxes never share a controller.
+56
+00:04:09.264 --> 00:04:13.462
+The old rule said, put an
+injection every 60 to 70 feet.
 
-04:07.753 --> 04:09.374
-Each has its own.
+57
+00:04:13.912 --> 00:04:16.600
+That rule is why our
+circuits got overloaded.
 
-04:09.374 --> 04:12.441
-Add both to the same app account so they work together.
+58
+00:04:17.050 --> 00:04:24.057
+At 8 inch spacing, 60 to 70 feet is 90
+to 105 lights. That is way over 4 amps.
 
-04:12.441 --> 04:14.733
-And test each box on its own.
+59
+00:04:24.507 --> 00:04:26.521
+So stop using the old rule.
 
-04:15.698 --> 04:17.580
-Parts to plan for.
+60
+00:04:26.971 --> 00:04:29.488
+The new rule is, inject every 60 lights.
 
-04:17.530 --> 04:20.516
-One T-injection at every injection point.
+61
+00:04:29.488 --> 00:04:32.318
+Never more than 70 lights on one circuit.
 
-04:20.516 --> 04:23.514
-Its feeder is thirty feet max of sixteen-two.
+62
+00:04:32.768 --> 00:04:37.604
+At 8 inch spacing, that is 40
+feet, and never past 47 feet.
 
-04:23.514 --> 04:27.507
-Extensions for every gap, like doors, dormers and gables.
+63
+00:04:38.954 --> 00:04:42.292
+Here is what each circuit
+pulls, at 24 volts.
 
-04:27.507 --> 04:29.023
-Note the length.
+64
+00:04:42.742 --> 00:04:49.517
+50 lights pull 69 watts, or 2.86 amps.
+That is about 33 feet, and it is good.
 
-04:29.023 --> 04:34.128
-And signal boosters on any extension over ten feet, and at every jump to the second floor.
+65
+00:04:49.967 --> 00:04:56.440
+60 lights pull 82 watts, or 3.43
+amps. That is about 40 feet. Aim here.
 
-04:35.098 --> 04:37.385
-Fill in the plan sheet at the quote.
+66
+00:04:56.890 --> 00:05:02.736
+65 lights pull 89 watts, or
+3.71 amps. That is tight.
 
-04:37.335 --> 04:42.602
-One row for each run: feet, lights, circuits, lights each, and amps each.
+67
+00:05:03.186 --> 00:05:08.812
+70 lights pull 96 watts, or
+4.00 amps. That is the most.
 
-04:42.602 --> 04:44.338
-Then the box check.
+68
+00:05:09.262 --> 00:05:14.102
+80 lights is 4.57 amps.
+90 lights is 5.14 amps.
 
-04:44.338 --> 04:51.687
-Lights on the box times one point three seven must be under four eighty watts on a six hundred watt box, or under three sixty on a four fifty.
+69
+00:05:14.102 --> 00:05:19.914
+105 lights is 6.00 amps.
+Every one of those is a stop.
 
-04:51.687 --> 04:53.481
-Then count the parts.
+70
+00:05:20.364 --> 00:05:22.976
+Feet in this table means 8 inch spacing.
 
-04:54.450 --> 04:55.684
-Recap.
+71
+00:05:22.976 --> 00:05:25.839
+If the spacing changes, the feet change.
 
-04:55.634 --> 04:58.088
-Watts equal volts times amps.
+72
+00:05:26.289 --> 00:05:29.615
+The light count never changes.
+That is why we count lights.
 
-04:58.088 --> 05:01.317
-Inject every fifty lights, max fifty-six.
+73
+00:05:30.965 --> 00:05:32.771
+Now, the Pure White trap.
 
-05:01.317 --> 05:06.456
-Three point two amps per circuit, max. Circuits are lights divided by fifty, rounded up.
+74
+00:05:33.221 --> 00:05:37.024
+The sticker says one
+light uses 0.96 watts.
 
-05:06.456 --> 05:09.731
-Boxes are circuits divided by five, rounded up.
+75
+00:05:37.474 --> 00:05:42.867
+On PW, it really pulls 1.37
+watts. That is 43% more.
 
-05:09.731 --> 05:12.972
-And one box covers about a hundred sixty-five feet.
+76
+00:05:43.317 --> 00:05:45.933
+On Pure White, all three
+colours turn on at once.
 
-05:13.922 --> 05:15.515
-That's Part 2.
+77
+00:05:45.933 --> 00:05:49.174
+That is why it pulls so much
+more than the sticker says.
 
-05:15.465 --> 05:18.405
-Now take the Part 2 quiz in your training portal.
+78
+00:05:49.624 --> 00:05:52.672
+Trust the sticker, and
+you think 100 lights fit.
+
+79
+00:05:53.122 --> 00:05:55.927
+Test it, and you hit 4 amps at 70.
+
+80
+00:05:56.377 --> 00:05:58.682
+That gap is why breakers were tripping.
+
+81
+00:06:00.032 --> 00:06:02.894
+So, always test on PW.
+
+82
+00:06:03.344 --> 00:06:07.936
+A run can be fine on red or blue,
+and still overload on white.
+
+83
+00:06:08.386 --> 00:06:13.036
+Every amp test is done on PW. That
+is the far-left white in the app.
+
+84
+00:06:13.486 --> 00:06:17.451
+Not BW. BW has blue in it, and pulls less.
+
+85
+00:06:18.801 --> 00:06:21.710
+Last, the plan sheet.
+Fill it in at the quote.
+
+86
+00:06:22.160 --> 00:06:24.476
+Use one row for each run on the house.
+
+87
+00:06:24.476 --> 00:06:27.773
+Work left to right, using
+the four planning steps.
+
+88
+00:06:28.201 --> 00:06:32.348
+Feet. Then lights, which is
+feet times 1.5. Then circuits,
+
+89
+00:06:32.348 --> 00:06:35.602
+which is lights divided by 60, rounded up.
+
+90
+00:06:36.052 --> 00:06:39.082
+Then lights each, which
+must be 70 or less.
+
+91
+00:06:39.082 --> 00:06:42.293
+Then amps each, which must be 4.0 or less.
+
+92
+00:06:42.743 --> 00:06:47.421
+Here is the 150 foot house
+from before. 225 lights,
+
+93
+00:06:47.421 --> 00:06:52.350
+4 circuits, 56 lights each,
+and 3.2 amps. It is OK.
+
+94
+00:06:53.056 --> 00:06:57.015
+Then add up the total. If the job
+needs more than 5 light circuits,
+
+95
+00:06:57.015 --> 00:06:58.565
+it needs a second box.
+
+96
+00:06:59.933 --> 00:07:01.077
+Let's lock it in.
+
+97
+00:07:01.527 --> 00:07:05.690
+Amps equals watts divided by volts.
+That is the one you use most.
+
+98
+00:07:06.140 --> 00:07:11.707
+Lights are feet times 1.5. Circuits
+are lights divided by 60, rounded up.
+
+99
+00:07:12.157 --> 00:07:17.074
+Watts are lights times 1.37.
+Amps are watts divided by 24.
+
+100
+00:07:17.524 --> 00:07:21.409
+Aim for 60 lights on a
+circuit. Never more than 70.
+
+101
+00:07:21.409 --> 00:07:26.610
+4.0 amps and 96 watts are the
+most. Over 4.0 amps? Add a circuit.
+
+102
+00:07:27.060 --> 00:07:32.481
+Count lights, never feet. On Pure
+White, one light pulls 1.37 watts,
+
+103
+00:07:32.481 --> 00:07:36.319
+43% more than the sticker.
+Always test on PW.
+
+104
+00:07:36.769 --> 00:07:40.779
+Check the controller first, and
+fill in the plan sheet at the quote.
+
+105
+00:07:40.779 --> 00:07:43.741
+More than 5 light circuits
+means a second box.
+
+106
+00:07:44.191 --> 00:07:49.689
+Next, take the Part 2 quiz. Then in Part
+3, we look at wire, parts and water.
