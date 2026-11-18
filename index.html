@@ -99,7 +99,7 @@ function saveLocal(qid,r){try{var l=local();(l[qid]=l[qid]||[]).push(r);localSto
 function sess(){try{var o=JSON.parse(localStorage.getItem("hz:sess")||"null");if(o&&o.exp>Date.now()&&o.s)return o.s;}catch(e){}return "";}
 function setSess(r){try{localStorage.setItem("hz:sess",JSON.stringify({s:r.s,exp:r.exp}));}catch(e){}}
 function clearSess(){try{localStorage.removeItem("hz:sess");}catch(e){}}
-function tmo(){var ac=window.AbortController?new AbortController():null;setTimeout(function(){if(ac)ac.abort();},25000);return ac?ac.signal:undefined;}
+function tmo(){var ac=window.AbortController?new AbortController():null;setTimeout(function(){if(ac)ac.abort();},60000);return ac?ac.signal:undefined;}
 function apiGet(o){var q=[];o.s=sess();o._=Date.now();for(var k in o)q.push(k+"="+encodeURIComponent(o[k]));
  return fetch(API+"?"+q.join("&"),{credentials:"omit",redirect:"follow",mode:"cors",cache:"no-store",signal:tmo()}).then(function(r){if(!r.ok)throw new Error("HTTP "+r.status);return r.json();});}
 function apiPost(o){return fetch(API+"?tapi=1",{method:"POST",body:JSON.stringify(o),headers:{"Content-Type":"text/plain;charset=utf-8"},credentials:"omit",redirect:"follow",cache:"no-store",signal:tmo()}).then(function(r){if(!r.ok)throw new Error("HTTP "+r.status);return r.json();});}
