@@ -1,273 +1,243 @@
 WEBVTT
 
 1
-00:00:01.500 --> 00:00:04.966
-Welcome to Horizon
-installer training, Part 5.
+00:00:01.200 --> 00:00:04.491
+Welcome to Part 5: right way, wrong way.
 
 2
-00:00:05.544 --> 00:00:07.082
-Right way, wrong way.
+00:00:04.791 --> 00:00:11.039
+By the end, you'll be able to open a box and tell in
+seconds whether it's wired safely, which supply it has,
 
 3
-00:00:07.532 --> 00:00:10.652
-By the end, you will be
-able to open a box and tell,
+00:00:11.039 --> 00:00:17.249
+and what a tripping breaker is telling you. And you'll
+know the field card that's in every job's files.
 
 4
-00:00:10.652 --> 00:00:14.203
-fast, whether it is wired
-the old way or the right way.
+00:00:18.399 --> 00:00:22.589
+These two boxes look almost the same
+when you open them. They're not.
 
 5
-00:00:14.653 --> 00:00:17.794
-And you will know what a tripping
-breaker is really telling you.
+00:00:22.889 --> 00:00:28.424
+The wrong way. One wire feeds all three
+injections, and there are no breakers.
 
 6
-00:00:19.144 --> 00:00:21.951
-These two boxes look almost
-the same when you open them.
+00:00:28.724 --> 00:00:33.014
+The supply has 25 amps behind that
+one wire. If one group shorts,
 
 7
-00:00:21.951 --> 00:00:23.654
-They are not the same at all.
+00:00:33.014 --> 00:00:36.828
+nothing shuts off. The wire
+just keeps getting hotter.
 
 8
-00:00:24.104 --> 00:00:26.781
-Here is the wrong way.
-This is what we are fixing.
+00:00:37.978 --> 00:00:42.651
+The right way. Each group has its
+own wire, on its own 4 amp breaker.
 
 9
-00:00:27.231 --> 00:00:31.951
-One 14/2 wire feeds all three
-injections. Nothing keeps them apart.
+00:00:42.951 --> 00:00:45.684
+If one group shorts,
+that one breaker trips.
 
 10
-00:00:32.401 --> 00:00:37.097
-There are no breakers. The 600
-watt supply has 25 amps available.
+00:00:45.684 --> 00:00:49.787
+The other groups stay lit, and
+you know exactly where to look.
 
 11
-00:00:37.547 --> 00:00:40.270
-That is 180 lights behind one path.
-
-12
-00:00:40.720 --> 00:00:44.871
-If one shorts, nothing shuts off.
-The wire just keeps getting hotter.
-
-13
-00:00:46.221 --> 00:00:48.677
-Now the right way. This
-is the standard now.
-
-14
-00:00:49.127 --> 00:00:52.732
-Own wire, own breaker.
-Each group stands alone.
-
-15
-00:00:53.182 --> 00:00:56.416
-The board has 6 breakers, 4 amps max each.
-
-16
-00:00:56.416 --> 00:00:59.899
-Each group here is 60 lights, at 3.4 amps.
-
-17
-00:01:00.349 --> 00:01:04.698
-If one group shorts, that one breaker
-trips. The other two stay lit.
-
-18
-00:01:05.148 --> 00:01:07.035
-And you know exactly where to look.
-
-19
-00:01:07.485 --> 00:01:09.153
-Compare that to the wrong way,
-
-20
-00:01:09.153 --> 00:01:13.574
-where one short leaves 180 lights on
-a wire that just keeps getting hotter.
-
-21
-00:01:14.924 --> 00:01:18.030
+00:00:50.937 --> 00:00:53.983
 So when you open a box,
 ask three questions.
 
-22
-00:01:18.480 --> 00:01:21.343
+12
+00:00:54.283 --> 00:00:58.046
 One. Is there a breaker for
 every wire leaving the box?
 
-23
-00:01:21.793 --> 00:01:24.839
-If not, it is an old system.
-A Mark 1 or a Mark 2.
-
-24
-00:01:24.839 --> 00:01:27.952
-You will learn what to
-do with those in Part 7.
-
-25
-00:01:28.147 --> 00:01:31.514
+13
+00:00:58.346 --> 00:01:02.297
 Two. Does each wire go to one
 injection only? Follow it.
 
+14
+00:01:02.297 --> 00:01:06.498
+If it splits, it's wrong,
+even if both groups are small.
+
+15
+00:01:06.798 --> 00:01:11.149
+Three. Is every light circuit
+breaker 4 amps? Bigger is wrong.
+
+16
+00:01:11.449 --> 00:01:14.793
+Any answer is no? Don't change
+it, and don't add to it.
+
+17
+00:01:14.793 --> 00:01:17.292
+Take photos, and call your crew lead.
+
+18
+00:01:18.442 --> 00:01:22.916
+Next, read the supply
+label. We use two sizes.
+
+19
+00:01:22.916 --> 00:01:27.154
+600 watt, and 450 watt, both at 24 volts.
+
+20
+00:01:27.454 --> 00:01:30.927
+Each circuit follows
+the same rules on both.
+
+21
+00:01:30.927 --> 00:01:34.334
+4 amps, 96 watts, 70 lights at the most.
+
+22
+00:01:34.634 --> 00:01:40.295
+The difference is the total. A
+600 watt supply can push 25 amps.
+
+23
+00:01:40.295 --> 00:01:43.198
+A 450 watt supply, about 18.8.
+
+24
+00:01:43.498 --> 00:01:47.401
+So on a 450 watt box,
+add up every circuit.
+
+25
+00:01:47.401 --> 00:01:52.824
+Five circuits of 60 lights is
+about 411 watts. That fits.
+
 26
-00:01:31.514 --> 00:01:33.447
-If it branches, it is wrong.
+00:01:53.124 --> 00:01:58.643
+Five circuits of 70 is about 480 watts.
+That's more than the supply can give,
 
 27
-00:01:33.897 --> 00:01:39.662
-One wire branching off to two or more injections
-is exactly the wrong box you just saw.
+00:01:58.643 --> 00:02:02.691
+even though every single
+circuit is inside its limit.
 
 28
-00:01:40.112 --> 00:01:43.705
-Three. Is each breaker 4
-amps? Bigger than 4 is wrong.
+00:02:02.991 --> 00:02:07.109
+Asked to add lights to a 450
+watt box? Total it first.
 
 29
-00:01:44.155 --> 00:01:46.658
-And do not fit a bigger
-one to stop a trip.
+00:02:07.109 --> 00:02:12.925
+Over about 328 lights on Pure White,
+it doesn't fit. Tell your crew lead.
 
 30
-00:01:48.008 --> 00:01:51.648
-Which brings us to this. A
-tripping breaker is good news.
+00:02:14.075 --> 00:02:18.133
+Now, a tripping breaker is good
+news. It means the safety is working.
 
 31
-00:01:52.098 --> 00:01:54.101
-It means the safety is working.
+00:02:18.133 --> 00:02:21.265
+It's telling you that
+circuit has too much on it.
 
 32
-00:01:54.551 --> 00:01:57.529
-It is telling you the circuit
-has too many lights on it.
+00:02:21.565 --> 00:02:26.905
+So fix the circuit. Count the lights
+first. It's almost always more than 70.
 
 33
-00:01:57.979 --> 00:02:01.132
-So fix the circuit. Never
-fit a bigger breaker.
+00:02:27.205 --> 00:02:30.499
+Never fit a bigger breaker.
+It doesn't fix anything.
 
 34
-00:02:01.582 --> 00:02:03.867
-A bigger breaker does not fix anything.
+00:02:30.499 --> 00:02:33.155
+It just lets more amps into thin wire.
 
 35
-00:02:03.867 --> 00:02:08.043
-It just lets more amps into thin
-wire, and that is how fires start.
+00:02:34.305 --> 00:02:40.106
+Last, the field card. You'll find it in
+every job's files. Open it on any job.
 
 36
-00:02:08.493 --> 00:02:11.803
-Remember the wrong-way box. It
-had no breaker to trip at all,
+00:02:40.406 --> 00:02:47.221
+The numbers. 60 lights a circuit,
+70 at the most. 4 amps, 96 watts.
 
 37
-00:02:11.803 --> 00:02:14.061
-so the wire just kept getting hotter.
+00:02:47.221 --> 00:02:53.167
+At least 22.8 volts at the
+last light. 16/2 FT-4 feeder.
 
 38
-00:02:14.511 --> 00:02:18.127
-Count the lights first. It is
-almost always more than 70.
+00:02:53.467 --> 00:03:01.635
+The box. 600 watt or 450 watt. On a
+450, keep the total under 450 watts.
 
 39
-00:02:19.477 --> 00:02:24.128
-Last, the card to keep in the truck. It
-puts the whole standard in one place.
+00:03:01.935 --> 00:03:06.462
+And meter it before you leave.
+With everything on PW, full bright.
 
 40
-00:02:24.578 --> 00:02:31.863
-The numbers. 60 lights per circuit, 70
-at the most. 4.0 amps max. 96 watts max.
+00:03:06.762 --> 00:03:15.334
+Amps, with the clamp meter, on the positive feeder of
+each circuit, at the box. Under 3.6 amps is a pass.
 
 41
-00:02:32.313 --> 00:02:37.544
-At least 22.8 volts at the last
-light. And 16/2 FT-4 for the feeder.
+00:03:15.334 --> 00:03:23.585
+3.6 to 4 is tight: it works, but note it, so nobody
+adds lights later. Over 4 is a fail. Split it.
 
 42
-00:02:37.994 --> 00:02:40.451
-The math. Lights are feet times 1.5.
+00:03:23.885 --> 00:03:29.077
+Volts, with the multimeter. About
+24 volts at the supply output,
 
 43
-00:02:40.451 --> 00:02:43.840
-Circuits are lights
-divided by 60, rounded up.
+00:03:29.077 --> 00:03:36.548
+and 22.8 or more at the last light of every
+group. Under 22.8, move the injection closer.
 
 44
-00:02:44.290 --> 00:02:48.936
-Watts are lights times 1.37.
-Amps are watts divided by 24.
-
-45
-00:02:48.936 --> 00:02:51.750
-Check that amps are 4.0 or less.
-
-46
-00:02:52.200 --> 00:02:55.752
-And every time. Power off
-before you plug anything in.
-
-47
-00:02:55.752 --> 00:02:57.976
-Test on PW, never on a colour.
-
-48
-00:02:58.426 --> 00:03:00.423
-Cut the positive at every injection.
-
-49
-00:03:00.423 --> 00:03:03.668
-Grease every connector. And
-meter it before you leave.
-
-50
-00:03:05.018 --> 00:03:06.313
+00:03:37.698 --> 00:03:38.722
 Let's lock it in.
 
-51
-00:03:06.763 --> 00:03:09.778
-Wrong way. One wire
-feeding several injections,
+45
+00:03:39.022 --> 00:03:43.533
+Wrong way: one wire, no
+breakers, nothing shuts off.
 
-52
-00:03:09.778 --> 00:03:12.273
-and no breakers. Nothing shuts off.
+46
+00:03:43.533 --> 00:03:47.167
+Right way: own wire, own 4 amp breaker.
 
-53
-00:03:12.723 --> 00:03:18.058
-Right way. Own wire, own 4 amp breaker.
-One group trips, and the rest stay lit.
+47
+00:03:47.467 --> 00:03:52.646
+Three questions when you open a box.
+Any no? Photos, and call your crew lead.
 
-54
-00:03:18.508 --> 00:03:20.948
-Open the box, and ask three questions.
+48
+00:03:52.946 --> 00:03:58.329
+Read the supply label. On a 450
+watt box, total every circuit.
 
-55
-00:03:20.948 --> 00:03:25.178
-A breaker for every wire? One
-injection per wire? 4 amps each?
+49
+00:03:58.629 --> 00:04:02.030
+A trip means count the lights.
+Never a bigger breaker.
 
-56
-00:03:25.628 --> 00:03:30.360
-A trip is the safety working. Fix the
-circuit. Never fit a bigger breaker.
-
-57
-00:03:30.810 --> 00:03:33.660
-Keep the truck card
-with you, on every job.
-
-58
-00:03:34.110 --> 00:03:39.445
-Next, take the Part 5 quiz. Then
-in Part 6, we test before we leave.
+50
+00:04:02.330 --> 00:04:06.496
+Next, take the Part 5 quiz.
+Part 6 is how to test it.

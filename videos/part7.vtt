@@ -1,359 +1,288 @@
 WEBVTT
 
 1
-00:00:01.500 --> 00:00:05.895
-Welcome to Horizon installer
-training, Part 7. The last part.
+00:00:01.200 --> 00:00:06.081
+Welcome to Part 7, the last part:
+older systems and retrofits.
 
 2
-00:00:06.345 --> 00:00:08.499
-Old systems and retrofits.
+00:00:06.381 --> 00:00:10.701
+This is the only part where we talk
+about the older setups. By the end,
 
 3
-00:00:08.949 --> 00:00:12.197
-By the end, you will know which
-system you are standing under,
+00:00:10.701 --> 00:00:17.158
+you'll know how to tell them apart, what never to
+do on one, and the three ways an old job gets fixed.
 
 4
-00:00:12.197 --> 00:00:15.433
-when to stop and call Ben,
-and what to tell the customer.
+00:00:18.308 --> 00:00:22.193
+On a service call, first find out
+which system you're standing under.
 
 5
-00:00:15.883 --> 00:00:18.989
-You will also learn the
-three ways we fix an old job.
-
-6
-00:00:20.339 --> 00:00:24.235
-On a service call, find out
-which system it is, first.
-
-7
-00:00:24.685 --> 00:00:28.371
+00:00:22.493 --> 00:00:26.609
 There are three. Mark
 1, Mark 2, and Mark 3.
 
+6
+00:00:26.909 --> 00:00:30.404
+Tell them apart by the board,
+not by the supply label.
+
+7
+00:00:31.554 --> 00:00:35.938
+Mark 1 is the old boxes, from
+our first jobs. A 350 watt,
+
 8
-00:00:28.821 --> 00:00:32.229
-Do not change a Mark 1
-or a Mark 2 in the field.
+00:00:35.938 --> 00:00:41.034
+12 volt supply, one wire per
+injection, and no breakers at all.
 
 9
-00:00:32.679 --> 00:00:34.891
-They get booked for a proper retrofit.
+00:00:41.334 --> 00:00:48.861
+Mark 2 is our box with the old board, at 24 volts,
+with a supply anywhere from 450 to 600 watts.
 
 10
-00:00:36.241 --> 00:00:39.794
-Mark 1 is the old boxes,
-from our first jobs.
+00:00:48.861 --> 00:00:56.559
+It often has one 14/2 feeding several injections,
+and only two 5 amp breakers in the whole box.
 
 11
-00:00:39.794 --> 00:00:42.807
-It runs a 350 watt, 12 volt supply.
+00:00:56.859 --> 00:01:03.562
+Mark 3 is the current standard. Six breakers,
+4 amps each, one feeder per circuit,
 
 12
-00:00:43.257 --> 00:00:47.908
-It has one wire per injection. That part
-is right. But there are no breakers.
+00:01:03.562 --> 00:01:11.741
+and the positive cut at every injection. It runs
+on a 600 watt or a 450 watt supply, at 24 volts.
 
 13
-00:00:48.358 --> 00:00:51.349
-Do not touch it. Write down
-the address, and tell Ben.
+00:01:12.041 --> 00:01:15.776
+So a 450 watt label on its
+own doesn't make it old.
 
 14
-00:00:51.349 --> 00:00:53.925
-It needs a new box, controller and supply.
+00:01:15.776 --> 00:01:19.761
+Count the breakers. Six 4
+amp breakers is a Mark 3.
 
 15
-00:00:54.375 --> 00:00:58.804
-Mark 2 is our box with the old
-board, on a 24 volt supply.
+00:01:20.911 --> 00:01:24.305
+Mark 1 or Mark 2? Don't
+change it in the field.
 
 16
-00:00:59.254 --> 00:01:02.408
-It often has one 14/2
-feeding several injections,
+00:01:24.605 --> 00:01:28.233
+Write down the address, take
+photos of the box and the runs,
 
 17
-00:01:02.408 --> 00:01:05.553
-and only two 5 amp
-breakers in the whole box.
+00:01:28.233 --> 00:01:32.233
+and tell your crew lead. It gets
+booked for a proper retrofit.
 
 18
-00:01:06.003 --> 00:01:09.097
-Do not touch it. It is
-first in line for retrofit.
+00:01:32.533 --> 00:01:38.035
+Mark 3 is normal service, inside
+the limits. On a 450 watt Mark 3,
 
 19
-00:01:09.097 --> 00:01:12.256
-It needs new wire or
-drivers, not just a board.
+00:01:38.035 --> 00:01:41.952
+total every circuit
+before you add anything.
 
 20
-00:01:12.706 --> 00:01:19.132
-Mark 3 is our box with the new board,
-and six breakers. 600 watts, at 24 volts.
+00:01:43.102 --> 00:01:46.748
+Stop, and call your crew
+lead, if you see any of these.
 
 21
-00:01:19.582 --> 00:01:22.662
-One feeder per circuit,
-a 4 amp breaker each,
+00:01:47.048 --> 00:01:51.520
+Lights wired straight into the
+supply, with no breaker or fuse.
 
 22
-00:01:22.662 --> 00:01:25.649
-and the positive cut at every injection.
+00:01:51.820 --> 00:01:54.596
+One wire feeding two or more injections,
 
 23
-00:01:26.099 --> 00:01:28.606
-That is the current
-standard. Normal service.
+00:01:54.596 --> 00:01:57.761
+or more than 70 lights between injections.
 
 24
-00:01:28.606 --> 00:01:30.807
-Stay inside the limits from Part 2.
-
-25
-00:01:32.157 --> 00:01:35.042
-Stop, and call Ben, if
-you see any of these.
-
-26
-00:01:35.492 --> 00:01:39.852
-Lights wired straight into the
-power supply. No breaker, no fuse.
-
-27
-00:01:40.302 --> 00:01:43.246
-One wire feeding two or
-more injection points.
-
-28
-00:01:43.246 --> 00:01:46.183
-Or more than 70 lights between injections.
-
-29
-00:01:46.633 --> 00:01:48.218
+00:01:58.061 --> 00:01:59.579
 Any 12 volt system.
 
-30
-00:01:48.668 --> 00:01:51.647
+25
+00:01:59.879 --> 00:02:02.672
 A breaker that trips when
 the customer picks white.
 
+26
+00:02:02.972 --> 00:02:07.939
+Wire through a wall with no rating
+number on it. Wire that looks brown,
+
+27
+00:02:07.939 --> 00:02:11.686
+stiff or melted, or smells
+burnt. Or solid copper.
+
+28
+00:02:12.836 --> 00:02:15.552
+And three things you
+never do on an old system.
+
+29
+00:02:15.852 --> 00:02:18.672
+Never add lights to a Mark 1 or a Mark 2,
+
+30
+00:02:18.672 --> 00:02:22.017
+however few. Those
+circuits are already full.
+
 31
-00:01:52.097 --> 00:01:56.956
-Wire going through a wall with
-no ETL, CSA or UL number on it.
+00:02:22.317 --> 00:02:24.825
+Never fit a bigger breaker to stop a trip.
 
 32
-00:01:57.406 --> 00:02:01.534
-Wire that looks brown, stiff
-or melted, or smells burnt.
+00:02:25.125 --> 00:02:28.562
+And never leave an old run
+live without metering it,
 
 33
-00:02:01.984 --> 00:02:05.612
-And solid copper wire. Everything
-we run must be stranded.
+00:02:28.562 --> 00:02:31.257
+even if all you did was swap a light.
 
 34
-00:02:06.962 --> 00:02:09.662
-And there are three things
-you never do on an old system.
+00:02:32.407 --> 00:02:35.471
+If the customer asks what's
+going on, keep it simple.
 
 35
-00:02:10.112 --> 00:02:12.440
-Never add lights to a Mark 1 or a Mark 2.
+00:02:35.771 --> 00:02:38.649
+We moved to a new power
+system. It's more reliable,
 
 36
-00:02:12.440 --> 00:02:16.608
-Those circuits are already full.
-More lights is what starts the fire.
+00:02:38.649 --> 00:02:42.906
+and it protects the circuit better.
+You're on our list for the upgrade.
 
 37
-00:02:17.058 --> 00:02:19.816
-Never fit a bigger breaker
-to stop it tripping.
+00:02:43.206 --> 00:02:46.354
+No talk of fire, and no
+blame. If they keep asking,
 
 38
-00:02:20.266 --> 00:02:23.232
-And never leave an old run
-live without metering it.
+00:02:46.354 --> 00:02:50.122
+it goes to your crew lead, so
+they get a straight answer.
 
 39
-00:02:24.582 --> 00:02:27.932
-The customer may ask what is going
-on. Here is what you tell them.
+00:02:51.272 --> 00:02:53.906
+There are three ways
+an old job gets fixed.
 
 40
-00:02:28.382 --> 00:02:31.297
-We moved to a new power
-system. It is more reliable,
+00:02:54.206 --> 00:02:59.232
+Fix A. New board. For an old job that
+already has one wire per injection,
 
 41
-00:02:31.297 --> 00:02:33.509
-and it protects the circuit better.
+00:02:59.232 --> 00:03:01.066
+but never had breakers.
 
 42
-00:02:33.959 --> 00:02:35.927
-You are on our list for the upgrade.
+00:03:01.366 --> 00:03:05.984
+Power off. Fit the new board. Each
+wire on its own 4 amp circuit,
 
 43
-00:02:36.377 --> 00:02:38.775
-Do not talk about fire, or blame.
+00:03:05.984 --> 00:03:12.772
+and the controller on its own. Count the lights
+in every group, and split any group over 70.
 
 44
-00:02:39.225 --> 00:02:41.266
-If they keep asking, it goes to Ben.
+00:03:13.072 --> 00:03:18.249
+Fix B. New wire. For an old job where
+one wire feeds several injections.
 
 45
-00:02:41.266 --> 00:02:44.862
-So they get a straight answer,
-from the person who has one.
+00:03:18.249 --> 00:03:21.303
+There's no way around pulling new wire.
 
 46
-00:02:46.212 --> 00:02:48.888
-Now, three ways to fix an old job.
+00:03:21.603 --> 00:03:26.246
+Pull new 16/2 to every injection
+point, one 4 amp circuit per wire,
 
 47
-00:02:49.338 --> 00:02:53.720
-Fix A. New board. Use it when the old
-job already has one wire per injection,
+00:03:26.246 --> 00:03:29.268
+and cut the positive at every injection.
 
 48
-00:02:53.720 --> 00:02:57.100
-and just never had breakers.
-It takes about half a day.
+00:03:29.568 --> 00:03:36.684
+Fix C. Small driver. A small Class 2 driver right at
+the plug, instead of pulling wire all the way back.
 
 49
-00:02:57.550 --> 00:03:00.803
-Power off at the breaker.
-Fit the new board in the box.
+00:03:36.684 --> 00:03:42.477
+Mount it in an enclosure, cut the positive,
+and the data still runs from the box.
 
 50
-00:03:00.803 --> 00:03:06.554
-Put each existing wire on its own 4 amp circuit,
-and the controller on its own 4 amp circuit.
+00:03:42.777 --> 00:03:46.759
+Every fix ends the same
+way. On a 450 watt supply,
 
 51
-00:03:07.004 --> 00:03:10.695
-Count the lights per group,
-and split any group over 70.
+00:03:46.759 --> 00:03:50.832
+check the total. Then
+meter every circuit on PW.
 
 52
-00:03:10.695 --> 00:03:12.989
-Then meter every circuit on PW.
-
-53
-00:03:13.439 --> 00:03:17.508
-Fix B. New wire. Use it when one
-wire feeds several injections.
-
-54
-00:03:17.508 --> 00:03:20.342
-There is no way around pulling new wire.
-
-55
-00:03:20.792 --> 00:03:24.246
-Power off at the breaker.
-Find every injection point,
-
-56
-00:03:24.246 --> 00:03:26.452
-and pull new 16/2 to each one.
-
-57
-00:03:26.902 --> 00:03:30.250
-Fit the new board, with
-one 4 amp circuit per wire.
-
-58
-00:03:30.250 --> 00:03:34.965
-Cut the positive at every injection.
-Then meter every circuit on PW.
-
-59
-00:03:35.415 --> 00:03:39.941
-Fix C. Small driver. Put a small
-Class 2 driver right at the plug,
-
-60
-00:03:39.941 --> 00:03:43.003
-instead of pulling wire all the way back.
-
-61
-00:03:43.453 --> 00:03:46.815
-Power off at the breaker. Check
-there is a plug at the roofline,
-
-62
-00:03:46.815 --> 00:03:49.009
-and mount the driver in an enclosure.
-
-63
-00:03:49.459 --> 00:03:52.275
-Cut the positive. The
-driver feeds forward,
-
-64
-00:03:52.275 --> 00:03:56.849
-and the data still runs from the
-box. Then meter that group on PW.
-
-65
-00:03:58.199 --> 00:03:59.517
+00:03:51.982 --> 00:03:53.006
 Let's lock it in.
 
-66
-00:03:59.967 --> 00:04:03.080
-On a service call, find out
-which system it is first.
+53
+00:03:53.306 --> 00:03:58.100
+Find out which system it is first. Count
+the breakers, don't trust the label.
 
-67
-00:04:03.080 --> 00:04:06.150
-Do not change a Mark 1
-or a Mark 2 in the field.
+54
+00:03:58.400 --> 00:04:04.738
+Mark 1 or Mark 2: no changes in the
+field. Address, photos, crew lead.
 
-68
-00:04:06.600 --> 00:04:10.379
-See anything on the stop
-list? Stop, and call Ben.
+55
+00:04:05.038 --> 00:04:07.702
+Never add lights, never a bigger breaker,
 
-69
-00:04:10.829 --> 00:04:14.289
-Never add lights to an old system,
-never fit a bigger breaker,
-
-70
-00:04:14.289 --> 00:04:17.441
+56
+00:04:07.702 --> 00:04:11.330
 and never leave an old run
 live without metering it.
 
-71
-00:04:17.891 --> 00:04:20.608
-Tell the customer we moved
-to a new power system,
+57
+00:04:11.630 --> 00:04:15.791
+Three fixes: new board, new
+wire, or a small driver.
 
-72
-00:04:20.608 --> 00:04:24.573
-and they are on the list for the
-upgrade. No talk of fire or blame.
-
-73
-00:04:25.023 --> 00:04:29.075
-Three fixes. A new board,
-new wire, or a small driver.
-
-74
-00:04:29.075 --> 00:04:32.251
+58
+00:04:15.791 --> 00:04:19.162
 Every one ends with a meter test on PW.
 
-75
-00:04:32.701 --> 00:04:35.761
-That is the end of the
+59
+00:04:19.462 --> 00:04:22.525
+That's the end of the
 course. Take the Part 7 quiz,
 
-76
-00:04:35.761 --> 00:04:38.013
-and thank you for wiring it right.
+60
+00:04:22.525 --> 00:04:24.637
+and thanks for wiring it right.

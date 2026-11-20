@@ -1,284 +1,214 @@
 WEBVTT
 
 1
-00:00:01.500 --> 00:00:05.175
-Welcome to Horizon
-installer training, Part 6.
+00:00:01.200 --> 00:00:04.235
+Welcome to Part 6: test before you leave.
 
 2
-00:00:05.555 --> 00:00:07.059
-Test before you leave.
+00:00:04.535 --> 00:00:08.890
+This part is about the meters. How to
+set them, where to take each reading,
 
 3
-00:00:07.509 --> 00:00:11.467
-By the end, you will know the two
-tests we run on every circuit,
+00:00:08.890 --> 00:00:11.927
+and what to do when a
+number doesn't make sense.
 
 4
-00:00:11.467 --> 00:00:14.377
-and how to read a pass,
-a tight, or a fail.
+00:00:13.077 --> 00:00:15.533
+If you didn't measure
+it, it isn't finished.
 
 5
-00:00:14.827 --> 00:00:18.223
-You will also know how to fill in
-the test sheet for the job file.
+00:00:15.833 --> 00:00:21.201
+Two readings on every circuit. Amps,
+and volts. It takes about ten minutes.
 
 6
-00:00:19.573 --> 00:00:22.877
-Here is the rule. If you did not
-measure it, it is not finished.
-
-7
-00:00:23.327 --> 00:00:26.015
-Every job gets tested
-before the truck leaves.
-
-8
-00:00:26.465 --> 00:00:30.047
-Two readings on every circuit.
-Amps, and volts at the end.
-
-9
-00:00:30.497 --> 00:00:34.984
-Both are taken on Pure White, because
-that is the hardest the system ever works.
-
-10
-00:00:35.434 --> 00:00:37.147
-It takes about ten minutes.
-
-11
-00:00:37.597 --> 00:00:41.573
-Why Pure White? On PW, all
-three colours turn on at once.
-
-12
-00:00:41.573 --> 00:00:46.148
-A run can be fine on red or blue,
-and still overload on white.
-
-13
-00:00:47.498 --> 00:00:49.641
-Test A. Amps on every circuit.
-
-14
-00:00:50.091 --> 00:00:53.882
-Step 1. Set the whole
+00:00:21.501 --> 00:00:25.820
+Before you start, set the whole
 system to PW, full bright.
 
+7
+00:00:26.970 --> 00:00:29.967
+Test A. Amps, with the clamp meter.
+
+8
+00:00:30.267 --> 00:00:33.425
+Set it to DC amps. Our lights run on DC.
+
+9
+00:00:33.425 --> 00:00:37.543
+On the AC setting, it
+won't read anything useful.
+
+10
+00:00:37.843 --> 00:00:40.877
+With the jaws closed,
+and away from any wire,
+
+11
+00:00:40.877 --> 00:00:43.757
+press zero. Now it starts from nothing.
+
+12
+00:00:44.057 --> 00:00:49.782
+Clamp around the positive feeder of
+one circuit, at the box. One wire only.
+
+13
+00:00:50.082 --> 00:00:53.782
+Clamp both wires together, and
+they cancel each other out.
+
+14
+00:00:53.782 --> 00:00:55.691
+You'll read close to zero.
+
 15
-00:00:54.332 --> 00:00:59.586
-Step 2. Clamp the meter around the
-positive feeder of one circuit, at the box.
+00:00:55.991 --> 00:01:00.235
+Close the jaws all the way, keep
+the wire in the middle, and read it.
 
 16
-00:01:00.036 --> 00:01:02.004
-One wire only. Not both.
+00:01:00.235 --> 00:01:04.299
+Write it next to that circuit's
+number. Then do every circuit.
 
 17
-00:01:02.454 --> 00:01:05.200
-Step 3. Read it, and write it down.
+00:01:05.449 --> 00:01:08.482
+Test B. Volts, with the multimeter.
 
 18
-00:01:05.650 --> 00:01:07.700
-Then do the same on every circuit.
+00:01:08.782 --> 00:01:13.590
+Set it to DC volts. Red lead on the
+positive, black on the negative.
 
 19
-00:01:08.150 --> 00:01:12.068
-Every reading goes on the test sheet.
-You will see it at the end of this part.
-
-20
-00:01:13.418 --> 00:01:15.201
-Test B. Volts at the end.
-
-21
-00:01:15.651 --> 00:01:21.276
-Step 1. Stay on PW. Meter the supply
+00:01:13.890 --> 00:01:19.410
+First, the beginning. Meter the supply
 output. It should read about 24 volts.
 
+20
+00:01:19.710 --> 00:01:22.910
+Then the end. Meter at the
+last light of each group.
+
+21
+00:01:22.910 --> 00:01:26.544
+That's the far end of the
+run, not the injection point.
+
 22
-00:01:21.726 --> 00:01:24.693
-Step 2. Meter at the
-last light in that group.
+00:01:26.844 --> 00:01:30.257
+Test at both. The beginning
+tells you the supply is right.
 
 23
-00:01:25.143 --> 00:01:29.108
-Step 3. It must not drop below 22.8 volts.
+00:01:30.257 --> 00:01:32.919
+The end tells you the run isn't too long.
 
 24
-00:01:29.558 --> 00:01:33.431
-That is a 5% drop, and 5% is our limit.
+00:01:33.219 --> 00:01:38.150
+A minus sign in front of the number just
+means the leads are swapped. Flip them.
 
 25
-00:01:33.881 --> 00:01:36.859
-Then do the same at the
-last light of every group.
+00:01:39.300 --> 00:01:43.861
+When a reading doesn't make sense, check
+the meter before you blame the lights.
 
 26
-00:01:38.209 --> 00:01:42.372
-Now, reading the results.
-First, amps on PW.
+00:01:44.161 --> 00:01:48.828
+Close to zero amps on a circuit
+that's lit? You've clamped both wires,
 
 27
-00:01:42.822 --> 00:01:47.507
-Under 3.6 amps is a pass.
-Write it down, and move on.
+00:01:48.828 --> 00:01:50.545
+or the meter is on AC.
 
 28
-00:01:47.957 --> 00:01:50.241
-3.6 to 4.0 amps is tight. It works,
+00:01:50.845 --> 00:01:56.385
+Every circuit reading low for its light
+count? Check the app is really on PW,
 
 29
-00:01:50.241 --> 00:01:54.081
-but no lights get added to
-this circuit later. Note it.
+00:01:56.385 --> 00:01:59.080
+full bright. Not BW, not a colour.
 
 30
-00:01:54.531 --> 00:01:58.078
-Over 4.0 amps is a fail. Too many lights.
+00:01:59.380 --> 00:02:04.865
+Supply reads fine, but the last light
+is low? The injection is too far away.
 
 31
-00:01:58.528 --> 00:02:02.052
-Split it, and add an injection.
-Do not leave it like this.
+00:02:04.865 --> 00:02:08.291
+Move it closer, or add
+one, then test again.
 
 32
-00:02:02.502 --> 00:02:05.930
-Remember. Tight means it works,
-but that circuit is full.
+00:02:08.591 --> 00:02:13.871
+The supply itself reads well under 24
+volts? Stop, and call your crew lead.
 
 33
-00:02:05.930 --> 00:02:08.766
-Note it, so nobody adds
-lights to it later.
+00:02:15.021 --> 00:02:16.077
+Then write it down.
 
 34
-00:02:10.116 --> 00:02:12.073
-Next, volts at the last light.
+00:02:16.377 --> 00:02:19.673
+For each circuit, the light
+count, the amps on PW,
 
 35
-00:02:12.523 --> 00:02:16.593
-22.8 volts or more is
-a pass. Write it down.
+00:02:19.673 --> 00:02:24.339
+the volts at the last light, and
+the result against the field card.
 
 36
-00:02:17.043 --> 00:02:21.360
-Under 22.8 volts is a fail.
-The injection is too far away.
+00:02:24.639 --> 00:02:27.357
+It goes in the test
+sheet in the job files,
 
 37
-00:02:21.360 --> 00:02:23.620
-Move it closer, or add one.
+00:02:27.357 --> 00:02:30.263
+with the address, your name, and the date.
 
 38
-00:02:24.070 --> 00:02:27.629
-And if a breaker trips on
-PW, that is a fail too.
+00:02:30.563 --> 00:02:34.368
+A tight circuit gets a note, so
+nobody adds lights to it later.
 
 39
-00:02:28.079 --> 00:02:32.009
-Too many lights. Count them.
-It is almost always over 70.
-
-40
-00:02:32.459 --> 00:02:37.298
-Remember from Part 3. Far-end lights
-that look dim or yellow are voltage drop.
-
-41
-00:02:37.298 --> 00:02:40.836
-The fix is a closer injection,
-never a bigger supply.
-
-42
-00:02:42.442 --> 00:02:45.710
-Last, the test sheet.
-Leave it with the job file.
-
-43
-00:02:46.160 --> 00:02:49.387
-One row for each circuit.
-Write down the lights on it,
-
-44
-00:02:49.387 --> 00:02:52.506
-the amps on PW, and the
-volts at the last light.
-
-45
-00:02:52.956 --> 00:02:55.632
-Then mark each one, pass or fail.
-
-46
-00:02:56.082 --> 00:02:59.734
-Fill in the address, the
-installer, and the date.
-
-47
-00:03:00.184 --> 00:03:03.232
-Remember. If you did not
-measure it, it is not finished.
-
-48
-00:03:03.682 --> 00:03:06.546
-The sheet has a row for
-every circuit on the board,
-
-49
-00:03:06.546 --> 00:03:10.166
-one to six. Fill in a row for
-each light circuit you tested.
-
-50
-00:03:11.516 --> 00:03:12.579
+00:02:35.518 --> 00:02:36.542
 Let's lock it in.
 
-51
-00:03:13.029 --> 00:03:15.912
-If you did not measure
-it, it is not finished.
+40
+00:02:36.842 --> 00:02:43.081
+Clamp meter on DC amps, zeroed, around
+the positive feeder only, at the box.
 
-52
-00:03:15.912 --> 00:03:18.794
-Two readings on every circuit, both on PW.
+41
+00:02:43.381 --> 00:02:47.975
+Multimeter on DC volts, at
+the beginning and at the end.
 
-53
-00:03:19.244 --> 00:03:23.708
-Test A. Clamp the positive
-feeder only, at the box.
+42
+00:02:47.975 --> 00:02:52.737
+About 24 at the supply, 22.8
+or more at the last light.
 
-54
-00:03:23.708 --> 00:03:27.284
-Under 3.6 amps passes. Over 4.0 fails.
+43
+00:02:53.037 --> 00:02:56.292
+Odd reading? Check the
+meter and the app first.
 
-55
-00:03:27.734 --> 00:03:34.184
-Test B. About 24 volts at the supply, and
-at least 22.8 volts at the last light.
+44
+00:02:56.592 --> 00:03:00.164
+Every reading goes in the
+test sheet in the job files.
 
-56
-00:03:34.634 --> 00:03:37.747
-Fail on amps? Split it,
-and add an injection.
-
-57
-00:03:37.747 --> 00:03:41.664
-Fail on volts? Move the
-injection closer, or add one.
-
-58
-00:03:42.114 --> 00:03:45.243
-Fill in the test sheet, and
-leave it with the job file.
-
-59
-00:03:45.693 --> 00:03:48.673
-Next, take the Part 6
-quiz. Then in Part 7,
-
-60
-00:03:48.673 --> 00:03:52.526
-the last part, we look at
-old systems and retrofits.
+45
+00:03:00.464 --> 00:03:06.206
+Next, take the Part 6 quiz. Part
+7, the last part, is older systems.
