@@ -1,273 +1,283 @@
 WEBVTT
 
 1
-00:00:01.500 --> 00:00:04.711
-Welcome to Horizon
-installer training, Part 4.
+00:00:01.200 --> 00:00:03.758
+Welcome to Part 4: how to wire it.
 
 2
-00:00:05.335 --> 00:00:06.490
-How to wire it.
+00:00:04.058 --> 00:00:09.380
+By the end, you'll know the layout every job
+uses, how to mark the plan before you start,
 
 3
-00:00:06.940 --> 00:00:09.792
-By the end, you will know
-how we wire every job.
+00:00:09.380 --> 00:00:14.533
+the order to do the work in, and what to
+do when the house doesn't match the plan.
 
 4
-00:00:09.792 --> 00:00:12.241
-One circuit, one breaker, kept apart.
+00:00:15.683 --> 00:00:20.672
+Every job uses one layout. One
+circuit, one breaker, kept apart.
 
 5
-00:00:12.691 --> 00:00:17.074
-You will learn the six steps, in order,
-and the two things that are never OK.
+00:00:20.972 --> 00:00:24.913
+Each group of lights gets its own
+feeder, from its own 4 amp breaker.
 
 6
-00:00:18.424 --> 00:00:23.028
-Here is how every job is wired now.
-One circuit. One breaker. Kept apart.
+00:00:24.913 --> 00:00:27.447
+The controller gets its own breaker too.
 
 7
-00:00:23.478 --> 00:00:27.536
-Each group of lights gets its own
-wire, from its own 4 amp breaker.
+00:00:27.747 --> 00:00:30.514
+At every injection
+point, cut the positive.
 
 8
-00:00:27.986 --> 00:00:32.508
-At each injection point, we cut the
-positive. So power cannot carry forward.
+00:00:30.514 --> 00:00:33.789
+Power from one group
+can't carry into the next.
 
 9
-00:00:32.958 --> 00:00:36.900
-But the data wire runs all the way
-through, so the pattern stays smooth.
+00:00:34.089 --> 00:00:37.810
+The data wire is never cut.
+It runs all the way through,
 
 10
-00:00:37.350 --> 00:00:43.068
-Here, each group is 60 lights,
-pulling about 3.4 amps on PW.
+00:00:37.810 --> 00:00:39.921
+so the pattern stays smooth.
 
 11
-00:00:43.518 --> 00:00:47.286
-And the controller gets its
-own 4 amp breaker as well.
+00:00:41.071 --> 00:00:42.393
+Why cut the positive?
 
 12
-00:00:47.736 --> 00:00:50.575
-If one group faults, one breaker trips.
+00:00:42.693 --> 00:00:46.760
+Leave it joined, and power flows
+from one group into the next.
 
 13
-00:00:51.025 --> 00:00:54.549
-Everything else stays on, and you
-know right where the problem is.
+00:00:46.760 --> 00:00:50.487
+Then one breaker ends up
+feeding two or three groups.
 
 14
-00:00:55.899 --> 00:00:57.508
-Now, do it in this order.
+00:00:50.787 --> 00:00:54.562
+Cut it, and each group stands
+alone. If one group faults,
 
 15
-00:00:57.958 --> 00:01:02.751
-Step 1. Plan it first. Take a photo
-of every roofline, measure the run,
+00:00:54.562 --> 00:00:58.719
+only its breaker trips, and
+you know exactly where to look.
 
 16
-00:01:02.751 --> 00:01:07.658
-and mark on the photo where each
-injection goes. One every 60 lights.
+00:00:59.869 --> 00:01:02.878
+Plan it before you start.
+In the truck on the way,
 
 17
-00:01:08.108 --> 00:01:12.037
-Step 2. Pull one feeder to
-each injection point. One wire,
+00:01:02.878 --> 00:01:06.739
+or on site before you unload.
+Never figure it out as you go.
 
 18
-00:01:12.037 --> 00:01:15.742
-one circuit. Never run two
-injections off one wire.
+00:01:07.039 --> 00:01:10.432
+Open the job photo from the
+job files, and mark it up.
 
 19
-00:01:16.192 --> 00:01:19.142
-Step 3. Put each feeder
-on its own 4 amp breaker.
+00:01:10.732 --> 00:01:14.361
+Every roofline in the job,
+and the feet of each run.
 
 20
-00:01:19.142 --> 00:01:21.318
-The controller gets its own too.
-
-21
-00:01:21.768 --> 00:01:27.057
-Step 4. Cut the positive at every
-injection point. Leave the data wire alone.
-
-22
-00:01:27.507 --> 00:01:31.321
-Step 5. Grease every connector
-before you push it together.
-
-23
-00:01:31.771 --> 00:01:35.950
-Step 6. Turn it on, and test
-it on PW before you pack up.
-
-24
-00:01:35.950 --> 00:01:38.766
-You will learn the tests in Part 6.
-
-25
-00:01:39.838 --> 00:01:41.911
-There are two things that are never OK.
-
-26
-00:01:42.361 --> 00:01:46.082
-One. Wiring a run straight to the
-power supply, with no breaker.
-
-27
-00:01:46.532 --> 00:01:50.172
-Two. Running more than one
-injection point off a single feeder.
-
-28
-00:01:50.622 --> 00:01:54.564
-If a job seems to need either
-one, stop, and call Ben.
-
-29
-00:01:55.014 --> 00:01:56.657
-There is always another way.
-
-30
-00:01:58.007 --> 00:02:00.010
-So why do we cut the positive?
-
-31
-00:02:00.460 --> 00:02:04.646
-If we leave it joined, power from
-one group flows into the next.
-
-32
-00:02:05.096 --> 00:02:08.504
-Then one breaker is carrying
-two or three groups.
-
-33
-00:02:08.954 --> 00:02:11.526
-That is the exact thing
-we are trying to stop.
-
-34
-00:02:11.976 --> 00:02:14.328
-Cut it, and each group stands alone.
-
-35
-00:02:14.778 --> 00:02:18.894
-Now, if one group faults, only
-that group's breaker trips.
-
-36
-00:02:20.244 --> 00:02:23.628
-Step 1 sets up the whole job.
-Mark the photo before you go.
-
-37
-00:02:24.078 --> 00:02:27.057
-Take the photo at the
-quote, and measure the run.
-
-38
-00:02:27.507 --> 00:02:32.645
-Then draw the injection points on it.
-One every 60 lights, which is 40 feet.
-
-39
-00:02:33.095 --> 00:02:35.771
-The crew should never be
-working this out on a ladder.
-
-40
-00:02:36.221 --> 00:02:39.410
-Here is what goes on the photo.
-Every roofline in the job.
-
-41
-00:02:39.410 --> 00:02:41.475
-Miss one, and the quote is wrong.
-
-42
-00:02:41.925 --> 00:02:43.615
-The total feet for each run.
-
-43
-00:02:44.065 --> 00:02:46.077
+00:01:14.661 --> 00:01:16.632
 A dot at every injection point,
 
-44
-00:02:46.077 --> 00:02:49.702
+21
+00:01:16.632 --> 00:01:20.505
 and the light count between
-each dot. Never over 70.
+the dots. Never more than 70.
 
-45
-00:02:50.152 --> 00:02:51.621
+22
+00:01:20.805 --> 00:01:22.260
 And where the box goes.
 
+23
+00:01:22.560 --> 00:01:26.768
+Here the gaps are 40, 40, 38 and 42 feet.
+
+24
+00:01:26.768 --> 00:01:32.253
+Even 42 feet is only 63
+lights, so this plan works.
+
+25
+00:01:33.403 --> 00:01:35.476
+On site, work in this order.
+
+26
+00:01:35.776 --> 00:01:40.684
+One. Mount the box, and number the
+breakers to match the dots on the photo.
+
+27
+00:01:40.984 --> 00:01:45.524
+Two. Pull one feeder to each dot,
+and label both ends with its number.
+
+28
+00:01:45.524 --> 00:01:48.822
+Then nobody has to guess
+which feeder is which.
+
+29
+00:01:49.122 --> 00:01:50.939
+Three. Hang the lights.
+
+30
+00:01:51.239 --> 00:01:55.561
+Four. At each dot, cut the positive,
+and leave the data wire alone.
+
+31
+00:01:55.561 --> 00:02:02.647
+Not sure which wire is the positive? Meter it before
+you cut. Seal the cut end so it can't touch anything.
+
+32
+00:02:02.947 --> 00:02:08.022
+Five. Land each feeder on its own
+breaker, and the controller on its own.
+
+33
+00:02:08.322 --> 00:02:10.957
+Six. Grease every connector as you go.
+
+34
+00:02:10.957 --> 00:02:14.328
+Then power on, and meter
+it before you leave.
+
+35
+00:02:15.478 --> 00:02:17.875
+Sometimes the house
+doesn't match the plan.
+
+36
+00:02:18.175 --> 00:02:23.249
+Say the back run is longer than the photo
+showed. Count the lights in that gap.
+
+37
+00:02:23.249 --> 00:02:27.866
+If it's over 70, add a dot, with
+its own feeder and its own breaker.
+
+38
+00:02:28.166 --> 00:02:30.473
+Then update the photo in the job files,
+
+39
+00:02:30.473 --> 00:02:33.206
+so the next crew sees what's really there.
+
+40
+00:02:33.506 --> 00:02:35.486
+Out of circuits on the board? Stop,
+
+41
+00:02:35.486 --> 00:02:38.564
+and call your crew lead
+before you go any further.
+
+42
+00:02:39.714 --> 00:02:42.580
+When you power on, the
+lights tell you a lot.
+
+43
+00:02:42.880 --> 00:02:46.734
+One group dark, and the rest fine?
+Look at that group's own breaker,
+
+44
+00:02:46.734 --> 00:02:49.138
+then its feeder connection at the dot.
+
+45
+00:02:49.438 --> 00:02:53.776
+Lights on, but the pattern goes wrong
+from one point on? That's the data wire.
+
 46
-00:02:52.071 --> 00:02:57.534
-On this photo, the runs between the
-dots are 40, 40, 38 and 42 feet.
+00:02:53.776 --> 00:02:57.085
+Check the connection right
+where it starts going wrong.
 
 47
-00:02:57.984 --> 00:03:04.503
-At 1.5 lights per foot, even the 42
-foot run is 63 lights. That is under 70.
+00:02:57.385 --> 00:03:01.803
+Fix it, then power on again and
+check every group before you meter.
 
 48
-00:03:05.853 --> 00:03:06.916
-Let's lock it in.
+00:03:02.953 --> 00:03:04.515
+Two things are never OK.
 
 49
-00:03:07.366 --> 00:03:09.782
-One circuit, one breaker, kept apart.
+00:03:04.815 --> 00:03:08.339
+A run wired straight to the
+supply, with no breaker.
 
 50
-00:03:09.782 --> 00:03:14.407
-Each feeder gets its own 4 amp
-breaker, and so does the controller.
+00:03:08.639 --> 00:03:13.032
+And two injection points off one
+feeder, even if both groups are small.
 
 51
-00:03:14.857 --> 00:03:18.869
-Cut the positive at every
-injection. Never cut the data wire.
+00:03:13.332 --> 00:03:17.098
+If a job seems to need either one,
+stop, and call your crew lead.
 
 52
-00:03:19.319 --> 00:03:24.200
-Never wire straight to the supply, and
-never run two injections off one feeder.
+00:03:17.098 --> 00:03:21.751
+Your crew lead takes it up the chain
+from there. There's always another way.
 
 53
-00:03:24.200 --> 00:03:26.674
-If a job seems to need it, call Ben.
+00:03:22.901 --> 00:03:23.925
+Let's lock it in.
 
 54
-00:03:27.124 --> 00:03:31.728
-Follow the six steps in order,
-and finish with a test on PW.
+00:03:24.225 --> 00:03:28.000
+Every group gets its own feeder
+and its own 4 amp breaker.
 
 55
-00:03:32.178 --> 00:03:35.688
-Mark the photo at the quote.
-A dot every 60 lights,
+00:03:28.000 --> 00:03:30.722
+Cut the positive, never the data wire.
 
 56
-00:03:35.688 --> 00:03:38.071
-and never over 70 between dots.
+00:03:31.022 --> 00:03:35.878
+Mark the photo before you start. Never
+more than 70 lights between dots.
 
 57
-00:03:38.521 --> 00:03:41.189
-Next, take the Part 4
-quiz. Then in Part 5,
+00:03:36.178 --> 00:03:38.516
+Number the breakers, label the feeders,
 
 58
-00:03:41.189 --> 00:03:44.541
-we learn to tell the right
-way from the wrong way.
+00:03:38.516 --> 00:03:41.823
+and update the photo if
+the house changes the plan.
+
+59
+00:03:42.123 --> 00:03:47.003
+Dark group? Its breaker or feeder.
+Pattern off? The data wire.
+
+60
+00:03:47.303 --> 00:03:51.521
+Next, take the Part 4 quiz.
+Part 5 is checking a box.

@@ -1,330 +1,260 @@
 WEBVTT
 
 1
-00:00:01.500 --> 00:00:04.803
-Welcome to Horizon
-installer training, Part 1.
+00:00:01.200 --> 00:00:03.884
+Welcome to Horizon installer training.
 
 2
-00:00:05.253 --> 00:00:08.243
-Class 2. What it means,
-and how we wire now.
+00:00:03.884 --> 00:00:07.172
+This is Part 1: Class
+2, and what it means.
 
 3
-00:00:08.693 --> 00:00:11.194
-By the end, you will
-know what Class 2 means,
+00:00:07.472 --> 00:00:10.903
+By the end, you'll know why
+amps matter more than volts,
 
 4
-00:00:11.194 --> 00:00:15.166
-why amps matter more than volts,
+00:00:10.903 --> 00:00:15.134
+how to work out amps yourself,
 and the words we use on every job.
 
 5
-00:00:15.616 --> 00:00:18.328
-This part is the base for
-everything else in the course,
+00:00:16.284 --> 00:00:18.432
+Here's the whole standard in one line.
 
 6
-00:00:18.328 --> 00:00:19.837
-so take your time with it.
+00:00:18.732 --> 00:00:22.449
+Every light circuit we install
+carries 4 amps or less.
 
 7
-00:00:21.187 --> 00:00:23.527
-Here is the whole standard in one line.
+00:00:22.749 --> 00:00:26.366
+This part shows you why. The
+rest of the course shows you how.
 
 8
-00:00:23.977 --> 00:00:27.849
-Every light circuit we install
-can carry 4 amps. Not more.
+00:00:27.516 --> 00:00:30.520
+Start with two words: volts and amps.
 
 9
-00:00:28.299 --> 00:00:32.299
-This part shows you why. The rest of the
-course shows you how to wire it right.
-
-10
-00:00:33.649 --> 00:00:36.128
-Start with the one idea that matters most.
-
-11
-00:00:36.578 --> 00:00:39.208
-Volts do not start fires. Amps do.
-
-12
-00:00:39.658 --> 00:00:41.870
+00:00:30.820 --> 00:00:33.020
 Volts are how hard the power pushes.
 
-13
-00:00:42.320 --> 00:00:45.566
+10
+00:00:33.320 --> 00:00:36.813
 Amps are how much power is
 actually moving through the wire.
 
+11
+00:00:37.113 --> 00:00:41.524
+It's the amps that make heat. Push
+too many amps down a thin wire,
+
+12
+00:00:41.524 --> 00:00:44.581
+and it gets hot. Hot enough, and it burns.
+
+13
+00:00:44.880 --> 00:00:48.950
+The wire built into our light
+strings is thin. It's 20 gauge,
+
 14
-00:00:46.016 --> 00:00:49.586
-You need both to make power, but
-it is the amps that make heat.
+00:00:48.950 --> 00:00:53.536
+and it can only take a few amps.
+Protecting that wire is the job.
 
 15
-00:00:50.036 --> 00:00:53.839
-Push too many amps down a
-small wire, and it gets hot.
+00:00:54.686 --> 00:00:57.636
+So how do you work out
+amps? You need two numbers,
 
 16
-00:00:54.289 --> 00:00:56.315
-Hot enough, and it burns.
+00:00:57.636 --> 00:01:02.192
+and both are printed on the power
+supply label. The watts, and the volts.
 
 17
-00:00:56.765 --> 00:01:01.775
-Our light wire is thin. It is 20 gauge,
-and it comes built into the lights.
+00:01:02.492 --> 00:01:06.479
+Then divide. Amps equals
+watts, divided by volts.
 
 18
-00:01:02.225 --> 00:01:05.877
-That thin wire can only take a few
-amps. Protecting it is the job.
+00:01:06.779 --> 00:01:14.104
+Try it on our 600 watt supply. 600
+watts, divided by 24 volts, is 25 amps.
 
 19
-00:01:07.227 --> 00:01:11.273
-So how many amps can a power supply
-push out, if nothing stops it?
+00:01:14.404 --> 00:01:18.855
+Our 450 watt supply works the same way.
 
 20
-00:01:11.723 --> 00:01:16.107
-Look at these three bars. Each one
-is a power supply we have used.
+00:01:18.855 --> 00:01:24.354
+450 divided by 24 is
+18.75 amps. Call it 18.8.
 
 21
-00:01:16.557 --> 00:01:20.722
-Our first systems, Mark 1,
-ran 350 watts at 12 volts.
+00:01:24.654 --> 00:01:28.600
+That's how many amps the supply
+can push out if nothing stops it.
 
 22
-00:01:20.722 --> 00:01:24.667
-With nothing in the way,
-that is about 29 amps.
+00:01:28.600 --> 00:01:32.431
+Either way, it's far more than
+thin 20 gauge wire can take.
 
 23
-00:01:25.117 --> 00:01:30.080
-Mark 2 ran 600 watts at 24
-volts. That is about 25 amps.
+00:01:32.731 --> 00:01:37.172
+Now try one circuit.
+Our limit is 96 watts,
 
 24
-00:01:30.530 --> 00:01:34.124
-Either way, that is far more
-than thin 20 gauge wire can take.
+00:01:37.172 --> 00:01:41.552
+at 24 volts. 96 divided by 24 is 4 amps.
 
 25
-00:01:34.574 --> 00:01:40.339
-Mark 3 uses a 600 watt, 24 volt supply
-too, but with a breaker on each circuit.
+00:01:41.852 --> 00:01:46.312
+It works on any supply you ever
+look at, ours or anyone else's.
 
 26
-00:01:40.789 --> 00:01:46.298
+00:01:46.312 --> 00:01:51.800
+Read the watts and the volts off the
+label, divide, and you know the amps.
+
+27
+00:01:52.950 --> 00:01:57.065
+So what keeps 25 amps away
+from a thin wire? A breaker.
+
+28
+00:01:57.365 --> 00:02:02.588
 A breaker is a switch that shuts the power
 off by itself when it sees too many amps.
 
-27
-00:01:46.748 --> 00:01:49.459
-Now each circuit tops out at 4 amps.
-
-28
-00:01:49.909 --> 00:01:54.722
-That drop, from 25 amps down to 4,
-is the whole point of the change.
-
 29
-00:01:56.072 --> 00:01:58.632
-So what does Class 2 actually mean?
+00:02:02.888 --> 00:02:06.105
+Every light circuit gets
+its own 4 amp breaker.
 
 30
-00:01:59.082 --> 00:02:01.318
-Class 2 is a safety rule.
+00:02:06.105 --> 00:02:11.764
+The supply can still push 25 amps, but
+no single circuit ever gets more than 4.
 
 31
-00:02:01.768 --> 00:02:06.801
-It says a circuit can only carry a
-small amount of power. About 100 watts.
+00:02:12.064 --> 00:02:14.616
+That drop, from what the supply can push,
 
 32
-00:02:07.251 --> 00:02:11.971
-At 24 volts, 100 watts
-works out to 4.16 amps.
+00:02:14.616 --> 00:02:17.668
+down to 4 amps a circuit,
+is the whole point.
 
 33
-00:02:12.421 --> 00:02:16.154
-Keep the power that small, and
-a fault cannot start a fire.
+00:02:18.818 --> 00:02:22.194
+So what does Class 2 actually
+mean? It's a safety rule.
 
 34
-00:02:16.604 --> 00:02:22.090
-A short or a damaged wire on a small circuit does
-not have enough power behind it to start a fire.
+00:02:22.494 --> 00:02:27.671
+A Class 2 circuit can only carry a
+small amount of power. About 100 watts.
 
 35
-00:02:22.540 --> 00:02:24.218
-That is the whole idea.
+00:02:27.971 --> 00:02:31.549
+At 24 volts, 100 watts is about 4.16 amps.
 
 36
-00:02:24.668 --> 00:02:29.457
-Our 4 amp circuit keeps every
-run inside that small, safe size.
+00:02:31.549 --> 00:02:36.400
+Our 4 amp breaker keeps every
+circuit just under that.
 
 37
-00:02:30.807 --> 00:02:33.890
-Our lights are built to be
-used with Class 2 power only.
+00:02:36.700 --> 00:02:38.204
+Keep the power that small,
 
 38
-00:02:34.340 --> 00:02:36.018
-They expect a small circuit.
+00:02:38.204 --> 00:02:43.196
+and a short or a damaged wire doesn't have
+enough power behind it to start a fire.
 
 39
-00:02:36.468 --> 00:02:39.783
-Give them a big one, and the
-safety rating means nothing.
+00:02:43.496 --> 00:02:46.041
+Our lights are built
+for Class 2 power only.
 
 40
-00:02:40.233 --> 00:02:44.593
+00:02:46.041 --> 00:02:50.399
+Feed them from a bigger circuit, and
+their safety rating means nothing.
+
+41
+00:02:50.699 --> 00:02:55.299
 The lights are only as safe as the
 circuit feeding them. That part is on us.
 
-41
-00:02:45.943 --> 00:02:48.434
-Here are the words you
-will hear on every job.
-
 42
-00:02:48.884 --> 00:02:51.224
-Volt. How hard the power pushes.
+00:02:56.449 --> 00:02:59.321
+Last, the words you'll hear on every job.
 
 43
-00:02:51.674 --> 00:02:55.685
-Amp. How much power flows. This
-is the one that starts fires.
+00:02:59.621 --> 00:03:02.784
+Watt. Total power. Volts times amps.
 
 44
-00:02:56.135 --> 00:02:58.882
-Watt. Volts and amps
-together. Total power.
+00:03:03.084 --> 00:03:07.371
+Circuit. One breaker, one
+wire, and one group of lights.
 
 45
-00:02:59.332 --> 00:03:02.708
-Breaker. A switch that shuts
-the power off by itself,
-
-46
-00:03:02.708 --> 00:03:04.678
-when it sees too many amps.
-
-47
-00:03:05.128 --> 00:03:08.745
-Circuit. One breaker, one
-wire, one group of lights.
-
-48
-00:03:09.195 --> 00:03:12.292
-When you hear one circuit,
-picture one breaker in the box,
-
-49
-00:03:12.292 --> 00:03:16.225
-one wire leaving it, and one group
-of lights at the end of that wire.
-
-50
-00:03:16.675 --> 00:03:19.758
+00:03:07.671 --> 00:03:10.767
 Feeder. The wire from the
 box out to the lights.
 
-51
-00:03:20.208 --> 00:03:23.941
+46
+00:03:11.067 --> 00:03:15.081
 Injection. A spot where we
 feed fresh power into the run.
 
-52
-00:03:24.391 --> 00:03:29.204
-So the feeder carries power from the box out
-to an injection point on the run of lights.
+47
+00:03:15.381 --> 00:03:17.952
+And PW. That's Pure White in the app.
 
-53
-00:03:29.654 --> 00:03:34.234
-And P W. That is Pure White in
-the app. It uses the most power.
+48
+00:03:17.952 --> 00:03:22.372
+All three colours are on at
+once, so it uses the most power.
 
-54
-00:03:35.584 --> 00:03:37.425
-So why did we make this standard?
-
-55
-00:03:37.875 --> 00:03:41.440
-Some of our early jobs were wired
-right into the power supply.
-
-56
-00:03:41.440 --> 00:03:42.955
-No breaker in between.
-
-57
-00:03:43.405 --> 00:03:47.184
-That is how the industry told
-us to do it. It was still wrong.
-
-58
-00:03:47.634 --> 00:03:49.695
-We are going back to fix all of it.
-
-59
-00:03:50.145 --> 00:03:52.439
-Nobody is in trouble for old work.
-
-60
-00:03:52.889 --> 00:03:55.668
-If you open up an old job
-that was wired that way,
-
-61
-00:03:55.668 --> 00:03:59.141
-it is not your mistake, and
-it is not a reason to copy it.
-
-62
-00:03:59.591 --> 00:04:01.687
-From today, we wire this way.
-
-63
-00:04:03.037 --> 00:04:04.158
+49
+00:03:23.522 --> 00:03:24.546
 Let's lock it in.
 
-64
-00:04:04.608 --> 00:04:06.762
-Amps start fires. Not volts.
+50
+00:03:24.846 --> 00:03:26.898
+Amps make heat, not volts.
 
-65
-00:04:07.212 --> 00:04:10.306
-Volts push, amps flow,
-and watts are the total.
+51
+00:03:27.198 --> 00:03:31.192
+Amps equals watts divided by
+volts. Read both off the label.
 
-66
-00:04:10.756 --> 00:04:14.698
-Our light wire is thin, 20
-gauge. It is the part we protect.
+52
+00:03:31.492 --> 00:03:34.557
+Every light circuit gets
+its own 4 amp breaker.
 
-67
-00:04:15.148 --> 00:04:21.273
-Class 2 means a small circuit. About
-100 watts, or about 4 amps at 24 volts.
+53
+00:03:34.857 --> 00:03:37.877
+Class 2 means a small
+circuit, about 100 watts.
 
-68
-00:04:21.723 --> 00:04:24.854
-Every circuit we install
-carries 4 amps. Not more.
+54
+00:03:37.877 --> 00:03:40.569
+That is what our lights are built for.
 
-69
-00:04:24.854 --> 00:04:27.546
-And every circuit gets its own breaker.
-
-70
-00:04:27.996 --> 00:04:32.449
-Next, take the Part 1 quiz. Then
-in Part 2, we get into the math.
+55
+00:03:40.869 --> 00:03:45.393
+Next, take the Part 1 quiz.
+Then Part 2 is planning the job.

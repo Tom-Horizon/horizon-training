@@ -1,327 +1,313 @@
 WEBVTT
 
 1
-00:00:01.500 --> 00:00:04.769
-Welcome to Horizon
-installer training, Part 3.
+00:00:01.200 --> 00:00:05.292
+Welcome to Part 3: wire,
+your kit, and being ready.
 
 2
-00:00:05.207 --> 00:00:07.024
-Wire, parts and water.
+00:00:05.592 --> 00:00:09.924
+By the end, you'll know which wire
+goes where, how to keep water out,
 
 3
-00:00:07.474 --> 00:00:10.462
-By the end, you will know
-which wire to use where,
+00:00:09.924 --> 00:00:15.510
+why long runs lose volts, and exactly what
+you need before your first job of the day.
 
 4
-00:00:10.462 --> 00:00:13.820
-how to keep water out, and
-why long runs lose volts.
+00:00:16.660 --> 00:00:21.182
+The weakest wire in the system is the
+20 gauge built into the light string.
 
 5
-00:00:14.270 --> 00:00:17.910
-You will also know what has to be
-in the truck before you go to a job.
+00:00:21.182 --> 00:00:25.653
+We can't change it. Everything we
+run up to it is there to protect it.
 
 6
-00:00:19.260 --> 00:00:22.621
-Start with the weakest wire in
-the system. The light string.
+00:00:25.953 --> 00:00:29.205
+With wire, a thicker wire
+has a smaller number.
 
 7
-00:00:23.071 --> 00:00:27.222
-Our lights come with 20 gauge wire
-built in. We cannot change that.
+00:00:29.505 --> 00:00:33.392
+16 gauge is our feeder.
+It carries 4 amps easily.
 
 8
-00:00:27.672 --> 00:00:29.965
-Everything we run up to it has one job.
+00:00:33.392 --> 00:00:36.894
+18 gauge is also fine on a 4 amp circuit.
 
 9
-00:00:30.415 --> 00:00:34.090
-Make sure that 20 gauge wire
-never sees more than 4 amps.
+00:00:37.194 --> 00:00:42.278
+14 gauge works, but it's more than we
+need. Use up the stock, and don't buy more.
 
 10
-00:00:34.540 --> 00:00:37.739
-Everything upstream of the light
-string is there to protect it.
+00:00:42.278 --> 00:00:48.429
+Thicker feeder doesn't make the circuit safer,
+because the 20 gauge string is still the limit.
 
 11
-00:00:39.089 --> 00:00:41.236
-Here is the first thing
-to know about wire.
+00:00:49.579 --> 00:00:54.443
+From the box to an injection,
+the feeder is 16/2 or 18/2,
 
 12
-00:00:41.236 --> 00:00:43.484
-Thicker wire has a smaller gauge number.
+00:00:54.443 --> 00:00:57.423
+FT-4 rated, and stranded copper.
 
 13
-00:00:43.934 --> 00:00:46.146
-14 gauge is the thickest. It works,
+00:00:57.723 --> 00:01:02.385
+Never solid core. Solid copper
+hardens, and snaps at the connections.
 
 14
-00:00:46.146 --> 00:00:49.304
-but it is more than we
-need. Use up the stock.
+00:01:02.685 --> 00:01:06.805
+Going through a wall, the
+jacket has to have an ETL,
 
 15
-00:00:49.754 --> 00:00:54.404
-16 gauge carries 4 amps easily.
-This is our feeder wire. Use this.
+00:01:06.805 --> 00:01:11.016
+CSA or UL number printed
+on it. Check every spool.
 
 16
-00:00:54.854 --> 00:00:58.506
-18 gauge is also fine for a 4 amp circuit.
+00:01:11.316 --> 00:01:14.810
+No printed number, and it
+doesn't go through a wall.
 
 17
-00:00:58.956 --> 00:01:01.525
-20 gauge is the light string. It is thin,
+00:01:14.810 --> 00:01:18.016
+No exceptions. Not sure?
+Ask your crew lead.
 
 18
-00:01:01.525 --> 00:01:04.407
-it is built in, and it is what we protect.
-
-19
-00:01:05.757 --> 00:01:07.935
-Now, which wire goes where.
-
-20
-00:01:08.385 --> 00:01:15.171
-From the box to an injection, the feeder
-is 16/2 or 18/2. FT-4, and stranded.
-
-21
-00:01:15.621 --> 00:01:20.074
-It carries 4 amps with room to spare,
-and it is light and easy to pull.
-
-22
-00:01:20.524 --> 00:01:24.048
-14/2 is allowed. Use
-up what is in the shop.
-
-23
-00:01:24.498 --> 00:01:28.974
-But thicker does not make it safer. The
-20 gauge light wire is still the limit.
-
-24
-00:01:29.424 --> 00:01:32.815
-Going through a wall,
-use FT-4 with an ETL,
-
-25
-00:01:32.815 --> 00:01:36.141
-CSA or UL number printed on the jacket.
-
-26
-00:01:36.591 --> 00:01:40.727
-Check every spool. No printed number,
-and it does not go through a wall.
-
-27
-00:01:40.727 --> 00:01:43.447
-No exceptions. Ask Ben
-if you are not sure.
-
-28
-00:01:43.897 --> 00:01:47.023
-And always use stranded
-copper. Never solid core.
-
-29
-00:01:47.023 --> 00:01:50.590
-Solid copper hardens, and
-snaps at the terminations.
-
-30
-00:01:51.940 --> 00:01:53.874
+00:01:19.166 --> 00:01:21.099
 Next, keeping water out.
 
-31
-00:01:54.324 --> 00:01:56.708
-Put dielectric grease in every connector.
+19
+00:01:21.399 --> 00:01:24.506
+A squirt of dielectric
+grease in every connector,
 
-32
-00:01:56.708 --> 00:02:00.564
-A squirt before you push it
-together. It pushes the water out.
+20
+00:01:24.506 --> 00:01:28.116
+before you push it together.
+It pushes the water out.
 
-33
-00:02:01.014 --> 00:02:03.566
-The little O-ring is what seals a light.
+21
+00:01:28.416 --> 00:01:32.051
+The little O-ring is what seals
+a light. Not the plastic body,
 
-34
-00:02:03.566 --> 00:02:06.559
-Not the plastic body.
-So grease the O-ring.
+22
+00:01:32.051 --> 00:01:37.519
+and not how tight you make it. Over-tightening
+just makes the light hard to change later.
 
-35
-00:02:07.009 --> 00:02:10.551
-Inside-only connectors, the
-lever nuts, are not waterproof.
+23
+00:01:37.819 --> 00:01:41.138
+Lever nuts aren't waterproof.
+They stay inside the box.
 
-36
-00:02:10.551 --> 00:02:14.283
-They go inside the box only.
+24
+00:01:41.138 --> 00:01:43.139
 Never outside in the weather.
 
-37
-00:02:14.733 --> 00:02:16.655
-And do not over-tighten the barrel.
-
-38
-00:02:16.655 --> 00:02:19.650
-Tighter is not a better
-seal. The O-ring seals it.
-
-39
-00:02:20.100 --> 00:02:23.299
-Over-tightening just makes the
-light hard to change later.
-
-40
-00:02:24.649 --> 00:02:28.521
-Here is a rule for every job.
+25
+00:01:44.289 --> 00:01:48.247
 Never plug in with the power on.
+Shut it off at the box first.
 
-41
-00:02:28.971 --> 00:02:32.112
-Shut the power off at the
-box first. Every time.
+26
+00:01:48.547 --> 00:01:54.766
+On a run of more than 30 lights, plugging in live
+kills the chip in the light before the one you touched.
 
-42
-00:02:32.562 --> 00:02:33.833
-On a run over 30 lights,
-
-43
-00:02:33.833 --> 00:02:37.897
-plugging in live kills the chip in
-the light before the one you touched.
-
-44
-00:02:38.347 --> 00:02:42.394
-You will not see it go. It
+27
+00:01:54.766 --> 00:01:58.452
+You won't see it happen. It
 comes back later as a callout.
 
-45
-00:02:42.844 --> 00:02:47.296
-So it is always the same order.
-Power off. Plug in. Power on. Test.
+28
+00:01:58.752 --> 00:02:03.380
+So it's always the same order.
+Power off. Plug in. Power on.
 
-46
-00:02:48.646 --> 00:02:51.021
-Now, long runs lose volts.
-
-47
-00:02:51.471 --> 00:02:55.796
-Wire is not perfect. The further
+29
+00:02:04.530 --> 00:02:09.363
+Long runs lose volts. The further
 power travels, the more it drops.
 
-48
-00:02:56.246 --> 00:03:02.870
-We tested 50 feet of 20 gauge wire.
-In at 24.1 volts. Out at 22.7.
+30
+00:02:09.663 --> 00:02:15.336
+We tested 50 feet of 20 gauge.
+In at 24.1 volts, out at 22.7.
 
-49
-00:03:03.320 --> 00:03:07.610
-That is a 5.8% drop.
-Just past our 5% limit.
+31
+00:02:15.336 --> 00:02:20.887
+That's a 5.8 percent drop,
+just past our 5 percent limit.
 
-50
-00:03:08.060 --> 00:03:11.340
-On the job, if the far-end
-lights go dim or yellow,
+32
+00:02:21.187 --> 00:02:24.207
+So when the far-end
+lights look dim or yellow,
 
-51
-00:03:11.340 --> 00:03:14.034
-that is voltage drop. Not a bad light.
+33
+00:02:24.207 --> 00:02:26.690
+it's voltage drop, not bad lights.
 
-52
-00:03:14.484 --> 00:03:18.484
+34
+00:02:26.990 --> 00:02:30.692
 The fix is never a bigger
-supply. It is a closer injection.
+supply. It's a closer injection.
 
-53
-00:03:18.934 --> 00:03:22.864
-Under 22.8 volts at the last
-light? Move the injection.
+35
+00:02:31.842 --> 00:02:35.903
+Now, your kit. Before every job,
+check that you've got all of it.
 
-54
-00:03:24.214 --> 00:03:26.368
-Last, what lives in the truck.
+36
+00:02:36.203 --> 00:02:40.507
+Tools, charged and working. Drill
+and driver batteries charged.
 
-55
-00:03:26.818 --> 00:03:30.493
-A clamp meter for amps,
-and a multimeter for volts.
+37
+00:02:40.507 --> 00:02:44.583
+Clamp meter and multimeter
+working, with good batteries.
 
-56
-00:03:30.943 --> 00:03:36.139
-Dielectric grease, 16/2 FT-4
-wire, and spare 4 amp breakers.
+38
+00:02:44.883 --> 00:02:48.757
+Track. A proper supply for
+every job on the schedule today,
 
-57
-00:03:36.589 --> 00:03:39.001
-Lever nuts, for inside the box only.
+39
+00:02:48.757 --> 00:02:51.371
+plus back track if the job needs it.
 
-58
-00:03:39.001 --> 00:03:43.004
-The marked-up job photo, and
-the test sheet from Part 6.
+40
+00:02:51.671 --> 00:02:56.350
+Screws. Restocked, and the right
+colour for each job on the schedule.
 
-59
-00:03:43.257 --> 00:03:45.852
-And remember. No meter, no install.
+41
+00:02:56.650 --> 00:03:00.905
+Wire and parts. 16/2 FT-4
+feeder, dielectric grease,
 
-60
-00:03:47.202 --> 00:03:48.323
-Let's lock it in.
+42
+00:03:00.905 --> 00:03:05.738
+spare 4 amp breakers, and
+lever nuts for inside the box.
 
-61
-00:03:48.773 --> 00:03:51.634
-The 20 gauge light string
-is the weakest wire.
+43
+00:03:06.038 --> 00:03:11.152
+And the job plan. Find the marked-up
+photo and the field card in the job files.
 
-62
-00:03:51.634 --> 00:03:54.061
-It must never see more than 4 amps.
-
-63
-00:03:54.511 --> 00:04:01.902
-The feeder is 16/2 or 18/2, FT-4,
-stranded. Use up 14/2, but it is not safer.
-
-64
-00:04:02.352 --> 00:04:05.339
-Through a wall, only FT-4 with an ETL,
-
-65
-00:04:05.339 --> 00:04:09.440
-CSA or UL number on the
-jacket. Never solid core.
-
-66
-00:04:09.890 --> 00:04:11.920
-Grease every connector and O-ring.
-
-67
-00:04:11.920 --> 00:04:15.573
-Lever nuts stay in the box.
-Power off before you plug in.
-
-68
-00:04:16.023 --> 00:04:18.530
-Under 22.8 volts at the last light,
-
-69
-00:04:18.530 --> 00:04:22.218
-move the injection closer.
+44
+00:03:11.452 --> 00:03:13.446
 No meter, no install.
 
-70
-00:04:22.668 --> 00:04:27.700
-Next, take the Part 3 quiz. Then
-in Part 4, we learn how to wire it.
+45
+00:03:14.596 --> 00:03:17.852
+Before every job, fill
+out the pre-job checklist.
+
+46
+00:03:18.152 --> 00:03:20.915
+It walks you through
+the kit, item by item.
+
+47
+00:03:21.215 --> 00:03:24.137
+Fill it out honestly, and
+you'll be ready for the job.
+
+48
+00:03:25.287 --> 00:03:27.169
+Site note. Being ready.
+
+49
+00:03:27.469 --> 00:03:30.030
+Be ready to go, and
+getting your kit together,
+
+50
+00:03:30.030 --> 00:03:33.119
+at least one hour before
+your first job of the day.
+
+51
+00:03:33.419 --> 00:03:37.086
+Dress for the weather. Layers,
+gloves, and boots with grip.
+
+52
+00:03:37.086 --> 00:03:40.382
+It's colder on a roof than
+it is on the driveway.
+
+53
+00:03:40.682 --> 00:03:43.744
+Check the schedule and the
+job files the night before,
+
+54
+00:03:43.744 --> 00:03:45.809
+so you know what each job needs.
+
+55
+00:03:46.109 --> 00:03:51.004
+Phone charged. Ladders checked and
+strapped down. Fall protection with you.
+
+56
+00:03:51.304 --> 00:03:55.188
+Running late, or missing something?
+Tell your crew lead right away.
+
+57
+00:03:55.188 --> 00:03:57.062
+Not when you get to the job.
+
+58
+00:03:58.212 --> 00:03:59.236
+Let's lock it in.
+
+59
+00:03:59.536 --> 00:04:03.112
+Feeder is 16/2 or 18/2, FT-4, stranded.
+
+60
+00:04:03.112 --> 00:04:07.948
+Through a wall, only with
+a printed rating number.
+
+61
+00:04:08.248 --> 00:04:11.518
+Grease every connector.
+Lever nuts stay in the box.
+
+62
+00:04:11.518 --> 00:04:13.627
+Power off before you plug in.
+
+63
+00:04:13.927 --> 00:04:18.899
+Lights dim at the far end? Move the
+injection closer, never a bigger supply.
+
+64
+00:04:19.199 --> 00:04:24.253
+Kit checked, pre-job checklist filled
+out, ready an hour before your first job.
+
+65
+00:04:24.553 --> 00:04:28.977
+Next, take the Part 3 quiz.
+Part 4 is how to wire it.
