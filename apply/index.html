@@ -1,0 +1,669 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#003848">
+  <title>Join the Horizon Crew | Horizon Exterior Lighting</title>
+  <meta name="description" content="Apply for a permanent lighting installer or sales representative role with Horizon in Edmonton and area. No account needed.">
+  <meta property="og:title" content="Join the Horizon Crew">
+  <meta property="og:description" content="Horizon is hiring permanent lighting installers and sales reps in Edmonton and area. Apply in about two minutes.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://tom-horizon.github.io/horizon-training/apply/">
+  <meta property="og:image" content="https://cdn.prod.website-files.com/6ac68bdcfb75b2b6e4ab4863/6ac6f8c135667faa34417ae7_og-image.jpg">
+  <link rel="canonical" href="https://tom-horizon.github.io/horizon-training/apply/">
+  <link rel="icon" href="https://cdn.prod.website-files.com/6ac68bdcfb75b2b6e4ab4863/6ada9d4adb27220319a63a31_images.jpg" type="image/png">
+  <link rel="apple-touch-icon" href="https://cdn.prod.website-files.com/6ac68bdcfb75b2b6e4ab4863/6ada9d4bcc57990bcec184ea_images.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --ink: #003848;
+      --orange: #ff8b00;
+      --orange-deep: #e67d00;
+      --paper: #f4f7f8;
+      --line: #c9d6db;
+      --muted: #4b5563;
+      --err: #9b2c1c;
+      --err-bg: #fdecea;
+      --ok: #1f6f43;
+      --ok-bg: #e6f0f3;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: Inter, system-ui, sans-serif;
+      background: var(--paper);
+      color: #111827;
+      font-size: 16px;
+      line-height: 1.5;
+    }
+    a { color: var(--ink); }
+    .top {
+      background: #fff;
+      border-bottom: 1px solid rgba(0, 56, 72, .08);
+      padding: 12px 16px calc(12px + env(safe-area-inset-top));
+    }
+    .top-inner {
+      max-width: 720px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      color: inherit;
+      text-decoration: none;
+      min-width: 0;
+    }
+    .brand img {
+      width: 46px;
+      height: 46px;
+      flex: none;
+      filter: drop-shadow(0 3px 6px rgba(0, 56, 72, .22));
+    }
+    .brand-text { display: flex; flex-direction: column; min-width: 0; }
+    .brand-name {
+      display: block;
+      color: var(--ink);
+      letter-spacing: .22em;
+      text-transform: uppercase;
+      font-size: 20px;
+      font-weight: 800;
+      line-height: 1;
+    }
+    .brand-tag {
+      display: block;
+      color: var(--orange-deep);
+      letter-spacing: .18em;
+      text-transform: uppercase;
+      margin-top: 5px;
+      font-size: 9px;
+      font-weight: 700;
+      line-height: 1;
+    }
+    .call {
+      flex: none;
+      display: inline-flex;
+      align-items: center;
+      min-height: 40px;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: var(--ink);
+      color: #fff;
+      font-size: 14px;
+      font-weight: 700;
+      text-decoration: none;
+    }
+    .call:hover, .call:focus-visible { background: var(--orange-deep); }
+    .wrap {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 28px 16px calc(36px + env(safe-area-inset-bottom));
+    }
+    h1 {
+      margin: 0 0 10px;
+      color: var(--ink);
+      font-size: 34px;
+      line-height: 1.12;
+      letter-spacing: -.02em;
+    }
+    .lede { margin: 0 0 8px; font-size: 17.5px; color: #1f2a33; }
+    .where { margin: 0 0 22px; color: var(--muted); font-size: 15px; }
+    .card {
+      background: #fff;
+      border-radius: 16px;
+      padding: 8px 16px 20px;
+      box-shadow: 0 10px 30px rgba(0, 26, 37, .06);
+    }
+    fieldset {
+      margin: 16px 0 0;
+      padding: 0;
+      border: 0;
+      min-width: 0;
+    }
+    legend, label.lbl {
+      display: block;
+      margin: 0 0 6px;
+      color: var(--ink);
+      font-size: 15px;
+      font-weight: 700;
+    }
+    .req { color: var(--orange-deep); }
+    .opt { font-weight: 500; color: #6b7280; }
+    input[type=text], input[type=email], input[type=tel], select, textarea {
+      display: block;
+      width: 100%;
+      min-height: 48px;
+      margin: 0;
+      padding: 12px 14px;
+      border: 1.5px solid var(--line);
+      border-radius: 10px;
+      background: #fff;
+      color: #111827;
+      font: inherit;
+      font-size: 16px;
+      line-height: 1.4;
+    }
+    textarea { min-height: 140px; resize: vertical; }
+    input:focus, select:focus, textarea:focus {
+      border-color: var(--orange-deep);
+      outline: 3px solid rgba(230, 125, 0, .18);
+      outline-offset: 0;
+    }
+    .field { margin-top: 16px; }
+    .choices { display: flex; flex-wrap: wrap; gap: 8px; }
+    .choice {
+      flex: 1 1 140px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      min-height: 48px;
+      margin: 0;
+      padding: 10px 12px;
+      border: 1.5px solid var(--line);
+      border-radius: 10px;
+      font-weight: 600;
+      color: var(--ink);
+      cursor: pointer;
+    }
+    .choice:has(input:checked) {
+      border-color: var(--orange-deep);
+      background: #fff5e8;
+    }
+    .choice:has(input:focus-visible) { outline: 3px solid rgba(230, 125, 0, .35); outline-offset: 2px; }
+    .choice input { width: 18px; height: 18px; margin: 0; accent-color: var(--orange-deep); }
+    .drop {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 10px 14px;
+      padding: 14px;
+      border: 1.5px dashed var(--line);
+      border-radius: 10px;
+      background: #f7fafb;
+    }
+    .filebtn {
+      display: inline-flex;
+      align-items: center;
+      min-height: 44px;
+      padding: 9px 16px;
+      border: 2px solid var(--ink);
+      border-radius: 10px;
+      background: #fff;
+      color: var(--ink);
+      font-size: 15px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .filebtn:hover { background: var(--ok-bg); }
+    input[type=file] { position: absolute; width: 1px; height: 1px; opacity: 0; }
+    input[type=file]:focus-visible + .filebtn { outline: 3px solid rgba(230, 125, 0, .35); outline-offset: 2px; }
+    .filemsg { font-size: 14px; color: var(--muted); }
+    .filemsg.ok { color: var(--ok); font-weight: 600; }
+    .filemsg.err { color: var(--err); font-weight: 600; }
+    .linkish {
+      border: 0;
+      background: none;
+      color: var(--err);
+      font: inherit;
+      font-size: 14px;
+      text-decoration: underline;
+      cursor: pointer;
+      padding: 8px 0;
+    }
+    .check {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      margin-top: 18px;
+      font-weight: 600;
+      color: var(--ink);
+    }
+    .check input { width: 22px; height: 22px; margin-top: 1px; flex: none; accent-color: var(--orange-deep); }
+    .turnstile { margin-top: 16px; min-height: 8px; }
+    .send {
+      display: block;
+      width: 100%;
+      margin-top: 18px;
+      padding: 14px 18px;
+      border: 0;
+      border-radius: 12px;
+      background: var(--orange);
+      color: #fff;
+      font: inherit;
+      font-size: 18px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .send:hover, .send:focus-visible { filter: brightness(1.06); }
+    .send:disabled { opacity: .65; cursor: wait; }
+    .banner {
+      margin-top: 14px;
+      padding: 12px 14px;
+      border-radius: 10px;
+      background: var(--err-bg);
+      color: var(--err);
+      font-weight: 600;
+    }
+    .banner a { color: var(--err); }
+    .success {
+      background: var(--ok-bg);
+      color: var(--ink);
+      border-radius: 16px;
+      padding: 24px 18px;
+      font-size: 17px;
+      font-weight: 600;
+    }
+    .success:focus { outline: 3px solid rgba(0, 56, 72, .28); outline-offset: 3px; }
+    .success p { margin: 8px 0 0; font-weight: 500; }
+    .fine { margin: 14px 0 0; color: var(--muted); font-size: 13px; }
+    .foot {
+      margin-top: 22px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    .foot a { font-weight: 700; }
+    .hp {
+      position: absolute;
+      left: -9999px;
+      width: 1px;
+      height: 1px;
+      overflow: hidden;
+    }
+    @media (min-width: 720px) {
+      h1 { font-size: 42px; }
+      .card { padding: 12px 28px 28px; }
+    }
+    @media (max-width: 380px) {
+      .brand-name { font-size: 16px; letter-spacing: .16em; }
+      .brand-tag { letter-spacing: .12em; }
+      .call { padding: 8px 10px; font-size: 13px; }
+      h1 { font-size: 30px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="top">
+    <div class="top-inner">
+      <a class="brand" href="https://www.horizon-exteriors.com/">
+        <img src="https://cdn.prod.website-files.com/6ac68bdcfb75b2b6e4ab4863/6acfd432dcd6caa749281979_hz-logo-badge.webp" width="46" height="46" alt="">
+        <span class="brand-text">
+          <span class="brand-name">Horizon</span>
+          <span class="brand-tag">Exterior Lighting</span>
+        </span>
+      </a>
+      <a class="call" href="tel:+15878406410">Call 587-840-6410</a>
+    </div>
+  </header>
+  <main class="wrap">
+    <h1>Join the Horizon Crew</h1>
+    <p class="lede">Horizon is hiring permanent lighting installers and sales reps in Edmonton and area.</p>
+    <p class="where">Edmonton, Sherwood Park, St. Albert, Leduc, and nearby. About two minutes, no account needed.</p>
+
+    <div class="success" id="success" hidden tabindex="-1">
+      <div>Thanks! Your application is in. We'll be in touch about next steps.</div>
+      <p id="success-extra"></p>
+    </div>
+
+    <form class="card" id="apply-form" novalidate>
+      <div class="hp" aria-hidden="true">
+        <label for="website">Website</label>
+        <input type="text" id="website" name="website" tabindex="-1" autocomplete="off">
+      </div>
+
+      <div class="field">
+        <label class="lbl" for="applicant-name">Full name <span class="req">*</span></label>
+        <input id="applicant-name" name="Full-name" data-name="Full name" type="text" autocomplete="name" maxlength="256" required placeholder="First and last name">
+      </div>
+      <div class="field">
+        <label class="lbl" for="applicant-email">Email <span class="req">*</span></label>
+        <input id="applicant-email" name="email" data-name="Email" type="email" autocomplete="email" maxlength="256" required placeholder="you@example.com" inputmode="email">
+      </div>
+      <div class="field">
+        <label class="lbl" for="applicant-phone">Phone <span class="req">*</span></label>
+        <input id="applicant-phone" name="Phone" data-name="Phone" type="tel" autocomplete="tel" maxlength="256" required placeholder="780-555-0123" inputmode="tel">
+      </div>
+      <div class="field">
+        <label class="lbl" for="applicant-city">City <span class="req">*</span></label>
+        <input id="applicant-city" name="City" data-name="City" type="text" autocomplete="address-level2" maxlength="120" required placeholder="Edmonton">
+      </div>
+      <div class="field">
+        <label class="lbl" for="applicant-role">Which role? <span class="req">*</span></label>
+        <select id="applicant-role" name="Role" data-name="Role" required>
+          <option value="">Choose a role</option>
+          <option value="Installer">Installer</option>
+          <option value="Sales Representative">Sales Representative</option>
+        </select>
+      </div>
+      <div class="field">
+        <label class="lbl" for="applicant-start">When could you start? <span class="req">*</span></label>
+        <input id="applicant-start" name="Start-availability" data-name="Start availability" type="text" maxlength="256" required placeholder="As soon as possible, in two weeks, after a current job ends">
+      </div>
+
+      <fieldset>
+        <legend>Valid driver's licence and a reliable vehicle? <span class="req">*</span></legend>
+        <div class="choices">
+          <label class="choice"><input type="radio" name="Drivers-licence-and-vehicle" data-name="Drivers licence and vehicle" value="Yes" required> Yes</label>
+          <label class="choice"><input type="radio" name="Drivers-licence-and-vehicle" data-name="Drivers licence and vehicle" value="No"> No</label>
+        </div>
+      </fieldset>
+
+      <div class="field">
+        <label class="lbl" for="applicant-heights">Comfortable on ladders, lifts, and at heights? <span class="req">*</span></label>
+        <select id="applicant-heights" name="Comfort-at-heights" data-name="Comfort at heights" required>
+          <option value="">Choose one</option>
+          <option value="Yes">Yes</option>
+          <option value="Some experience">Some experience</option>
+          <option value="No">No</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label class="lbl" for="applicant-experience">Your experience <span class="req">*</span></label>
+        <textarea id="applicant-experience" name="Experience" data-name="Experience" maxlength="5000" required placeholder="Heights work, low-voltage wiring, sales, or anything else we should know."></textarea>
+      </div>
+      <div class="field">
+        <label class="lbl" for="applicant-why">Why Horizon <span class="opt">(optional)</span></label>
+        <textarea id="applicant-why" name="Why-Horizon" data-name="Why Horizon" maxlength="2000" placeholder="What made you want to apply?"></textarea>
+      </div>
+
+      <div class="field">
+        <label class="lbl" for="hzr-file">Resume <span class="opt">(optional)</span></label>
+        <div class="drop">
+          <input type="file" id="hzr-file" accept=".pdf,.doc,.docx,.rtf,.odt,.txt,.jpg,.jpeg,.png,.heic,.heif,application/pdf,image/*">
+          <label class="filebtn" for="hzr-file">Choose file</label>
+          <span class="filemsg" id="hzr-msg" aria-live="polite">PDF, Word, or a photo of it, up to 10 MB</span>
+          <button type="button" class="linkish" id="hzr-x" hidden>Remove</button>
+        </div>
+        <input type="hidden" name="Resume" data-name="Resume" id="hzr-link" value="">
+      </div>
+
+      <label class="check">
+        <input type="checkbox" id="applicant-consent" name="Consent" data-name="Consent" value="Yes" required>
+        <span>I agree to Horizon contacting me about this application by phone, text, or email. <span class="req">*</span></span>
+      </label>
+
+      <div class="turnstile" id="turnstile"></div>
+      <button class="send" type="submit" id="send" data-wait="Sending...">Send my application</button>
+      <div class="banner" id="fail" hidden role="alert" tabindex="-1"></div>
+      <p class="fine">Same application inbox as the <a href="https://www.horizon-exteriors.com/careers#apply">careers page</a>. Questions? Call <a href="tel:+15878406410">587-840-6410</a> or email <a href="mailto:info@horizon-exteriors.com">info@horizon-exteriors.com</a>.</p>
+    </form>
+
+    <p class="foot">Horizon Exterior Lighting · #9 209 St NW, Edmonton, AB T5T 5X5</p>
+  </main>
+  <noscript>
+    <p style="max-width:720px;margin:16px auto;padding:0 16px">This form needs JavaScript. You can apply at <a href="https://www.horizon-exteriors.com/careers#apply">horizon-exteriors.com/careers</a> or call 587-840-6410.</p>
+  </noscript>
+  <script>
+  (function () {
+    var SITE = "6ac68bdcfb75b2b6e4ab4863";
+    var PAGE_ID = "6ae108f116e611e582167647";
+    var ELEMENT_ID = "75350036-0a5c-6cac-4455-f6cc2a183419";
+    var FORM_NAME = "Job Application";
+    var ENDPOINT = "https://webflow.com/api/v1/form/" + SITE;
+    var WORKER = "https://horizon-visualizer.holy-rice-b93c.workers.dev";
+    var TS_KEY = "0x4AAAAAAAQTptj2So4dx43e";
+    var TYPES = /^(application\/(pdf|msword|rtf|vnd\.openxmlformats-officedocument\.wordprocessingml\.document|vnd\.oasis\.opendocument\.text)|text\/plain|image\/(jpeg|png|heic|heif))$/;
+    var BY_EXT = {
+      pdf: "application/pdf",
+      doc: "application/msword",
+      docx: "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      rtf: "application/rtf",
+      odt: "application/vnd.oasis.opendocument.text",
+      txt: "text/plain",
+      jpg: "image/jpeg",
+      jpeg: "image/jpeg",
+      png: "image/png",
+      heic: "image/heic",
+      heif: "image/heif"
+    };
+
+    var form = document.getElementById("apply-form");
+    var success = document.getElementById("success");
+    var successExtra = document.getElementById("success-extra");
+    var fail = document.getElementById("fail");
+    var sendBtn = document.getElementById("send");
+    var sendLabel = sendBtn.textContent;
+    var fileInput = document.getElementById("hzr-file");
+    var fileMsg = document.getElementById("hzr-msg");
+    var fileClear = document.getElementById("hzr-x");
+    var resumeLink = document.getElementById("hzr-link");
+    var fileHint = fileMsg.textContent;
+    var uploading = false;
+    var resumeNote = "";
+    var tsToken = "";
+    var tsWidget = null;
+    var tsFailed = false;
+    var sending = false;
+
+    /* hz-body-start */
+    function applicationBody(fields, source) {
+      var parts = [];
+      function add(key, value) {
+        parts.push(encodeURIComponent(key) + "=" + encodeURIComponent(value == null ? "" : String(value)));
+      }
+      add("name", FORM_NAME);
+      add("pageId", PAGE_ID);
+      add("elementId", ELEMENT_ID);
+      add("domain", "www.horizon-exteriors.com");
+      add("collectionId", "");
+      add("itemSlug", "");
+      add("source", source);
+      add("test", "false");
+      Object.keys(fields).forEach(function (name) {
+        add("fields[" + encodeURIComponent(name) + "]", fields[name]);
+      });
+      add("dolphin", "false");
+      return parts.join("&");
+    }
+    /* hz-body-end */
+
+    function sayFile(text, cls) {
+      fileMsg.textContent = text;
+      fileMsg.className = "filemsg" + (cls ? " " + cls : "");
+    }
+    function resetFile() {
+      resumeLink.value = "";
+      fileInput.value = "";
+      fileClear.hidden = true;
+      resumeNote = "";
+      uploading = false;
+      sayFile(fileHint);
+    }
+    fileClear.addEventListener("click", resetFile);
+
+    function fileType(file) {
+      var ext = ((file.name || "").split(".").pop() || "").toLowerCase();
+      var type = file.type === "image/jpg" ? "image/jpeg" : (file.type || "");
+      if (!TYPES.test(type)) type = BY_EXT[ext] || "";
+      return type;
+    }
+
+    fileInput.addEventListener("change", function () {
+      var file = fileInput.files && fileInput.files[0];
+      resumeLink.value = "";
+      resumeNote = "";
+      fileClear.hidden = true;
+      if (!file) return sayFile(fileHint);
+      var type = fileType(file);
+      if (!TYPES.test(type)) {
+        fileInput.value = "";
+        return sayFile("Please choose a PDF, Word document, or photo.", "err");
+      }
+      if (file.size > 10 * 1024 * 1024) {
+        fileInput.value = "";
+        return sayFile("That file is over 10 MB. Try a PDF or a smaller photo.", "err");
+      }
+      var safeName = (file.name || "resume").split(/[/\\]/).pop();
+      uploading = true;
+      sayFile("Uploading " + safeName + "…");
+      fetch(WORKER + "/resume?name=" + encodeURIComponent(safeName), {
+        method: "PUT",
+        headers: { "content-type": type },
+        body: file,
+        mode: "cors",
+        credentials: "omit"
+      }).then(function (res) {
+        return res.json().then(function (data) {
+          if (!res.ok || !data.url) throw new Error((data && data.error) || "Upload failed");
+          return data;
+        });
+      }).then(function (data) {
+        resumeLink.value = data.url;
+        resumeNote = "";
+        fileClear.hidden = false;
+        sayFile("Attached: " + safeName, "ok");
+      }).catch(function () {
+        fileInput.value = "";
+        resumeLink.value = "";
+        resumeNote = "Tried to attach " + safeName + " (" + Math.max(1, Math.round(file.size / 1024)) + " KB). The file did not upload from this page. Applicant was asked to email it to info@horizon-exteriors.com.";
+        sayFile("We couldn't attach that file from this page. You can still send your application, then email the resume to info@horizon-exteriors.com.", "err");
+      }).then(function () {
+        uploading = false;
+      });
+    });
+
+    function digits(value) {
+      return (String(value || "").match(/\d/g) || []).length;
+    }
+    function checkedValue(name) {
+      var el = form.querySelector('input[name="' + name + '"]:checked');
+      return el ? el.value : "";
+    }
+    function collectFields() {
+      var fields = {};
+      Array.prototype.forEach.call(form.querySelectorAll("input, select, textarea"), function (el) {
+        if (!el.getAttribute("data-name")) return;
+        if (el.type === "file" || el.type === "submit" || el.type === "button") return;
+        if (el.type === "radio" && !el.checked) return;
+        if (el.type === "checkbox") {
+          fields[el.getAttribute("data-name")] = el.checked ? "Yes" : "No";
+          return;
+        }
+        fields[el.getAttribute("data-name")] = (el.value || "").trim();
+      });
+      if (resumeNote) fields["Resume status"] = resumeNote;
+      if (tsToken) fields["cf-turnstile-response"] = tsToken;
+      return fields;
+    }
+    function showFail(html) {
+      fail.hidden = false;
+      fail.innerHTML = html;
+      fail.focus();
+    }
+    function showSuccess(extra) {
+      form.hidden = true;
+      success.hidden = false;
+      successExtra.textContent = extra || "";
+      success.focus();
+    }
+
+    var roleQuery = (new URLSearchParams(location.search).get("role") || "").toLowerCase();
+    if (/sale/.test(roleQuery)) document.getElementById("applicant-role").value = "Sales Representative";
+    else if (/install/.test(roleQuery)) document.getElementById("applicant-role").value = "Installer";
+
+    function mountTurnstile() {
+      if (!window.turnstile) return;
+      tsWidget = window.turnstile.render("#turnstile", {
+        sitekey: TS_KEY,
+        callback: function (token) { tsToken = token || ""; tsFailed = false; },
+        "expired-callback": function () { tsToken = ""; },
+        "error-callback": function () { tsToken = ""; tsFailed = true; }
+      });
+    }
+    var tsScript = document.createElement("script");
+    tsScript.src = "https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit";
+    tsScript.async = true;
+    tsScript.onload = mountTurnstile;
+    tsScript.onerror = function () { tsFailed = true; };
+    document.head.appendChild(tsScript);
+
+    form.addEventListener("submit", function (event) {
+      event.preventDefault();
+      if (sending) return;
+      fail.hidden = true;
+      if ((document.getElementById("website").value || "").trim()) {
+        showSuccess("");
+        return;
+      }
+      if (uploading) {
+        showFail("Still uploading your resume. One moment, then try again.");
+        return;
+      }
+      if (!form.reportValidity()) return;
+      var phone = document.getElementById("applicant-phone").value;
+      if (digits(phone) < 10) {
+        showFail("Enter a phone number we can reach you on, including the area code.");
+        document.getElementById("applicant-phone").focus();
+        return;
+      }
+      if (!checkedValue("Drivers-licence-and-vehicle")) {
+        showFail("Let us know if you have a valid driver's licence and a reliable vehicle.");
+        return;
+      }
+      if (!document.getElementById("applicant-consent").checked) {
+        showFail("Please agree to be contacted about your application.");
+        document.getElementById("applicant-consent").focus();
+        return;
+      }
+      if (!tsToken && window.turnstile && tsWidget) {
+        try { tsToken = window.turnstile.getResponse(tsWidget) || ""; } catch (e) { tsToken = ""; }
+      }
+      if (!tsToken) {
+        showFail(tsFailed
+          ? "The browser check didn't load. Please try again, or call <a href=\"tel:+15878406410\">587-840-6410</a>."
+          : "The browser check isn't finished yet. If you see a check above the button, complete it, then send again.");
+        return;
+      }
+      var fields = collectFields();
+      var hadResume = !!resumeLink.value;
+      var missedResume = !!resumeNote;
+      sending = true;
+      sendBtn.disabled = true;
+      sendBtn.textContent = sendBtn.getAttribute("data-wait") || "Sending...";
+      fetch(ENDPOINT, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+          "Accept": "application/json"
+        },
+        body: applicationBody(fields, location.href.split("#")[0]),
+        mode: "cors",
+        credentials: "omit"
+      }).then(function (res) {
+        return res.json().catch(function () { return {}; }).then(function (data) {
+          if (!res.ok || !data || data.code !== 200) {
+            var err = new Error("rejected");
+            err.detail = data;
+            throw err;
+          }
+          return data;
+        });
+      }).then(function () {
+        var extra = "";
+        if (missedResume && !hadResume) {
+          extra = "We couldn't attach your resume from this page. Please email it to info@horizon-exteriors.com and include your name.";
+        }
+        showSuccess(extra);
+      }).catch(function () {
+        sending = false;
+        sendBtn.disabled = false;
+        sendBtn.textContent = sendLabel;
+        tsToken = "";
+        if (window.turnstile && tsWidget) {
+          try { window.turnstile.reset(tsWidget); } catch (e) {}
+        }
+        showFail("Something went wrong sending your application. Please try again, or call <a href=\"tel:+15878406410\">587-840-6410</a>.");
+      });
+    });
+  })();
+  </script>
+</body>
+</html>
