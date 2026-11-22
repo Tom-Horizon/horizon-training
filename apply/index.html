@@ -5,399 +5,580 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="theme-color" content="#003848">
   <title>Join the Horizon Crew | Horizon Exterior Lighting</title>
-  <meta name="description" content="Apply for a permanent lighting installer or sales representative role with Horizon in Edmonton and area. No account needed.">
+  <meta name="description" content="Horizon is hiring permanent lighting installers and sales reps in Edmonton and area. Apply in about two minutes. No account needed.">
   <meta property="og:title" content="Join the Horizon Crew">
-  <meta property="og:description" content="Horizon is hiring permanent lighting installers and sales reps in Edmonton and area. Apply in about two minutes.">
+  <meta property="og:description" content="Now hiring permanent lighting installers and sales reps in Edmonton and area.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://tom-horizon.github.io/horizon-training/apply/">
-  <meta property="og:image" content="https://cdn.prod.website-files.com/6ac68bdcfb75b2b6e4ab4863/6ac6f8c135667faa34417ae7_og-image.jpg">
+  <meta property="og:image" content="https://cdn.prod.website-files.com/6ac68bdcfb75b2b6e4ab4863/6ac6f8c14ab6a9d0800b857b_hero-1920.webp">
   <link rel="canonical" href="https://tom-horizon.github.io/horizon-training/apply/">
   <link rel="icon" href="https://cdn.prod.website-files.com/6ac68bdcfb75b2b6e4ab4863/6ada9d4adb27220319a63a31_images.jpg" type="image/png">
   <link rel="apple-touch-icon" href="https://cdn.prod.website-files.com/6ac68bdcfb75b2b6e4ab4863/6ada9d4bcc57990bcec184ea_images.jpg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://cdn.prod.website-files.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <style>
     :root {
       --ink: #003848;
-      --orange: #ff8b00;
-      --orange-deep: #e67d00;
-      --paper: #f4f7f8;
-      --line: #c9d6db;
-      --muted: #4b5563;
-      --err: #9b2c1c;
-      --err-bg: #fdecea;
-      --ok: #1f6f43;
-      --ok-bg: #e6f0f3;
+      --orange: #e67d00;
+      --amber: #ffa31a;
+      --slate: #64748b;
+      --footer: #0b1820;
+      --night: #001a25;
     }
     * { box-sizing: border-box; }
     html { scroll-behavior: smooth; }
-    body {
-      margin: 0;
-      font-family: Inter, system-ui, sans-serif;
-      background: var(--paper);
-      color: #111827;
-      font-size: 16px;
-      line-height: 1.5;
+    body { margin: 0; font-family: Inter, sans-serif; color: #1f2a33; background: #fff; }
+    img { max-width: 100%; }
+    a { color: inherit; }
+    button, input, select, textarea { font-family: inherit; }
+
+    .hz-hero {
+      background-color: var(--night);
+      background-image: url("https://cdn.prod.website-files.com/6ac68bdcfb75b2b6e4ab4863/6ac6f8c14ab6a9d0800b857b_hero-1920.webp");
+      background-position: 50%;
+      background-repeat: no-repeat;
+      background-size: cover;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 108px 24px 72px;
+      display: flex;
+      position: relative;
+      overflow: hidden;
     }
-    a { color: var(--ink); }
-    .top {
-      background: #fff;
-      border-bottom: 1px solid rgba(0, 56, 72, .08);
-      padding: 12px 16px calc(12px + env(safe-area-inset-top));
+    .hz-hero-overlay {
+      background-image: linear-gradient(#00000080, #0006, #0009);
+      position: absolute;
+      inset: 0;
     }
-    .top-inner {
-      max-width: 720px;
+    .hz-lpbar {
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      z-index: 20;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 1168px;
       margin: 0 auto;
+      padding: 18px 24px;
+    }
+    .hz-lpbar-brand {
       display: flex;
       align-items: center;
-      justify-content: space-between;
-      gap: 12px;
-    }
-    .brand {
-      display: inline-flex;
-      align-items: center;
       gap: 10px;
-      color: inherit;
-      text-decoration: none;
-      min-width: 0;
-    }
-    .brand img {
-      width: 46px;
-      height: 46px;
-      flex: none;
-      filter: drop-shadow(0 3px 6px rgba(0, 56, 72, .22));
-    }
-    .brand-text { display: flex; flex-direction: column; min-width: 0; }
-    .brand-name {
-      display: block;
-      color: var(--ink);
-      letter-spacing: .22em;
-      text-transform: uppercase;
-      font-size: 20px;
-      font-weight: 800;
-      line-height: 1;
-    }
-    .brand-tag {
-      display: block;
-      color: var(--orange-deep);
-      letter-spacing: .18em;
-      text-transform: uppercase;
-      margin-top: 5px;
-      font-size: 9px;
-      font-weight: 700;
-      line-height: 1;
-    }
-    .call {
-      flex: none;
-      display: inline-flex;
-      align-items: center;
-      min-height: 40px;
-      padding: 8px 12px;
-      border-radius: 999px;
-      background: var(--ink);
       color: #fff;
-      font-size: 14px;
-      font-weight: 700;
+      font-weight: 800;
+      letter-spacing: .08em;
+      font-size: 18px;
       text-decoration: none;
     }
-    .call:hover, .call:focus-visible { background: var(--orange-deep); }
-    .wrap {
-      max-width: 720px;
-      margin: 0 auto;
-      padding: 28px 16px calc(36px + env(safe-area-inset-bottom));
+    .hz-lpbar-brand img { width: 40px; height: 40px; border-radius: 8px; display: block; }
+    .hz-lpbar-call {
+      color: #fff;
+      font-weight: 700;
+      font-size: 15px;
+      text-decoration: none;
+      padding: 10px 16px;
+      border-radius: 999px;
+      background: rgba(255,255,255,.14);
+      border: 1px solid rgba(255,255,255,.28);
     }
-    h1 {
-      margin: 0 0 10px;
-      color: var(--ink);
-      font-size: 34px;
+    .hz-lpbar-call:hover, .hz-lpbar-call:focus-visible { background: var(--orange); border-color: var(--orange); }
+    .hz-lp-hero {
+      z-index: 10;
+      color: #fff;
+      display: grid;
+      grid-template-columns: 1.1fr .9fr;
+      gap: 28px 56px;
+      align-items: center;
+      width: 100%;
+      max-width: 1120px;
+      margin: 0 auto;
+      position: relative;
+    }
+    .hz-lp-copy { text-align: left; grid-area: 1 / 1 / 2 / 2; align-self: end; }
+    .hz-lp-pill {
+      background: rgba(255,255,255,.12);
+      border-radius: 999px;
+      margin-bottom: 20px;
+      padding: 8px 16px;
+      font-size: 14px;
+      font-weight: 600;
+      display: inline-block;
+    }
+    .hz-lp-title {
+      color: #fff;
+      margin: 0 0 20px;
+      font-size: 52px;
+      font-weight: 800;
       line-height: 1.12;
       letter-spacing: -.02em;
     }
-    .lede { margin: 0 0 8px; font-size: 17.5px; color: #1f2a33; }
-    .where { margin: 0 0 22px; color: var(--muted); font-size: 15px; }
-    .card {
+    .hz-lp-sub { color: #e5e7eb; margin: 0; font-size: 19px; line-height: 1.6; }
+    .hz-lp-card {
+      color: #1f2a33;
+      text-align: left;
       background: #fff;
-      border-radius: 16px;
-      padding: 8px 16px 20px;
-      box-shadow: 0 10px 30px rgba(0, 26, 37, .06);
+      border-radius: 20px;
+      grid-area: 1 / 2 / 3 / 3;
+      padding: 28px 24px 20px;
+      box-shadow: 0 24px 48px rgba(0,0,0,.35);
     }
-    fieldset {
-      margin: 16px 0 0;
-      padding: 0;
-      border: 0;
-      min-width: 0;
-    }
-    legend, label.lbl {
-      display: block;
-      margin: 0 0 6px;
-      color: var(--ink);
-      font-size: 15px;
-      font-weight: 700;
-    }
-    .req { color: var(--orange-deep); }
-    .opt { font-weight: 500; color: #6b7280; }
-    input[type=text], input[type=email], input[type=tel], select, textarea {
-      display: block;
-      width: 100%;
-      min-height: 48px;
-      margin: 0;
-      padding: 12px 14px;
-      border: 1.5px solid var(--line);
-      border-radius: 10px;
-      background: #fff;
-      color: #111827;
-      font: inherit;
-      font-size: 16px;
-      line-height: 1.4;
-    }
-    textarea { min-height: 140px; resize: vertical; }
-    input:focus, select:focus, textarea:focus {
-      border-color: var(--orange-deep);
-      outline: 3px solid rgba(230, 125, 0, .18);
-      outline-offset: 0;
-    }
-    .field { margin-top: 16px; }
-    .choices { display: flex; flex-wrap: wrap; gap: 8px; }
-    .choice {
-      flex: 1 1 140px;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      min-height: 48px;
-      margin: 0;
-      padding: 10px 12px;
-      border: 1.5px solid var(--line);
-      border-radius: 10px;
-      font-weight: 600;
-      color: var(--ink);
-      cursor: pointer;
-    }
-    .choice:has(input:checked) {
-      border-color: var(--orange-deep);
-      background: #fff5e8;
-    }
-    .choice:has(input:focus-visible) { outline: 3px solid rgba(230, 125, 0, .35); outline-offset: 2px; }
-    .choice input { width: 18px; height: 18px; margin: 0; accent-color: var(--orange-deep); }
-    .drop {
+    .hz-lp-card-title { color: var(--ink); margin: 0 0 6px; font-size: 26px; font-weight: 800; line-height: 1.2; }
+    .hz-lp-card-sub { color: var(--slate); margin: 0 0 14px; font-size: 15px; line-height: 1.5; }
+    .hz-lp-stats {
       display: flex;
       flex-wrap: wrap;
+      gap: 16px 32px;
+      grid-area: 2 / 1 / 3 / 2;
+      justify-content: flex-start;
+      align-self: start;
       align-items: center;
-      gap: 10px 14px;
-      padding: 14px;
-      border: 1.5px dashed var(--line);
-      border-radius: 10px;
-      background: #f7fafb;
+    }
+    .hz-lp-stat-num { color: var(--amber); font-size: 28px; font-weight: 800; line-height: 1.1; }
+    .hz-lp-stat-label { color: #e5e7eb; margin-top: 4px; font-size: 13px; font-weight: 600; }
+
+    .step-label { margin: 0 0 12px; color: var(--orange); font-size: 13px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; }
+    .dots { display: flex; gap: 8px; margin: 0 0 16px; }
+    .dots i { width: 36px; height: 4px; border-radius: 999px; background: #e6eef1; display: block; }
+    .dots i.on { background: var(--orange); }
+    fieldset.step { margin: 0; padding: 0; border: 0; min-width: 0; }
+    .field { margin-top: 14px; }
+    .field:first-child { margin-top: 0; }
+    legend, .lbl { display: block; margin: 0 0 6px; color: var(--ink); font-size: 14px; font-weight: 700; }
+    .req { color: var(--orange); }
+    .opt { font-weight: 500; color: var(--slate); }
+    input[type=text], input[type=email], input[type=tel], select, textarea {
+      display: block; width: 100%; min-height: 48px; margin: 0; padding: 12px 14px;
+      border: 1.5px solid #d5dee3; border-radius: 10px; background: #fff; color: #111827;
+      font-size: 16px; line-height: 1.4;
+    }
+    textarea { min-height: 110px; resize: vertical; }
+    input:focus, select:focus, textarea:focus { border-color: var(--orange); outline: 3px solid rgba(230,125,0,.18); outline-offset: 0; }
+    .choices { display: flex; gap: 8px; }
+    .choice {
+      flex: 1; display: flex; align-items: center; gap: 8px; min-height: 48px; margin: 0; padding: 10px 12px;
+      border: 1.5px solid #d5dee3; border-radius: 10px; font-weight: 600; color: var(--ink); cursor: pointer;
+    }
+    .choice:has(input:checked) { border-color: var(--orange); background: #fff5e8; }
+    .choice input { width: 18px; height: 18px; margin: 0; accent-color: var(--orange); }
+    .drop {
+      display: flex; flex-wrap: wrap; align-items: center; gap: 10px 14px; padding: 14px;
+      border: 1.5px dashed #d5dee3; border-radius: 10px; background: #f7fafb;
     }
     .filebtn {
-      display: inline-flex;
-      align-items: center;
-      min-height: 44px;
-      padding: 9px 16px;
-      border: 2px solid var(--ink);
-      border-radius: 10px;
-      background: #fff;
-      color: var(--ink);
-      font-size: 15px;
-      font-weight: 700;
-      cursor: pointer;
+      display: inline-flex; align-items: center; min-height: 44px; padding: 9px 16px;
+      border: 2px solid var(--ink); border-radius: 10px; background: #fff; color: var(--ink);
+      font-size: 15px; font-weight: 700; cursor: pointer;
     }
-    .filebtn:hover { background: var(--ok-bg); }
     input[type=file] { position: absolute; width: 1px; height: 1px; opacity: 0; }
-    input[type=file]:focus-visible + .filebtn { outline: 3px solid rgba(230, 125, 0, .35); outline-offset: 2px; }
-    .filemsg { font-size: 14px; color: var(--muted); }
-    .filemsg.ok { color: var(--ok); font-weight: 600; }
-    .filemsg.err { color: var(--err); font-weight: 600; }
-    .linkish {
-      border: 0;
-      background: none;
-      color: var(--err);
-      font: inherit;
-      font-size: 14px;
-      text-decoration: underline;
-      cursor: pointer;
-      padding: 8px 0;
+    input[type=file]:focus-visible + .filebtn { outline: 3px solid rgba(230,125,0,.35); outline-offset: 2px; }
+    .filemsg { font-size: 14px; color: var(--slate); }
+    .filemsg.ok { color: #1f6f43; font-weight: 600; }
+    .filemsg.err { color: #9b2c1c; font-weight: 600; }
+    .linkish { border: 0; background: none; color: #9b2c1c; font-size: 14px; text-decoration: underline; cursor: pointer; padding: 8px 0; }
+    .check { display: flex; align-items: flex-start; gap: 10px; margin-top: 16px; font-weight: 600; color: var(--ink); font-size: 15px; }
+    .check input { width: 22px; height: 22px; margin-top: 1px; flex: none; accent-color: var(--orange); }
+    .turnstile { margin-top: 14px; min-height: 0; }
+    .step-nav { display: flex; gap: 10px; margin-top: 16px; }
+    .send, .next {
+      flex: 1; min-height: 52px; padding: 14px 18px; border: 0; border-radius: 12px;
+      background: #ff8b00; color: #fff; font-size: 18px; font-weight: 700; cursor: pointer;
     }
-    .check {
-      display: flex;
-      align-items: flex-start;
-      gap: 10px;
-      margin-top: 18px;
-      font-weight: 600;
-      color: var(--ink);
-    }
-    .check input { width: 22px; height: 22px; margin-top: 1px; flex: none; accent-color: var(--orange-deep); }
-    .turnstile { margin-top: 16px; min-height: 8px; }
-    .send {
-      display: block;
-      width: 100%;
-      margin-top: 18px;
-      padding: 14px 18px;
-      border: 0;
-      border-radius: 12px;
-      background: var(--orange);
-      color: #fff;
-      font: inherit;
-      font-size: 18px;
-      font-weight: 700;
-      cursor: pointer;
-    }
-    .send:hover, .send:focus-visible { filter: brightness(1.06); }
+    .send:hover, .next:hover, .send:focus-visible, .next:focus-visible { filter: brightness(1.05); }
     .send:disabled { opacity: .65; cursor: wait; }
-    .banner {
-      margin-top: 14px;
-      padding: 12px 14px;
-      border-radius: 10px;
-      background: var(--err-bg);
-      color: var(--err);
-      font-weight: 600;
+    .back {
+      min-height: 52px; padding: 14px 16px; border-radius: 12px; border: 1.5px solid #d5dee3;
+      background: #fff; color: var(--ink); font-size: 16px; font-weight: 700; cursor: pointer;
     }
-    .banner a { color: var(--err); }
-    .success {
-      background: var(--ok-bg);
-      color: var(--ink);
-      border-radius: 16px;
-      padding: 24px 18px;
-      font-size: 17px;
-      font-weight: 600;
+    .banner { margin-top: 14px; padding: 12px 14px; border-radius: 10px; background: #fdecea; color: #9b2c1c; font-weight: 600; }
+    .banner a { color: #9b2c1c; }
+    .fine { margin: 12px 0 0; color: var(--slate); font-size: 13px; line-height: 1.5; }
+    .fine a { color: var(--ink); font-weight: 700; }
+    .hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+
+    .hz-warranty { background: var(--orange); padding: 16px 24px; }
+    .hz-warranty-inner { color: #fff; text-align: center; display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; align-items: center; }
+    .hz-warranty-text { font-size: 18px; font-weight: 700; }
+    .hz-warranty-link { color: #fff; font-weight: 600; text-decoration: underline; }
+
+    .hz-section { padding: 80px 24px; }
+    .hz-bg-white { background: #fdf4e7; }
+    .hz-bg-light { background: #e6f0f3; }
+    .hz-bg-plain { background: #fff; }
+    .hz-container { max-width: 1120px; margin: 0 auto; }
+    .hz-head { text-align: center; margin-bottom: 48px; }
+    .hz-h2 { color: var(--ink); margin: 0 0 16px; font-size: 40px; font-weight: 800; line-height: 1.15; }
+    .hz-lead { color: var(--slate); max-width: 640px; margin: 0 auto; font-size: 18px; line-height: 1.6; }
+    .hz-grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 32px; }
+    .hz-grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+    .hz-card { text-align: center; background: #fff; border-radius: 16px; padding: 32px 28px; box-shadow: 0 10px 25px rgba(0,0,0,.08); }
+    .hz-card.left { text-align: left; }
+    .hz-icon-circle {
+      background: #fff5e6; border-radius: 999px; width: 64px; height: 64px; margin-bottom: 16px;
+      font-size: 28px; display: inline-flex; align-items: center; justify-content: center;
     }
-    .success:focus { outline: 3px solid rgba(0, 56, 72, .28); outline-offset: 3px; }
-    .success p { margin: 8px 0 0; font-weight: 500; }
-    .fine { margin: 14px 0 0; color: var(--muted); font-size: 13px; }
-    .foot {
-      margin-top: 22px;
-      color: var(--muted);
-      font-size: 14px;
+    .hz-h3 { color: #111827; margin: 0 0 12px; font-size: 20px; font-weight: 800; line-height: 1.3; }
+    .hz-body { color: var(--slate); margin: 0; font-size: 16px; line-height: 1.6; }
+    .role-link {
+      display: inline-block; margin-top: 18px; color: #fff; background: var(--ink); border-radius: 12px;
+      padding: 12px 18px; font-weight: 700; text-decoration: none;
     }
-    .foot a { font-weight: 700; }
-    .hp {
-      position: absolute;
-      left: -9999px;
-      width: 1px;
-      height: 1px;
-      overflow: hidden;
+    .role-link:hover { background: var(--orange); }
+    .hz-installs { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 16px; }
+    .hz-gal-item { aspect-ratio: 4 / 3; background: var(--night); border-radius: 12px; display: block; overflow: hidden; }
+    .hz-gal-img { object-fit: cover; width: 100%; height: 100%; display: block; }
+    .hz-gw-faq { max-width: 780px; margin: 0 auto; }
+    .hz-gw-q { border-bottom: 1px solid #d5dee3; padding: 18px 0; }
+    .hz-gw-qh { margin: 0 0 6px; color: var(--ink); font-size: 18px; font-weight: 800; }
+    .hz-bg-dark { color: #fff; background: var(--ink); }
+    .hz-narrow { text-align: center; max-width: 760px; margin: 0 auto; }
+    .hz-pill-dark { color: #fff; background: rgba(255,255,255,.12); border-radius: 999px; margin-bottom: 24px; padding: 8px 16px; font-size: 14px; font-weight: 600; display: inline-block; }
+    .hz-h2-light { color: #fff; margin: 0 0 16px; font-size: 40px; font-weight: 800; line-height: 1.15; }
+    .hz-lead-light { color: #d1d5db; max-width: 560px; margin: 0 auto 32px; font-size: 18px; line-height: 1.6; }
+    .hz-btn-big {
+      color: #fff; background: #ff8b00; border-radius: 12px; padding: 16px 32px;
+      font-size: 18px; font-weight: 700; text-decoration: none; display: inline-block;
     }
-    @media (min-width: 720px) {
-      h1 { font-size: 42px; }
-      .card { padding: 12px 28px 28px; }
+    .hz-btn-big:hover { filter: brightness(1.05); }
+    .hz-note { color: #9ca3af; margin-top: 24px; font-size: 14px; }
+    .hz-lp-foot { text-align: center; background: var(--footer); padding: 28px 24px 32px; }
+    .hz-lp-foot a { color: #fff; font-weight: 700; text-decoration: none; }
+    .hz-lp-foot a:hover { color: var(--amber); }
+    .hz-foot-links { display: flex; flex-wrap: wrap; gap: 8px 18px; justify-content: center; margin: 0 0 12px; color: #fff; font-size: 15px; }
+    .hz-lp-foot-text { color: #9ca3af; margin: 0; font-size: 13px; line-height: 1.5; }
+
+    .hz-ty {
+      position: fixed; inset: 0; z-index: 40; overflow: auto;
+      background: var(--night);
+      display: flex; justify-content: center; align-items: center;
+      padding: 48px 24px;
     }
-    @media (max-width: 380px) {
-      .brand-name { font-size: 16px; letter-spacing: .16em; }
-      .brand-tag { letter-spacing: .12em; }
-      .call { padding: 8px 10px; font-size: 13px; }
-      h1 { font-size: 30px; }
+    #success[hidden] { display: none !important; }
+    .hz-ty-card {
+      text-align: center; background: #fff; border-radius: 20px; width: 100%; max-width: 560px;
+      padding: 40px 32px; box-shadow: 0 24px 48px rgba(0,0,0,.35);
+    }
+    .hz-ty-check {
+      color: #fff; background: var(--orange); border-radius: 999px; width: 64px; height: 64px;
+      margin-bottom: 20px; font-size: 34px; font-weight: 800; line-height: 64px; display: inline-block;
+    }
+    .hz-ty-title { color: var(--ink); margin: 0 0 16px; font-size: 32px; font-weight: 800; line-height: 1.2; }
+    .hz-ty-text { color: var(--slate); margin: 0 0 16px; font-size: 17px; line-height: 1.6; }
+    #success-extra:empty { display: none; }
+    .hz-ty:focus { outline: none; }
+    .hz-ty-btn {
+      color: #fff; background: var(--ink); border-radius: 12px; margin-top: 8px; padding: 14px 28px;
+      font-size: 17px; font-weight: 700; text-decoration: none; display: inline-block;
+    }
+
+    @media (max-width: 991px) {
+      .hz-grid-3, .hz-grid-2, .hz-lp-hero { grid-template-columns: 1fr; }
+      .hz-lp-copy { text-align: center; grid-area: auto; order: 1; }
+      .hz-lp-stats { grid-area: auto; order: 2; justify-content: center; margin-top: 8px; }
+      .hz-lp-card { grid-area: auto; order: 3; }
+      .hz-lp-stat { text-align: center; }
+      .hz-installs { grid-template-columns: 1fr 1fr; }
+      .hz-lp-title { font-size: 40px; }
+    }
+    @media (max-width: 767px) {
+      .hz-section { padding: 56px 16px; }
+      .hz-h2, .hz-h2-light { font-size: 30px; }
+      .hz-hero { padding: 96px 16px 48px; }
+      .hz-lp-pill { margin-bottom: 14px; font-size: 12px; }
+      .hz-lp-title { margin-bottom: 14px; font-size: 34px; }
+      .hz-lp-sub { font-size: 17px; }
+      .hz-head { margin-bottom: 28px; }
+    }
+    @media (max-width: 479px) {
+      .hz-lpbar { padding: 14px 16px; }
+      .hz-lpbar-brand span { display: none; }
+      .hz-lpbar-call { font-size: 14px; padding: 9px 14px; }
+      .hz-lp-card { padding: 22px 16px 16px; }
+      .hz-lp-card-title { font-size: 23px; }
+      .hz-ty-card { padding: 32px 20px; }
+      .hz-ty-title { font-size: 26px; }
+      .hz-installs { grid-template-columns: 1fr 1fr; }
     }
   </style>
 </head>
 <body>
-  <header class="top">
-    <div class="top-inner">
-      <a class="brand" href="https://www.horizon-exteriors.com/">
-        <img src="https://cdn.prod.website-files.com/6ac68bdcfb75b2b6e4ab4863/6acfd432dcd6caa749281979_hz-logo-badge.webp" width="46" height="46" alt="">
-        <span class="brand-text">
-          <span class="brand-name">Horizon</span>
-          <span class="brand-tag">Exterior Lighting</span>
-        </span>
-      </a>
-      <a class="call" href="tel:+15878406410">Call 587-840-6410</a>
+  <section class="hz-ty" id="success" hidden tabindex="-1">
+    <div class="hz-ty-card">
+      <div class="hz-ty-check" aria-hidden="true">✓</div>
+      <h2 class="hz-ty-title">Thanks! Your application is in.</h2>
+      <p class="hz-ty-text">We'll be in touch about next steps.</p>
+      <p class="hz-ty-text" id="success-extra"></p>
+      <a class="hz-ty-btn" href="tel:+15878406410">Call 587-840-6410</a>
     </div>
+  </section>
+
+  <header class="hz-lpbar">
+    <a class="hz-lpbar-brand" href="https://www.horizon-exteriors.com/">
+      <img src="https://cdn.prod.website-files.com/6ac68bdcfb75b2b6e4ab4863/6ac6f8c192d9e7b0d2053bb3_logo_256.png" alt="" width="40" height="40">
+      <span>HORIZON</span>
+    </a>
+    <a class="hz-lpbar-call" href="tel:+15878406410">Call 587-840-6410</a>
   </header>
-  <main class="wrap">
-    <h1>Join the Horizon Crew</h1>
-    <p class="lede">Horizon is hiring permanent lighting installers and sales reps in Edmonton and area.</p>
-    <p class="where">Edmonton, Sherwood Park, St. Albert, Leduc, and nearby. About two minutes, no account needed.</p>
 
-    <div class="success" id="success" hidden tabindex="-1">
-      <div>Thanks! Your application is in. We'll be in touch about next steps.</div>
-      <p id="success-extra"></p>
+  <section class="hz-hero">
+    <div class="hz-hero-overlay"></div>
+    <div class="hz-lp-hero">
+      <div class="hz-lp-copy">
+        <div class="hz-lp-pill">Now Hiring · Edmonton &amp; Area</div>
+        <h1 class="hz-lp-title">Join the Horizon Crew</h1>
+        <p class="hz-lp-sub">We're hiring permanent lighting installers and sales reps in Edmonton and area. Tell us a bit about yourself. It takes about two minutes, and you don't need an account.</p>
+      </div>
+      <form class="hz-lp-card" id="apply-form" novalidate>
+        <h2 class="hz-lp-card-title">Apply now</h2>
+        <p class="hz-lp-card-sub">About two minutes. No account needed.</p>
+        <p class="step-label" id="step-label">Step 1 of 3 · About you</p>
+        <div class="dots" aria-hidden="true"><i class="on"></i><i></i><i></i></div>
+        <div class="hp" aria-hidden="true">
+          <label for="website">Website</label>
+          <input type="text" id="website" name="website" tabindex="-1" autocomplete="off">
+        </div>
+
+        <fieldset class="step" data-step="1">
+          <div class="field">
+            <label class="lbl" for="applicant-name">Full name <span class="req">*</span></label>
+            <input id="applicant-name" name="Full-name" data-name="Full name" type="text" autocomplete="name" maxlength="256" required placeholder="First and last name">
+          </div>
+          <div class="field">
+            <label class="lbl" for="applicant-email">Email <span class="req">*</span></label>
+            <input id="applicant-email" name="email" data-name="Email" type="email" autocomplete="email" maxlength="256" required placeholder="you@example.com" inputmode="email">
+          </div>
+          <div class="field">
+            <label class="lbl" for="applicant-phone">Phone <span class="req">*</span></label>
+            <input id="applicant-phone" name="Phone" data-name="Phone" type="tel" autocomplete="tel" maxlength="256" required placeholder="780-555-0123" inputmode="tel">
+          </div>
+          <div class="field">
+            <label class="lbl" for="applicant-city">City <span class="req">*</span></label>
+            <input id="applicant-city" name="City" data-name="City" type="text" autocomplete="address-level2" maxlength="120" required placeholder="Edmonton">
+          </div>
+        </fieldset>
+
+        <fieldset class="step" data-step="2" hidden>
+          <div class="field">
+            <label class="lbl" for="applicant-role">Which role? <span class="req">*</span></label>
+            <select id="applicant-role" name="Role" data-name="Role" required>
+              <option value="">Choose a role</option>
+              <option value="Installer">Installer</option>
+              <option value="Sales Representative">Sales Representative</option>
+            </select>
+          </div>
+          <div class="field">
+            <label class="lbl" for="applicant-start">When could you start? <span class="req">*</span></label>
+            <input id="applicant-start" name="Start-availability" data-name="Start availability" type="text" maxlength="256" required placeholder="As soon as possible, in two weeks, after a current job ends">
+          </div>
+          <fieldset class="field">
+            <legend>Valid driver's licence and a reliable vehicle? <span class="req">*</span></legend>
+            <div class="choices">
+              <label class="choice"><input type="radio" name="Drivers-licence-and-vehicle" data-name="Drivers licence and vehicle" value="Yes" required> Yes</label>
+              <label class="choice"><input type="radio" name="Drivers-licence-and-vehicle" data-name="Drivers licence and vehicle" value="No"> No</label>
+            </div>
+          </fieldset>
+          <div class="field">
+            <label class="lbl" for="applicant-heights">Comfortable on ladders, lifts, and at heights? <span class="req">*</span></label>
+            <select id="applicant-heights" name="Comfort-at-heights" data-name="Comfort at heights" required>
+              <option value="">Choose one</option>
+              <option value="Yes">Yes</option>
+              <option value="Some experience">Some experience</option>
+              <option value="No">No</option>
+            </select>
+          </div>
+        </fieldset>
+
+        <fieldset class="step" data-step="3" hidden>
+          <div class="field">
+            <label class="lbl" for="applicant-experience">Your experience <span class="req">*</span></label>
+            <textarea id="applicant-experience" name="Experience" data-name="Experience" maxlength="5000" required placeholder="Heights work, low-voltage wiring, sales, or anything else we should know."></textarea>
+          </div>
+          <div class="field">
+            <label class="lbl" for="applicant-why">Why Horizon <span class="opt">(optional)</span></label>
+            <textarea id="applicant-why" name="Why-Horizon" data-name="Why Horizon" maxlength="2000" placeholder="What made you want to apply?"></textarea>
+          </div>
+          <div class="field">
+            <label class="lbl" for="hzr-file">Resume <span class="opt">(optional)</span></label>
+            <div class="drop">
+              <input type="file" id="hzr-file" accept=".pdf,.doc,.docx,.rtf,.odt,.txt,.jpg,.jpeg,.png,.heic,.heif,application/pdf,image/*">
+              <label class="filebtn" for="hzr-file">Choose file</label>
+              <span class="filemsg" id="hzr-msg" aria-live="polite">PDF, Word, or a photo of it, up to 10 MB</span>
+              <button type="button" class="linkish" id="hzr-x" hidden>Remove</button>
+            </div>
+            <input type="hidden" name="Resume" data-name="Resume" id="hzr-link" value="">
+          </div>
+          <label class="check">
+            <input type="checkbox" id="applicant-consent" name="Consent" data-name="Consent" value="Yes" required>
+            <span>I agree to Horizon contacting me about this application by phone, text, or email. <span class="req">*</span></span>
+          </label>
+        </fieldset>
+
+        <div class="turnstile" id="turnstile"></div>
+        <div class="banner" id="fail" hidden role="alert" tabindex="-1"></div>
+        <div class="step-nav">
+          <button type="button" class="back" id="step-back" hidden>Back</button>
+          <button type="button" class="next" id="step-next">Continue</button>
+          <button class="send" type="submit" id="send" data-wait="Sending..." hidden>Send my application</button>
+        </div>
+        <p class="fine">Same application inbox as the <a href="https://www.horizon-exteriors.com/careers#apply">careers page</a>.</p>
+      </form>
+      <div class="hz-lp-stats">
+        <div class="hz-lp-stat"><div class="hz-lp-stat-num">500+</div><div class="hz-lp-stat-label">Installs</div></div>
+        <div class="hz-lp-stat"><div class="hz-lp-stat-num">5.0★</div><div class="hz-lp-stat-label">Google rating</div></div>
+        <div class="hz-lp-stat"><div class="hz-lp-stat-num">130+</div><div class="hz-lp-stat-label">Reviews</div></div>
+      </div>
     </div>
+  </section>
 
-    <form class="card" id="apply-form" novalidate>
-      <div class="hp" aria-hidden="true">
-        <label for="website">Website</label>
-        <input type="text" id="website" name="website" tabindex="-1" autocomplete="off">
-      </div>
+  <section class="hz-warranty">
+    <div class="hz-warranty-inner">
+      <div class="hz-warranty-text">Installers and sales reps · Edmonton and area</div>
+      <a href="#apply-form" class="hz-warranty-link">Apply now →</a>
+    </div>
+  </section>
 
-      <div class="field">
-        <label class="lbl" for="applicant-name">Full name <span class="req">*</span></label>
-        <input id="applicant-name" name="Full-name" data-name="Full name" type="text" autocomplete="name" maxlength="256" required placeholder="First and last name">
+  <section class="hz-section hz-bg-white">
+    <div class="hz-container">
+      <div class="hz-head">
+        <h2 class="hz-h2">Why work at Horizon</h2>
+        <p class="hz-lead">A local crew putting permanent lighting on homes around Edmonton.</p>
       </div>
-      <div class="field">
-        <label class="lbl" for="applicant-email">Email <span class="req">*</span></label>
-        <input id="applicant-email" name="email" data-name="Email" type="email" autocomplete="email" maxlength="256" required placeholder="you@example.com" inputmode="email">
-      </div>
-      <div class="field">
-        <label class="lbl" for="applicant-phone">Phone <span class="req">*</span></label>
-        <input id="applicant-phone" name="Phone" data-name="Phone" type="tel" autocomplete="tel" maxlength="256" required placeholder="780-555-0123" inputmode="tel">
-      </div>
-      <div class="field">
-        <label class="lbl" for="applicant-city">City <span class="req">*</span></label>
-        <input id="applicant-city" name="City" data-name="City" type="text" autocomplete="address-level2" maxlength="120" required placeholder="Edmonton">
-      </div>
-      <div class="field">
-        <label class="lbl" for="applicant-role">Which role? <span class="req">*</span></label>
-        <select id="applicant-role" name="Role" data-name="Role" required>
-          <option value="">Choose a role</option>
-          <option value="Installer">Installer</option>
-          <option value="Sales Representative">Sales Representative</option>
-        </select>
-      </div>
-      <div class="field">
-        <label class="lbl" for="applicant-start">When could you start? <span class="req">*</span></label>
-        <input id="applicant-start" name="Start-availability" data-name="Start availability" type="text" maxlength="256" required placeholder="As soon as possible, in two weeks, after a current job ends">
-      </div>
-
-      <fieldset>
-        <legend>Valid driver's licence and a reliable vehicle? <span class="req">*</span></legend>
-        <div class="choices">
-          <label class="choice"><input type="radio" name="Drivers-licence-and-vehicle" data-name="Drivers licence and vehicle" value="Yes" required> Yes</label>
-          <label class="choice"><input type="radio" name="Drivers-licence-and-vehicle" data-name="Drivers licence and vehicle" value="No"> No</label>
+      <div class="hz-grid-3">
+        <div class="hz-card">
+          <div class="hz-icon-circle" aria-hidden="true">🏠</div>
+          <h3 class="hz-h3">Real homes</h3>
+          <p class="hz-body">The work is on houses in Edmonton and the surrounding area, from the first visit through a finished roofline.</p>
         </div>
-      </fieldset>
-
-      <div class="field">
-        <label class="lbl" for="applicant-heights">Comfortable on ladders, lifts, and at heights? <span class="req">*</span></label>
-        <select id="applicant-heights" name="Comfort-at-heights" data-name="Comfort at heights" required>
-          <option value="">Choose one</option>
-          <option value="Yes">Yes</option>
-          <option value="Some experience">Some experience</option>
-          <option value="No">No</option>
-        </select>
-      </div>
-
-      <div class="field">
-        <label class="lbl" for="applicant-experience">Your experience <span class="req">*</span></label>
-        <textarea id="applicant-experience" name="Experience" data-name="Experience" maxlength="5000" required placeholder="Heights work, low-voltage wiring, sales, or anything else we should know."></textarea>
-      </div>
-      <div class="field">
-        <label class="lbl" for="applicant-why">Why Horizon <span class="opt">(optional)</span></label>
-        <textarea id="applicant-why" name="Why-Horizon" data-name="Why Horizon" maxlength="2000" placeholder="What made you want to apply?"></textarea>
-      </div>
-
-      <div class="field">
-        <label class="lbl" for="hzr-file">Resume <span class="opt">(optional)</span></label>
-        <div class="drop">
-          <input type="file" id="hzr-file" accept=".pdf,.doc,.docx,.rtf,.odt,.txt,.jpg,.jpeg,.png,.heic,.heif,application/pdf,image/*">
-          <label class="filebtn" for="hzr-file">Choose file</label>
-          <span class="filemsg" id="hzr-msg" aria-live="polite">PDF, Word, or a photo of it, up to 10 MB</span>
-          <button type="button" class="linkish" id="hzr-x" hidden>Remove</button>
+        <div class="hz-card">
+          <div class="hz-icon-circle" aria-hidden="true">🪜</div>
+          <h3 class="hz-h3">Hands-on days</h3>
+          <p class="hz-body">Installers are on ladders and lifts. Sales reps are talking with homeowners about permanent lights for their house.</p>
         </div>
-        <input type="hidden" name="Resume" data-name="Resume" id="hzr-link" value="">
+        <div class="hz-card">
+          <div class="hz-icon-circle" aria-hidden="true">👋</div>
+          <h3 class="hz-h3">A local crew</h3>
+          <p class="hz-body">You'd be joining the Edmonton team. Apply here and we'll be in touch about next steps.</p>
+        </div>
       </div>
+    </div>
+  </section>
 
-      <label class="check">
-        <input type="checkbox" id="applicant-consent" name="Consent" data-name="Consent" value="Yes" required>
-        <span>I agree to Horizon contacting me about this application by phone, text, or email. <span class="req">*</span></span>
-      </label>
+  <section class="hz-section hz-bg-light" id="roles">
+    <div class="hz-container">
+      <div class="hz-head">
+        <h2 class="hz-h2">Two roles</h2>
+        <p class="hz-lead">Pick the one you want on the form. Heights or low-voltage experience is a plus for installers.</p>
+      </div>
+      <div class="hz-grid-2">
+        <article class="hz-card left">
+          <h3 class="hz-h3">Installer</h3>
+          <p class="hz-body">Install permanent lighting on homes around Edmonton. Fit the track along the roofline, work from ladders and lifts, run the low-voltage wiring, and leave the site clean.</p>
+          <a class="role-link" href="#apply-form" data-apply-role="Installer">Apply as an installer</a>
+        </article>
+        <article class="hz-card left">
+          <h3 class="hz-h3">Sales Representative</h3>
+          <p class="hz-body">Talk with homeowners at the door and in their homes. Show them what permanent lights look like on their house, and help them choose a system.</p>
+          <a class="role-link" href="#apply-form" data-apply-role="Sales Representative">Apply for sales</a>
+        </article>
+      </div>
+    </div>
+  </section>
 
-      <div class="turnstile" id="turnstile"></div>
-      <button class="send" type="submit" id="send" data-wait="Sending...">Send my application</button>
-      <div class="banner" id="fail" hidden role="alert" tabindex="-1"></div>
-      <p class="fine">Same application inbox as the <a href="https://www.horizon-exteriors.com/careers#apply">careers page</a>. Questions? Call <a href="tel:+15878406410">587-840-6410</a> or email <a href="mailto:info@horizon-exteriors.com">info@horizon-exteriors.com</a>.</p>
-    </form>
+  <section class="hz-section hz-bg-plain">
+    <div class="hz-container">
+      <div class="hz-head">
+        <h2 class="hz-h2">How hiring works</h2>
+        <p class="hz-lead">Three steps from this page to a conversation.</p>
+      </div>
+      <div class="hz-grid-3">
+        <div class="hz-card">
+          <div class="hz-icon-circle" aria-hidden="true">1</div>
+          <h3 class="hz-h3">Apply</h3>
+          <p class="hz-body">Send the form. It takes about two minutes, and you don't need an account.</p>
+        </div>
+        <div class="hz-card">
+          <div class="hz-icon-circle" aria-hidden="true">2</div>
+          <h3 class="hz-h3">Quick call</h3>
+          <p class="hz-body">If we want to talk, we'll call you about the role and your experience.</p>
+        </div>
+        <div class="hz-card">
+          <div class="hz-icon-circle" aria-hidden="true">3</div>
+          <h3 class="hz-h3">Ride-along or a start</h3>
+          <p class="hz-body">If it's a fit, we'll set up a ride-along or talk about a start date.</p>
+        </div>
+      </div>
+    </div>
+  </section>
 
-    <p class="foot">Horizon Exterior Lighting · #9 209 St NW, Edmonton, AB T5T 5X5</p>
-  </main>
+  <section class="hz-section hz-bg-white">
+    <div class="hz-container">
+      <div class="hz-head">
+        <h2 class="hz-h2">Recent installs</h2>
+        <p class="hz-lead">Homes across the Edmonton area.</p>
+      </div>
+      <div class="hz-installs">
+        <div class="hz-gal-item"><img class="hz-gal-img" src="https://cdn.prod.website-files.com/6ac68bdcfb75b2b6e4ab4863/6ac6f8c08c6212525888ab59_DJI_20260505215231_0016_D.webp" alt="Aerial view of permanent lighting on a home in Edmonton" width="800" height="600" loading="lazy"></div>
+        <div class="hz-gal-item"><img class="hz-gal-img" src="https://cdn.prod.website-files.com/6ac68bdcfb75b2b6e4ab4863/6ac6f8c094ee58aa9bc58a85_DJI_20260505214545_0012_D.webp" alt="Roofline lighting on a home in Sherwood Park" width="800" height="600" loading="lazy"></div>
+        <div class="hz-gal-item"><img class="hz-gal-img" src="https://cdn.prod.website-files.com/6ac68bdcfb75b2b6e4ab4863/6ac6f8c0af590aba9d49db03_DJI_20260505214450_0008_D.webp" alt="Permanent lighting on a home in St. Albert" width="800" height="600" loading="lazy"></div>
+        <div class="hz-gal-item"><img class="hz-gal-img" src="https://cdn.prod.website-files.com/6ac68bdcfb75b2b6e4ab4863/6ac6f8bf3671af7ee29f84da_DJI_20250701011131_0130_D.webp" alt="Permanent lighting on a home in Leduc" width="800" height="600" loading="lazy"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="hz-section hz-bg-light">
+    <div class="hz-container">
+      <div class="hz-head"><h2 class="hz-h2">Questions</h2></div>
+      <div class="hz-gw-faq">
+        <div class="hz-gw-q">
+          <h3 class="hz-gw-qh">Which roles are open?</h3>
+          <p class="hz-body">Installer and Sales Representative, for work in Edmonton and area.</p>
+        </div>
+        <div class="hz-gw-q">
+          <h3 class="hz-gw-qh">Do I need an account?</h3>
+          <p class="hz-body">No. Fill in the form on this page and send it.</p>
+        </div>
+        <div class="hz-gw-q">
+          <h3 class="hz-gw-qh">What happens after I apply?</h3>
+          <p class="hz-body">We'll get in touch about next steps. A usual next step is a short call.</p>
+        </div>
+        <div class="hz-gw-q">
+          <h3 class="hz-gw-qh">Do I need a resume?</h3>
+          <p class="hz-body">No. If you add one and it doesn't attach, email it to info@horizon-exteriors.com and include your name.</p>
+        </div>
+        <div class="hz-gw-q">
+          <h3 class="hz-gw-qh">Do I need a driver's licence?</h3>
+          <p class="hz-body">The form asks whether you have a valid driver's licence and a reliable vehicle. Answer yes or no.</p>
+        </div>
+        <div class="hz-gw-q">
+          <h3 class="hz-gw-qh">What if heights aren't my strong suit?</h3>
+          <p class="hz-body">Say so on the form. We still want to hear from you.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="hz-section hz-bg-dark">
+    <div class="hz-narrow">
+      <div class="hz-pill-dark">Edmonton &amp; area</div>
+      <h2 class="hz-h2-light">Ready to join the crew?</h2>
+      <p class="hz-lead-light">Installers and sales reps. About two minutes, no account needed.</p>
+      <a class="hz-btn-big" href="#apply-form">Apply now</a>
+      <div class="hz-note">Questions? Call 587-840-6410.</div>
+    </div>
+  </section>
+
+  <footer class="hz-lp-foot">
+    <p class="hz-foot-links">
+      <a href="tel:+15878406410">587-840-6410</a>
+      <a href="mailto:info@horizon-exteriors.com">info@horizon-exteriors.com</a>
+      <span>#9 209 St NW, Edmonton, AB</span>
+    </p>
+    <p class="hz-lp-foot-text">© 2026 Horizon Exterior Lighting · Edmonton, Alberta</p>
+  </footer>
+
   <noscript>
     <p style="max-width:720px;margin:16px auto;padding:0 16px">This form needs JavaScript. You can apply at <a href="https://www.horizon-exteriors.com/careers#apply">horizon-exteriors.com/careers</a> or call 587-840-6410.</p>
   </noscript>
@@ -663,6 +844,77 @@
         showFail("Something went wrong sending your application. Please try again, or call <a href=\"tel:+15878406410\">587-840-6410</a>.");
       });
     });
+
+    /* Step chrome only. The submit handler above is unchanged. */
+    var stepNames = ["About you", "The role", "Your experience"];
+    var currentStep = 1;
+    var stepNodes = Array.prototype.slice.call(form.querySelectorAll("fieldset.step"));
+    var nextBtn = document.getElementById("step-next");
+    var backBtn = document.getElementById("step-back");
+    var dots = form.querySelectorAll(".dots i");
+    function showStep(n) {
+      currentStep = n;
+      stepNodes.forEach(function (node) {
+        node.hidden = Number(node.getAttribute("data-step")) !== n;
+      });
+      dots.forEach(function (dot, i) { dot.className = i < n ? "on" : ""; });
+      document.getElementById("step-label").textContent = "Step " + n + " of 3 · " + stepNames[n - 1];
+      backBtn.hidden = n === 1;
+      nextBtn.hidden = n === 3;
+      sendBtn.hidden = n !== 3;
+      fail.hidden = true;
+    }
+    function stepValid(n) {
+      var node = form.querySelector('fieldset.step[data-step="' + n + '"]');
+      var fields = node.querySelectorAll("input, select, textarea");
+      for (var i = 0; i < fields.length; i++) {
+        if (fields[i].type === "hidden" || fields[i].id === "website") continue;
+        if (!fields[i].checkValidity()) {
+          fields[i].reportValidity();
+          return false;
+        }
+      }
+      if (n === 1 && digits(document.getElementById("applicant-phone").value) < 10) {
+        showFail("Enter a phone number we can reach you on, including the area code.");
+        document.getElementById("applicant-phone").focus();
+        return false;
+      }
+      if (n === 2 && !checkedValue("Drivers-licence-and-vehicle")) {
+        showFail("Let us know if you have a valid driver's licence and a reliable vehicle.");
+        return false;
+      }
+      return true;
+    }
+    nextBtn.addEventListener("click", function () {
+      if (stepValid(currentStep)) showStep(currentStep + 1);
+    });
+    backBtn.addEventListener("click", function () { showStep(currentStep - 1); });
+    form.addEventListener("submit", function (event) {
+      if (currentStep < 3) {
+        event.preventDefault();
+        event.stopImmediatePropagation();
+        if (stepValid(currentStep)) showStep(currentStep + 1);
+        return;
+      }
+      stepNodes.forEach(function (node) { node.hidden = false; });
+      var phone = document.getElementById("applicant-phone").value;
+      var bad = form.querySelector(":invalid");
+      if ((phone && digits(phone) < 10 && !bad) || (bad && bad.id === "applicant-phone")) bad = document.getElementById("applicant-phone");
+      if (!checkedValue("Drivers-licence-and-vehicle") && !bad) bad = form.querySelector('input[name="Drivers-licence-and-vehicle"]');
+      if (bad) {
+        var step = bad.closest("fieldset.step");
+        if (step) showStep(Number(step.getAttribute("data-step")));
+      } else {
+        showStep(3);
+      }
+    }, true);
+    Array.prototype.forEach.call(document.querySelectorAll("[data-apply-role]"), function (link) {
+      link.addEventListener("click", function () {
+        document.getElementById("applicant-role").value = link.getAttribute("data-apply-role");
+        showStep(2);
+      });
+    });
+    showStep(1);
   })();
   </script>
 </body>
